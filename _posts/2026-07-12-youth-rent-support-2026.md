@@ -6,7 +6,7 @@ current_as_of: 2026-07-12
 update_cycle: monthly
 source_type: official-and-user-report
 categories: [Policy and Law, How-To and Requirements]
-tags: [youth-rent-support, rent-subsidy, application-guide, korea, 2026]
+tags: [youth-rent-support, rent-subsidy, application-guide, korea, "2026"]
 image:
   path: /assets/img/posts/blog/youth-rent-support-2026/image-1.webp
   alt: "청년이 컴퓨터로 주거지원 신청을 확인하는 단순 일러스트"

@@ -37,6 +37,7 @@
 - 글 주제에 맞는 카테고리와 태그를 직접 선택
 - 카테고리는 아래 후보 중 1~2개를 사용하되, 필요하면 더 적절한 정보 카테고리를 추가 가능
 - 태그는 영어 소문자 kebab-case 위주로 3~6개 작성
+- 연도나 숫자 태그는 반드시 문자열로 작성. 예: "2026"
 - front matter에 `current_as_of`, `update_cycle`, `source_type`을 반드시 포함
 - `update_cycle`은 weekly, monthly, quarterly, yearly 중 하나로 작성
 - `source_type`은 official, official-and-user-report, user-report 중 하나로 작성
@@ -62,7 +63,7 @@ current_as_of: YYYY-MM-DD
 update_cycle: monthly
 source_type: official
 categories: [How-To and Requirements]
-tags: [application, requirements, checklist, 2026]
+tags: [application, requirements, checklist, "2026"]
 image:
   path: /assets/img/posts/blog/english-kebab-case-url-slug/image-1.webp
   alt: "첫 번째 이미지 내용을 설명하는 한국어 대체 텍스트"

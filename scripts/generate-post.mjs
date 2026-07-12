@@ -241,6 +241,48 @@ function upsertFrontMatterBlock(markdown, key, blockLines) {
   return `---\n${nextLines.join("\n")}\n---${markdown.slice(frontMatter[0].length)}`;
 }
 
+function yamlInlineListItems(value) {
+  const match = value.match(/^\s*\[(.*)\]\s*$/);
+
+  if (!match) {
+    return [];
+  }
+
+  return match[1]
+    .split(",")
+    .map((item) => item.trim().replace(/^["']|["']$/g, ""))
+    .filter(Boolean);
+}
+
+function yamlStringList(items) {
+  return `[${items.map(yamlDoubleQuoted).join(", ")}]`;
+}
+
+function normalizeFrontMatterStringList(markdown, key) {
+  const frontMatter = markdown.match(/^---\s*\n([\s\S]*?)\n---/);
+
+  if (!frontMatter) {
+    return markdown;
+  }
+
+  const lines = frontMatter[1].split("\n");
+  const lineIndex = lines.findIndex((line) => line.startsWith(`${key}:`));
+
+  if (lineIndex < 0) {
+    return markdown;
+  }
+
+  const items = yamlInlineListItems(lines[lineIndex].slice(key.length + 1));
+
+  if (!items.length) {
+    return markdown;
+  }
+
+  lines[lineIndex] = `${key}: ${yamlStringList(items)}`;
+
+  return `---\n${lines.join("\n")}\n---${markdown.slice(frontMatter[0].length)}`;
+}
+
 function imageMarkers(markdown) {
   return [...markdown.matchAll(IMAGE_MARKER_PATTERN)]
     .map((match) => Number(match[1]))
@@ -387,6 +429,8 @@ if (!slug) {
 
 const draft = await uniqueDraftPath(slug);
 let outputContent = upsertFrontMatterValue(content, "slug", `"${draft.slug}"`);
+outputContent = normalizeFrontMatterStringList(outputContent, "categories");
+outputContent = normalizeFrontMatterStringList(outputContent, "tags");
 const generatedImages = await generatePostImages(outputContent, draft.slug);
 outputContent = upsertFrontMatterBlock(generatedImages.markdown, "image", [
   "image:",
