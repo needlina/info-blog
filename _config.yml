@@ -1,0 +1,177 @@
+# The Site Configuration
+
+theme: jekyll-theme-chirpy
+
+lang: ko-KR
+timezone: Asia/Seoul
+
+title: 지금 기준
+tagline: 지금 확인해야 하는 생활 정보
+
+description: >-
+  법령, 정책, 요금제, 신청 조건, 서비스 변경처럼 시간이 지나면 달라질 수 있는 생활 정보를 현재 기준으로 정리하는 블로그입니다.
+
+seo_keywords:
+  - 생활 정보
+  - 최신 정보
+  - 정책 변경
+  - 신청 조건
+  - 요금제 변경
+  - 생활 행정
+  - 롱테일 키워드
+
+url: "https://info.henjini.com"
+baseurl: ""
+
+github:
+  username: needlina
+
+twitter:
+  username:
+
+social:
+  name: henjini
+  email: hyunjin.lee.2341@outlook.com
+  links:
+    - https://info.henjini.com
+    - https://github.com/needlina
+    - https://henjini.com
+
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+  baidu:
+  facebook:
+
+analytics:
+  google:
+    id:
+  goatcounter:
+    id: info-henjini
+  umami:
+    id:
+    domain:
+  matomo:
+    id:
+    domain:
+  cloudflare:
+    id:
+  fathom:
+    id:
+
+pageviews:
+  provider: goatcounter
+
+theme_mode:
+
+cdn:
+
+avatar: "/assets/img/sites/avatar.jpg"
+
+social_preview_image: /assets/img/sites/avatar.jpg
+
+toc: true
+
+comments:
+  provider:
+  disqus:
+    comments:
+    shortname:
+  utterances:
+    repo:
+    issue_term:
+  giscus:
+    repo: needlina/info-blog
+    repo_id:
+    category: Announcements
+    category_id:
+    mapping: pathname
+    strict: 0
+    input_position: bottom
+    lang: ko
+    reactions_enabled: 1
+
+assets:
+  self_host:
+    enabled:
+    env:
+
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+    deny_paths:
+
+paginate: 10
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: henjini
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - prompts
+  - scripts
+  - tools
+  - README.md
+  - LICENSE
+  - "*.config.js"
+  - package*.json
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
