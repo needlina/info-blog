@@ -24,7 +24,7 @@ const date = new Intl.DateTimeFormat("en-CA", {
 
 async function readTopicPool() {
   const raw = await fs.readFile(TOPICS_PATH, "utf8");
-  const pool = JSON.parse(raw);
+  const pool = JSON.parse(raw.replace(/^\uFEFF/, ""));
 
   if (!Array.isArray(pool.topics)) {
     throw new Error(`${TOPICS_PATH} must contain a topics array.`);
@@ -41,6 +41,14 @@ async function readTopicPool() {
   return pool;
 }
 
+function topicTitle(item) {
+  if (typeof item === "string") {
+    return item;
+  }
+
+  return String(item?.title ?? item?.keyword ?? "").trim();
+}
+
 function parseJsonArray(text) {
   const withoutFence = text
     .replace(/^```(?:json)?\s*/i, "")
@@ -55,7 +63,11 @@ async function requestNewTopics(previousTopics) {
     model: "gpt-5-mini",
     input: [
       "한국어 생활 정보형 검색 질문 블로그 주제 50개를 JSON 배열로만 작성해라.",
-      "각 항목은 문자열이어야 하고, 마크다운이나 설명 문장은 넣지 마라.",
+      "각 항목은 반드시 객체여야 하며, title, slug, thumbnail 키를 포함해라.",
+      "thumbnail은 title과 subtitle 키를 가진 객체여야 한다.",
+      "slug는 lowercase ASCII kebab-case로 작성하고 80자 이하로 유지해라.",
+      "thumbnail.title은 썸네일에 들어갈 짧은 한국어 제목, thumbnail.subtitle은 썸네일에 들어갈 짧은 한국어 부제목으로 작성해라.",
+      "마크다운이나 설명 문장은 넣지 마라.",
       "주제는 사람들이 실제로 검색할 만한 구체적인 질문형 문장이어야 한다.",
       "법령, 정책, 지원금, 요금제, 환불, 서비스 변경, 신청 조건, 생활 행정, 여행 규칙, 업무/계약 노하우를 고르게 섞어라.",
       "시간이 지나면 바뀔 수 있어 현재 기준 확인이 필요한 주제를 우선해라.",
@@ -71,7 +83,20 @@ async function requestNewTopics(previousTopics) {
     throw new Error("The topic refresh response must be a JSON array with at least 50 items.");
   }
 
-  return topics.slice(0, TOPIC_BATCH_SIZE).map((title) => ({ title }));
+  return topics.slice(0, TOPIC_BATCH_SIZE).map((item) => {
+    if (typeof item === "string") {
+      return { title: item };
+    }
+
+    return {
+      title: String(item.title ?? item.topic ?? "").trim(),
+      slug: String(item.slug ?? "").trim(),
+      thumbnail: {
+        title: String(item.thumbnail?.title ?? item.thumbnailTitle ?? "").trim(),
+        subtitle: String(item.thumbnail?.subtitle ?? item.subtitle ?? "").trim()
+      }
+    };
+  });
 }
 
 function normalizePriorityKeyword(item) {
@@ -102,15 +127,15 @@ async function pickTopic() {
 
     await fs.writeFile(`${TOPICS_PATH}`, `${JSON.stringify(pool, null, 2)}\n`, "utf8");
 
-    return priorityKeyword.keyword;
+    return priorityKeyword;
   }
 
   let topic = pool.topics.find((item) => !item.usedAt);
 
   if (!topic) {
     const previousTopics = [
-      ...pool.priorityKeywords.map((item) => item.keyword),
-      ...pool.topics.map((item) => item.title)
+      ...pool.priorityKeywords.map(topicTitle),
+      ...pool.topics.map(topicTitle)
     ].filter(Boolean);
     pool.generatedAt = new Date().toISOString();
     pool.topics = await requestNewTopics(previousTopics);
@@ -121,10 +146,11 @@ async function pickTopic() {
 
   await fs.writeFile(`${TOPICS_PATH}`, `${JSON.stringify(pool, null, 2)}\n`, "utf8");
 
-  return topic.title;
+  return topic;
 }
 
-const topic = await pickTopic();
+const selectedTopic = await pickTopic();
+const topic = topicTitle(selectedTopic);
 
 const promptTemplate = await fs.readFile(
   path.join("prompts", "info-post.prompt.md"),
@@ -317,7 +343,7 @@ async function writeGitHubOutputs(outputs) {
   await fs.appendFile(process.env.GITHUB_OUTPUT, `${lines.join("\n")}\n`, "utf8");
 }
 
-let slug = sanitizeEnglishSlug(frontMatterValue(content, "slug"));
+let slug = sanitizeEnglishSlug(selectedTopic.slug || frontMatterValue(content, "slug"));
 
 if (!slug) {
   slug = await requestEnglishSlug(content);
