@@ -2,13 +2,14 @@ name: Generate AI Draft
 
 on:
   workflow_dispatch:
-  schedule:
-    # GitHub Actions cron uses UTC. These run at 09:00, 13:00, 17:00, and 21:00 KST.
-    - cron: "0 0,4,8,12 * * *"
 
 permissions:
   contents: write
   pull-requests: write
+
+concurrency:
+  group: ai-draft-info-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   generate-draft:
@@ -54,6 +55,7 @@ jobs:
             - 요약: ${{ steps.draft.outputs.summary }}
             - slug: ${{ steps.draft.outputs.slug }}
             - 초안 파일: ${{ steps.draft.outputs.draft_path }}
+            - 주제 manifest: ${{ steps.draft.outputs.manifest_path }}
 
             검수 항목:
             - 현재 기준일과 바뀔 수 있는 정보가 명확한지 확인

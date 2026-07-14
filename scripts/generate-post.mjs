@@ -5,10 +5,21 @@ import os from "node:os";
 import { spawn } from "node:child_process";
 
 const TOPICS_PATH = path.join("prompts", "info-topics.json");
+const TOPIC_MANIFEST_DIR = path.join("_drafts", ".topic-manifest");
 const TOPIC_BATCH_SIZE = 50;
 const TIME_ZONE = "Asia/Seoul";
 const PUBLIC_POST_IMAGE_ROOT = "/assets/img/posts/blog";
 const THUMBNAIL_OUTPUT_NAME = "preview.png";
+
+function argValue(name) {
+  const index = process.argv.indexOf(name);
+
+  if (index < 0) {
+    return "";
+  }
+
+  return process.argv[index + 1] ?? "";
+}
 
 const apiKey = process.env.OPENAI_API_KEY;
 
@@ -51,6 +62,87 @@ function topicTitle(item) {
   }
 
   return String(item?.title ?? item?.keyword ?? "").trim();
+}
+
+function topicIdentifiers(item) {
+  const slug = String(item?.slug ?? "").trim();
+  const title = topicTitle(item);
+  const keyword = String(item?.keyword ?? "").trim();
+
+  return [
+    slug ? `slug:${slug}` : "",
+    title ? `title:${title}` : "",
+    keyword ? `keyword:${keyword}` : ""
+  ].filter(Boolean);
+}
+
+async function listJsonFiles(dir) {
+  const entries = await fs
+    .readdir(dir, { withFileTypes: true })
+    .catch((error) => {
+      if (error.code === "ENOENT") {
+        return [];
+      }
+
+      throw error;
+    });
+  const files = [];
+
+  for (const entry of entries) {
+    const entryPath = path.join(dir, entry.name);
+
+    if (entry.isDirectory()) {
+      files.push(...(await listJsonFiles(entryPath)));
+    } else if (entry.isFile() && entry.name.endsWith(".json")) {
+      files.push(entryPath);
+    }
+  }
+
+  return files;
+}
+
+async function readUsedTopicIdentifiers() {
+  const files = await listJsonFiles(TOPIC_MANIFEST_DIR);
+  const used = new Set();
+
+  for (const file of files) {
+    const raw = await fs.readFile(file, "utf8");
+    const manifest = JSON.parse(raw.replace(/^\uFEFF/, ""));
+    const identifiers = Array.isArray(manifest.topicIdentifiers)
+      ? manifest.topicIdentifiers
+      : topicIdentifiers({
+          slug: manifest.topicSlug,
+          title: manifest.topicTitle,
+          keyword: manifest.topicKeyword
+        });
+
+    for (const identifier of identifiers) {
+      if (identifier) {
+        used.add(identifier);
+      }
+    }
+  }
+
+  return used;
+}
+
+function wasTopicUsed(item, usedIdentifiers) {
+  return topicIdentifiers(item).some((identifier) => usedIdentifiers.has(identifier));
+}
+
+function pickStableCandidate(candidates) {
+  if (!candidates.length) {
+    return null;
+  }
+
+  const seed = `${process.env.GITHUB_RUN_ID ?? ""}:${process.env.GITHUB_RUN_ATTEMPT ?? ""}`;
+  let hash = 0;
+
+  for (const char of seed) {
+    hash = (hash * 31 + char.charCodeAt(0)) >>> 0;
+  }
+
+  return candidates[hash % candidates.length];
 }
 
 function parseJsonArray(text) {
@@ -121,39 +213,63 @@ function normalizePriorityKeyword(item) {
 
 async function pickTopic() {
   const pool = await readTopicPool();
+  const usedIdentifiers = await readUsedTopicIdentifiers();
   pool.priorityKeywords = pool.priorityKeywords.map(normalizePriorityKeyword);
 
-  const priorityKeyword = pool.priorityKeywords.find((item) => item.keyword && !item.used && !item.usedAt);
+  const priorityKeyword = pickStableCandidate(
+    pool.priorityKeywords.filter(
+      (item) => item.keyword && !item.used && !item.usedAt && !wasTopicUsed(item, usedIdentifiers)
+    )
+  );
 
   if (priorityKeyword) {
-    priorityKeyword.used = true;
-    priorityKeyword.usedAt = new Date().toISOString();
-
-    await fs.writeFile(`${TOPICS_PATH}`, `${JSON.stringify(pool, null, 2)}\n`, "utf8");
-
     return priorityKeyword;
   }
 
-  let topic = pool.topics.find((item) => !item.usedAt);
+  let topic = pickStableCandidate(
+    pool.topics.filter((item) => !item.usedAt && !wasTopicUsed(item, usedIdentifiers))
+  );
 
   if (!topic) {
     const previousTopics = [
       ...pool.priorityKeywords.map(topicTitle),
       ...pool.topics.map(topicTitle)
     ].filter(Boolean);
-    pool.generatedAt = new Date().toISOString();
-    pool.topics = await requestNewTopics(previousTopics);
-    topic = pool.topics[0];
+    const refreshedTopics = await requestNewTopics(previousTopics);
+    topic = pickStableCandidate(refreshedTopics);
   }
-
-  topic.usedAt = new Date().toISOString();
-
-  await fs.writeFile(`${TOPICS_PATH}`, `${JSON.stringify(pool, null, 2)}\n`, "utf8");
 
   return topic;
 }
 
-const selectedTopic = await pickTopic();
+async function pickTopicFromCandidateFile() {
+  const topicFile = argValue("--topic-file");
+  const topicIndex = Number.parseInt(argValue("--topic-index"), 10);
+
+  if (!topicFile && !topicIndex) {
+    return null;
+  }
+
+  if (!topicFile || !Number.isInteger(topicIndex) || topicIndex < 1) {
+    throw new Error("--topic-file and a 1-based --topic-index are required together.");
+  }
+
+  const raw = await fs.readFile(topicFile, "utf8");
+  const topicSet = JSON.parse(raw.replace(/^\uFEFF/, ""));
+  const candidates = Array.isArray(topicSet.candidates) ? topicSet.candidates : [];
+  const candidate = candidates.find((item) => Number(item.index) === topicIndex);
+
+  if (!candidate) {
+    throw new Error(`${topicFile} does not contain candidate index ${topicIndex}.`);
+  }
+
+  return {
+    ...candidate,
+    title: String(candidate.title ?? "").trim()
+  };
+}
+
+const selectedTopic = (await pickTopicFromCandidateFile()) ?? (await pickTopic());
 const topic = topicTitle(selectedTopic);
 
 const promptTemplate = await fs.readFile(
@@ -453,6 +569,35 @@ async function writeGitHubOutputs(outputs) {
   await fs.appendFile(process.env.GITHUB_OUTPUT, `${lines.join("\n")}\n`, "utf8");
 }
 
+async function writeTopicManifest({ draftPath, slug, markdown, thumbnailPath }) {
+  await fs.mkdir(TOPIC_MANIFEST_DIR, { recursive: true });
+
+  const manifestPath = path.join(TOPIC_MANIFEST_DIR, `${date}-${slug}.json`);
+  const manifest = {
+    generatedAt: new Date().toISOString(),
+    source: {
+      workflow: process.env.GITHUB_WORKFLOW ?? "",
+      runId: process.env.GITHUB_RUN_ID ?? "",
+      runAttempt: process.env.GITHUB_RUN_ATTEMPT ?? ""
+    },
+    topic,
+    topicTitle: topic,
+    topicSlug: String(selectedTopic.slug ?? "").trim(),
+    topicKeyword: String(selectedTopic.keyword ?? "").trim(),
+    topicIdentifiers: topicIdentifiers(selectedTopic),
+    post: {
+      title: frontMatterValue(markdown, "title"),
+      slug,
+      draftPath: draftPath.replaceAll("\\", "/"),
+      thumbnailPath
+    }
+  };
+
+  await fs.writeFile(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");
+
+  return manifestPath;
+}
+
 let slug = sanitizeEnglishSlug(selectedTopic.slug || frontMatterValue(content, "slug"));
 
 if (!slug) {
@@ -482,16 +627,24 @@ if (generatedThumbnail) {
 
 await fs.mkdir("_drafts", { recursive: true });
 await fs.writeFile(draft.filepath, outputContent, "utf8");
+const manifestPath = await writeTopicManifest({
+  draftPath: draft.filepath,
+  slug: draft.slug,
+  markdown: outputContent,
+  thumbnailPath: generatedThumbnail?.path ?? ""
+});
 
 console.log(`Selected topic: ${topic}`);
 console.log(`English slug: ${draft.slug}`);
 console.log(`Generated thumbnail: ${generatedThumbnail ? generatedThumbnail.path : "skipped"}`);
 console.log(`Created draft: ${draft.filepath}`);
+console.log(`Created topic manifest: ${manifestPath}`);
 
 await writeGitHubOutputs({
   topic,
   title: frontMatterValue(outputContent, "title"),
   slug: draft.slug,
   draft_path: draft.filepath.replaceAll("\\", "/"),
+  manifest_path: manifestPath.replaceAll("\\", "/"),
   summary: plainTextSummary(outputContent)
 });
