@@ -265,19 +265,25 @@ async function pickTopicFromCandidateFile() {
 
   return {
     ...candidate,
-    title: String(candidate.title ?? "").trim()
+    title: String(candidate.title ?? "").trim(),
+    candidateKind: String(topicSet.kind ?? "topic").trim() || "topic"
   };
 }
 
 const selectedTopic = (await pickTopicFromCandidateFile()) ?? (await pickTopic());
 const topic = topicTitle(selectedTopic);
+const candidateKind = String(selectedTopic.candidateKind ?? "topic").trim() || "topic";
+const isNewTrend = candidateKind === "new-trend";
 
 const promptTemplate = await fs.readFile(
   path.join("prompts", "info-post.prompt.md"),
   "utf8"
 );
 
-const prompt = promptTemplate.replace("{{TOPIC}}", topic);
+let prompt = promptTemplate.replace("{{TOPIC}}", topic);
+prompt += isNewTrend
+  ? "\n\n## 추가 분류 규칙\n\n- 이 글은 신규 뉴스/트렌드 초안이다.\n- front matter tags에는 반드시 news와 trend를 포함해라.\n"
+  : "\n\n## 추가 분류 규칙\n\n- 이 글은 일반 topic 초안이다.\n- front matter categories와 tags에는 news 또는 trend를 절대 사용하지 마라.\n";
 
 const response = await client.responses.create({
   model: "gpt-5-mini",
@@ -417,6 +423,63 @@ function normalizeFrontMatterStringList(markdown, key) {
   lines[lineIndex] = `${key}: ${yamlStringList(items)}`;
 
   return `---\n${lines.join("\n")}\n---${markdown.slice(frontMatter[0].length)}`;
+}
+
+function upsertFrontMatterStringList(markdown, key, items) {
+  const frontMatter = markdown.match(/^---\s*\n([\s\S]*?)\n---/);
+
+  if (!frontMatter) {
+    return markdown;
+  }
+
+  const lines = frontMatter[1].split("\n");
+  const line = `${key}: ${yamlStringList(items)}`;
+  const lineIndex = lines.findIndex((item) => item.startsWith(`${key}:`));
+
+  if (lineIndex >= 0) {
+    lines[lineIndex] = line;
+  } else {
+    const insertAfterKeys = key === "tags" ? ["categories:", "date:", "slug:", "title:"] : ["date:", "slug:", "title:"];
+    const insertIndex = lines.findLastIndex((item) =>
+      insertAfterKeys.some((prefix) => item.startsWith(prefix))
+    );
+    lines.splice(insertIndex >= 0 ? insertIndex + 1 : 0, 0, line);
+  }
+
+  return `---\n${lines.join("\n")}\n---${markdown.slice(frontMatter[0].length)}`;
+}
+
+function enforceCandidateKindFrontMatter(markdown) {
+  const reserved = new Set(["news", "trend"]);
+  const originalCategories = yamlInlineListItems(frontMatterValue(markdown, "categories"));
+  const categories = originalCategories.filter(
+    (item) => !reserved.has(item.toLowerCase())
+  );
+  const tags = yamlInlineListItems(frontMatterValue(markdown, "tags")).filter(
+    (item) => !reserved.has(item.toLowerCase())
+  );
+
+  if (isNewTrend) {
+    for (const requiredTag of ["news", "trend"]) {
+      if (!tags.some((item) => item.toLowerCase() === requiredTag)) {
+        tags.push(requiredTag);
+      }
+    }
+  } else if (!tags.length) {
+    tags.push("checklist");
+  }
+
+  if (!categories.length && originalCategories.length) {
+    categories.push("How-To and Requirements");
+  }
+
+  let nextMarkdown = markdown;
+
+  if (categories.length) {
+    nextMarkdown = upsertFrontMatterStringList(nextMarkdown, "categories", categories);
+  }
+
+  return upsertFrontMatterStringList(nextMarkdown, "tags", tags);
 }
 
 async function requestEnglishSlug(markdown) {
@@ -580,6 +643,7 @@ async function writeTopicManifest({ draftPath, slug, markdown, thumbnailPath }) 
       runId: process.env.GITHUB_RUN_ID ?? "",
       runAttempt: process.env.GITHUB_RUN_ATTEMPT ?? ""
     },
+    candidateKind,
     topic,
     topicTitle: topic,
     topicSlug: String(selectedTopic.slug ?? "").trim(),
@@ -612,6 +676,7 @@ const draft = await uniqueDraftPath(slug);
 let outputContent = upsertFrontMatterValue(content, "slug", `"${draft.slug}"`);
 outputContent = normalizeFrontMatterStringList(outputContent, "categories");
 outputContent = normalizeFrontMatterStringList(outputContent, "tags");
+outputContent = enforceCandidateKindFrontMatter(outputContent);
 const generatedThumbnail = await generatePostThumbnail({
   markdown: outputContent,
   slug: draft.slug
@@ -646,5 +711,6 @@ await writeGitHubOutputs({
   slug: draft.slug,
   draft_path: draft.filepath.replaceAll("\\", "/"),
   manifest_path: manifestPath.replaceAll("\\", "/"),
+  candidate_kind: candidateKind,
   summary: plainTextSummary(outputContent)
 });
