@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-15T02:49:19.135Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29384947488",
+    "runAttempt": "1"
+  },
+  "candidateKind": "topic",
+  "topic": "직장가입자에서 지역가입자로 건강보험 자격이 전환되는 기준은 무엇인가요?",
+  "topicTitle": "직장가입자에서 지역가입자로 건강보험 자격이 전환되는 기준은 무엇인가요?",
+  "topicSlug": "health-insurance-switch-from-employer-to-local-criteria",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:health-insurance-switch-from-employer-to-local-criteria",
+    "title:직장가입자에서 지역가입자로 건강보험 자격이 전환되는 기준은 무엇인가요?"
+  ],
+  "post": {
+    "title": "직장가입자에서 지역가입자로 건강보험 자격 전환되는 기준과 절차(정리)",
+    "slug": "health-insurance-switch-from-employer-to-local-criteria",
+    "draftPath": "_drafts/2026-07-15-health-insurance-switch-from-employer-to-local-criteria.md",
+    "thumbnailPath": "/assets/img/posts/blog/health-insurance-switch-from-employer-to-local-criteria/preview.png"
+  }
+}
