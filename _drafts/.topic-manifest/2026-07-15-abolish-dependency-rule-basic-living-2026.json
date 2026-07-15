@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-15T02:49:58.037Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29384971816",
+    "runAttempt": "1"
+  },
+  "candidateKind": "new-trend",
+  "topic": "기초생활보장 부양의무자 기준 전면 폐지 시행 일정과 신청 영향",
+  "topicTitle": "기초생활보장 부양의무자 기준 전면 폐지 시행 일정과 신청 영향",
+  "topicSlug": "abolish-dependency-rule-basic-living-2026",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:abolish-dependency-rule-basic-living-2026",
+    "title:기초생활보장 부양의무자 기준 전면 폐지 시행 일정과 신청 영향"
+  ],
+  "post": {
+    "title": "기초생활보장 부양의무자 기준 전면 폐지: 시행 일정과 신청 영향 정리",
+    "slug": "abolish-dependency-rule-basic-living-2026",
+    "draftPath": "_drafts/2026-07-15-abolish-dependency-rule-basic-living-2026.md",
+    "thumbnailPath": "/assets/img/posts/blog/abolish-dependency-rule-basic-living-2026/preview.png"
+  }
+}
