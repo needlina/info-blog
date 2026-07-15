@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-15T02:03:05.384Z",
+  "blog": "info-blog",
+  "kind": "topic",
+  "source": "openai-topic-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "장애인연금 신청 자격은 장애등급 폐지 후 어떻게 확인하나요?",
+      "slug": "disability-pension-eligibility-after-grading-change",
+      "thumbnail": {
+        "title": "장애인연금 신청",
+        "subtitle": "등급 폐지 이후 자격 확인"
+      },
+      "reason": "장애 관련 급여 체계가 바뀌면서 신청 자격과 판정기준을 확인하려는 수요가 높기 때문입니다.",
+      "searchIntent": "장애인연금 수급 자격이 현재 어떤 기준으로 판정되는지와 필요한 서류를 알고 싶다.",
+      "freshnessReason": "장애등급 체계 개편이나 지급기준 변경은 시점별로 달라질 수 있어 최신 지침 확인이 필요합니다.",
+      "sourceHint": "보건복지부, 국민연금공단, 주민센터(지자체)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 2,
+      "title": "사업자등록 없이 부업 소득은 어떻게 종합소득세 신고하나요?",
+      "slug": "declare-side-income-without-business-registration",
+      "thumbnail": {
+        "title": "부업 소득 신고",
+        "subtitle": "사업자등록 없이 종소세 처리"
+      },
+      "reason": "플랫폼·프리랜스 소득 증가로 사업자등록 전 소득 신고 방법을 찾는 이용자가 많습니다.",
+      "searchIntent": "사업자등록을 하지 않은 상태에서 부업으로 번 돈을 어떻게 신고하고 어떤 증빙이 필요한지 알고 싶다.",
+      "freshnessReason": "소득 기준과 신고 방식, 간편사업자 등록 제도 등은 세법 개정에 따라 달라질 수 있습니다.",
+      "sourceHint": "국세청(홈택스), 관할 세무서",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 3,
+      "title": "직장가입자에서 지역가입자로 건강보험 자격이 전환되는 기준은 무엇인가요?",
+      "slug": "health-insurance-switch-from-employer-to-local-criteria",
+      "thumbnail": {
+        "title": "건강보험 자격전환",
+        "subtitle": "직장→지역 전환 기준"
+      },
+      "reason": "이직·퇴사·휴직 등으로 보험 자격이 바뀔 때 예상치 못한 부담이 발생할 수 있어 확인 수요가 큽니다.",
+      "searchIntent": "어떤 상황에서 직장가입자에서 지역가입자로 전환되는지와 보험료 산정 기준을 알고 싶다.",
+      "freshnessReason": "보험료 산정 방식과 신고 기한 등 운영 규정은 정책 변경으로 수정될 수 있습니다.",
+      "sourceHint": "국민건강보험공단, 고용보험센터",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 4,
+      "title": "전세권 등기 없이 전세금을 보호하려면 어떤 절차를 해야 하나요?",
+      "slug": "protect-lease-deposit-without-jeonse-registration",
+      "thumbnail": {
+        "title": "전세금 보호",
+        "subtitle": "등기 없이 안전조치"
+      },
+      "reason": "전세권 등기가 없는 현실에서 세입자들이 보증금 보호 방법을 구체적으로 알고 싶어합니다.",
+      "searchIntent": "전세권 등기가 없을 때 확정일자, 전입신고, 임차권 등으로 전세금을 보호하는 방법과 우선순위를 알고 싶다.",
+      "freshnessReason": "부동산 관련 법령·판례와 공적 절차(확정일자 등)는 변경이나 해석 차이가 있을 수 있어 최신 정보 확인이 필요합니다.",
+      "sourceHint": "대법원 등기소, 국토교통부, 법원(임차권 관련 판례)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 5,
+      "title": "국민연금 납부예외(육아·군복무 등)는 어떻게 인정받나요?",
+      "slug": "national-pension-payment-exemption-eligibility",
+      "thumbnail": {
+        "title": "국민연금 납부예외",
+        "subtitle": "육아·군복무 인정 절차"
+      },
+      "reason": "출산·육아·병역 등으로 보험료 납부가 어려운 경우 납부예외 신청 수요가 꾸준히 존재합니다.",
+      "searchIntent": "어떤 사유가 납부예외로 인정되는지, 신청 방법과 소급 인정 가능 여부를 알고 싶다.",
+      "freshnessReason": "납부예외 제도와 인정기준은 정책 변경이나 시행세칙으로 달라질 수 있습니다.",
+      "sourceHint": "국민연금공단, 주민센터",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 6,
+      "title": "자동차 취득세 감면 대상인지 지방세 납부 전에 어떻게 확인하나요?",
+      "slug": "check-vehicle-acquisition-tax-exemption",
+      "thumbnail": {
+        "title": "자동차 취득세",
+        "subtitle": "감면 대상 확인 방법"
+      },
+      "reason": "신차·친환경차·장애인용 차량 등 취득세 감면 여부가 구매비용에 큰 영향을 미치기 때문입니다.",
+      "searchIntent": "구매하려는 차량이 취득세 감면 대상인지 확인하는 절차와 필요 서류를 알고 싶다.",
+      "freshnessReason": "감면 대상과 기준은 지방자치단체별·시기별로 달라질 수 있어 구매 전 최신 확인이 필요합니다.",
+      "sourceHint": "관할 시·군·구청(세무과), 행정안전부 지방세",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 7,
+      "title": "해외체류 중 건강보험 자격을 유지하거나 직장가입으로 복귀하려면 무엇을 확인해야 하나요?",
+      "slug": "maintain-or-return-to-employer-health-insurance-while-abroad",
+      "thumbnail": {
+        "title": "해외체류 건강보험",
+        "subtitle": "자격 유지·복귀 조건"
+      },
+      "reason": "장기 해외체류자와 복귀 예정자가 보험료·자격 변동으로 불이익을 받지 않으려는 수요가 많습니다.",
+      "searchIntent": "해외 체류 신고·출국증빙·복귀 시기 등에 따라 자격 유지 여부와 복귀 절차를 알고 싶다.",
+      "freshnessReason": "해외체류 관련 규정과 신고 절차는 국제여건 및 제도 변경에 따라 달라질 수 있습니다.",
+      "sourceHint": "국민건강보험공단, 외교부(재외공관), 출입국관리사무소",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 8,
+      "title": "임플란트 치료비는 의료비 세액공제 대상인가요, 어떤 증빙이 필요하나요?",
+      "slug": "implant-treatment-tax-deduction-evidence",
+      "thumbnail": {
+        "title": "임플란트 세액공제",
+        "subtitle": "대상 여부와 증빙서류"
+      },
+      "reason": "고액 치료비에 대한 세액공제 여부와 제출 증빙에 대한 문의가 자주 발생합니다.",
+      "searchIntent": "임플란트 비용이 소득세 의료비 공제 대상인지, 어떤 영수증·진료기록을 준비해야 하는지 알고 싶다.",
+      "freshnessReason": "세법 해석과 공제 대상 범위는 국세청 지침 변경으로 달라질 수 있어 최신 확인이 필요합니다.",
+      "sourceHint": "국세청, 국민건강보험공단(비급여 항목 확인)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 9,
+      "title": "공공임대주택 입주 우선순위는 어떻게 산정되며 제출해야 할 증빙서는 무엇인가요?",
+      "slug": "public-housing-priority-criteria-and-documents",
+      "thumbnail": {
+        "title": "공공임대 입주 우선순위",
+        "subtitle": "산정 기준과 증빙"
+      },
+      "reason": "공공임대 지원자들이 우선순위 판정 기준과 준비서류를 정확히 알고자 하는 수요가 큽니다.",
+      "searchIntent": "우선순위 산정 항목(무주택기간, 소득·자산 기준 등)과 해당 증빙서를 알고 싶다.",
+      "freshnessReason": "공공임대 공급정책과 우선순위 기준은 제도 개편이나 지자체별 운영 차이로 달라질 수 있습니다.",
+      "sourceHint": "국토교통부, 한국토지주택공사(LH), 각 지자체 주택과",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 10,
+      "title": "항공권을 여행사(대리점)를 통해 구매했을 때 환불 절차는 어떻게 다른가요?",
+      "slug": "flight-refund-procedure-via-travel-agency",
+      "thumbnail": {
+        "title": "항공권 환불",
+        "subtitle": "여행사 구매 시 절차 차이"
+      },
+      "reason": "대리점 구매 시 환불 정책과 환급 소요가 달라 소비자 불만이 자주 발생합니다.",
+      "searchIntent": "여행사를 통한 항공권 구매 후 취소·환불 시 항공사 직접 구매와 절차·수수료 차이를 알고 싶다.",
+      "freshnessReason": "항공사·여행사 약관과 소비자보호 규정은 시시각각 변경되므로 최신 약관 확인이 필요합니다.",
+      "sourceHint": "국토교통부, 한국소비자원, 해당 항공사 및 여행사 약관",
+      "source": "openai-topic-candidates"
+    }
+  ]
+}
