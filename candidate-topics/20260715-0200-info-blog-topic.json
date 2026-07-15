@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-14T17:00:11.739Z",
+  "blog": "info-blog",
+  "kind": "topic",
+  "source": "openai-topic-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "임대차 계약갱신요구권 행사 시 임대료 증액 상한은 어떻게 적용되나?",
+      "slug": "imdaecha-gaegsin-yoguwon-imdaeryo-jeung-aek-sanghan",
+      "thumbnail": {
+        "title": "계약갱신요구권과 임대료 상한",
+        "subtitle": "증액 한도와 적용 기준 확인하기"
+      },
+      "reason": "임대차 관련 법과 지방자치단체의 시행 지침이 자주 바뀌어 임차인·임대인 모두 정확한 확인이 필요하기 때문입니다.",
+      "searchIntent": "계약갱신요구권을 행사할 때 적용되는 임대료 증액 상한률과 계산 방식, 적용 시기 등을 알고 싶다.",
+      "freshnessReason": "임대차보호법 시행령·지침이 변경되거나 지자체 해석이 달라질 수 있어 최신 정보를 확인해야 합니다.",
+      "sourceHint": "국토교통부, 해당 시·군·구청(주택과), 한국감정원",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 2,
+      "title": "전세자금대출 실행 후 전세보증금 반환보증은 언제 가입해야 하나?",
+      "slug": "jeonse-deposit-return-guarantee-when-to-apply",
+      "thumbnail": {
+        "title": "전세보증금 반환보증 가입 시점",
+        "subtitle": "대출 실행 전후, 보증 범위와 유의사항"
+      },
+      "reason": "전세보증금 반환보증의 가입 가능 시점과 보장 범위가 금융기관·보증기관별로 달라 분쟁 예방을 위해 권장됩니다.",
+      "searchIntent": "전세자금대출을 받은 뒤 반환보증을 언제 어떻게 가입해야 보증이 유효한지 알고 싶다.",
+      "freshnessReason": "보증상품 조건과 보증한도는 보증기관 정책 변경이나 금융환경 변화로 자주 달라집니다.",
+      "sourceHint": "주택도시보증공사(HUG), 주택금융공사(HF), 대출 취급 은행",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 3,
+      "title": "건강보험 직장가입자 본인부담상한제는 어떤 서류로 어디에서 신청하나?",
+      "slug": "health-insurance-out-of-pocket-ceiling-how-to-apply",
+      "thumbnail": {
+        "title": "본인부담상한제 신청 안내",
+        "subtitle": "대상 기준과 제출 서류 한눈에"
+      },
+      "reason": "본인부담상한제는 고액 의료비 부담 완화와 직결되며 신청 절차와 제출서류를 몰라 혜택을 놓치는 경우가 많기 때문입니다.",
+      "searchIntent": "직장가입자가 본인부담상한제 적용을 받기 위해 어떤 서류를 준비하고 어디에서 신청해야 하는지 알고 싶다.",
+      "freshnessReason": "적용 대상·서류 기준과 신청 창구는 제도 개선이나 전산 시스템 변경으로 업데이트될 수 있습니다.",
+      "sourceHint": "국민건강보험공단, 국민건강보험 고객센터",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 4,
+      "title": "사업자 폐업 후 부가가치세 환급은 어떤 절차로, 어디서 확인하나?",
+      "slug": "vat-refund-after-business-closure-procedure",
+      "thumbnail": {
+        "title": "폐업 후 부가가치세 환급",
+        "subtitle": "환급 신청 절차와 제출서류 정리"
+      },
+      "reason": "사업자 폐업 시 부가가치세 신고·환급 절차가 복잡해 세무상 손실을 막기 위해 공식 절차 확인이 필요합니다.",
+      "searchIntent": "폐업 후 받을 수 있는 부가가치세 환급 절차와 필요한 서류, 관할 기관 처리 방법을 알고 싶다.",
+      "freshnessReason": "국세청의 신고·환급 규정과 전자신고 시스템이 변경될 수 있어 최신 지침 확인이 필요합니다.",
+      "sourceHint": "국세청, 관할 세무서",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 5,
+      "title": "전기차 구매 보조금 취소·환수 사유와 환불 절차는 어떻게 되나?",
+      "slug": "ev-subsidy-cancellation-refund-procedure",
+      "thumbnail": {
+        "title": "전기차 보조금 취소·환수",
+        "subtitle": "취소 사유와 반환 절차 정리"
+      },
+      "reason": "보조금 신청 후 사유 발생 시 환수 기준과 절차를 모르고 있으면 큰 금전적 부담이 생길 수 있어 우선 확인해야 합니다.",
+      "searchIntent": "전기차 보조금이 취소되거나 환수될 수 있는 경우와 환불·반환 절차, 이의신청 방법을 알고 싶다.",
+      "freshnessReason": "환경부·지자체의 보조금 기준과 환수 규정은 정책 변경으로 달라질 가능성이 큽니다.",
+      "sourceHint": "환경부, 해당 지방자치단체(보조금 담당부서), 보조금 지급 공고",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 6,
+      "title": "해외에서 여권을 분실하면 임시여권(긴급여권)을 어떻게 발급받나?",
+      "slug": "emergency-passport-issuance-when-lost-abroad",
+      "thumbnail": {
+        "title": "해외 여권 분실 시 임시여권",
+        "subtitle": "발급절차와 재외공관 연락처"
+      },
+      "reason": "여권 분실은 긴급상황이므로 발급 절차와 재외공관 연락처, 필요한 서류를 사전에 알아두는 것이 안전합니다.",
+      "searchIntent": "해외에서 여권을 잃어버렸을 때 임시여권 발급 절차, 필요서류, 발급 소요시간과 비용을 알고 싶다.",
+      "freshnessReason": "영사 서비스 절차와 필요서류는 외교부 지침과 재외공관 운영 여건에 따라 변동될 수 있습니다.",
+      "sourceHint": "외교부, 재외공관(대사관·총영사관), 영사민원24",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 7,
+      "title": "의료기관에 진료기록 사본을 요청하면 비용과 발급 소요일은 어떻게 되나?",
+      "slug": "medical-record-copy-fees-processing-time",
+      "thumbnail": {
+        "title": "진료기록 사본 발급 안내",
+        "subtitle": "비용·처리기간·신청 방법"
+      },
+      "reason": "진료기록은 보험청구·법적 증빙 등에 필요해 병원별 발급비용과 기간을 미리 확인해야 불편을 줄일 수 있습니다.",
+      "searchIntent": "의료기관에서 진료기록 사본을 요청할 때 부과되는 비용과 실제 발급까지 걸리는 시간을 알고 싶다.",
+      "freshnessReason": "보건복지부 지침과 의료기관 내부 절차 변경으로 비용·처리기간이 달라질 수 있습니다.",
+      "sourceHint": "보건복지부, 해당 의료기관(진료기록 보관 담당 부서)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 8,
+      "title": "학자금대출 상환유예 후 체납 우려가 있을 때 신용등급 영향은 어떻게 확인하나?",
+      "slug": "student-loan-deferral-credit-score-impact",
+      "thumbnail": {
+        "title": "학자금대출 유예와 신용영향",
+        "subtitle": "유예·체납 시 신용점수 확인법"
+      },
+      "reason": "상환 유예가 신용정보에 어떤 식으로 반영되는지 몰라 장기적 신용 관리에 실수가 생길 수 있어 우선 확인이 필요합니다.",
+      "searchIntent": "학자금대출 상환유예를 신청하면 신용정보에 어떤 기록이 남는지, 체납 가능성 시 신용등급에 미치는 영향을 알고 싶다.",
+      "freshnessReason": "금융감독당국·한국장학재단·신용정보사의 정책 변경으로 반영 방식이 달라질 수 있습니다.",
+      "sourceHint": "한국장학재단, 금융감독원, 신용정보회사(NICE·KCB 등)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 9,
+      "title": "통신사 해지나 번호이동 시 위약금·정산 기준은 어떻게 확인하나?",
+      "slug": "mobile-contract-termination-number-portability-fees",
+      "thumbnail": {
+        "title": "해지·번호이동 시 위약금 확인",
+        "subtitle": "정산 방식과 절차 체크리스트"
+      },
+      "reason": "해지·번호이동 과정에서 위약금·남은 요금 정산 기준이 통신사마다 달라 사전 확인으로 불필요한 비용을 줄일 수 있기 때문입니다.",
+      "searchIntent": "통신사 해지 또는 번호이동 시 발생하는 위약금 계산법과 최종 정산 절차, 확인해야 할 항목을 알고 싶다.",
+      "freshnessReason": "방통위·과기정통부 지침과 통신사 요금제 변경으로 수수료 및 정산 규정이 변할 수 있습니다.",
+      "sourceHint": "과학기술정보통신부, 방송통신위원회, 해당 통신사 고객센터",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 10,
+      "title": "국가장학금 소득구간 변경 시 기존 수혜자의 환수·재심사 기준은 어디서 확인하나?",
+      "slug": "national-scholarship-income-bracket-reassessment",
+      "thumbnail": {
+        "title": "국가장학금 소득구간 변경 안내",
+        "subtitle": "환수 기준과 재심사 절차 확인"
+      },
+      "reason": "소득기준 변경으로 이미 지급된 장학금 환수 대상이 될 수 있어 학생과 학부모가 미리 확인해야 하기 때문입니다.",
+      "searchIntent": "국가장학금 소득구간이 변경될 때 기존 수혜자에 대한 환수 기준과 재심사 절차를 어디서 확인할지 알고 싶다.",
+      "freshnessReason": "장학정책과 소득인정 기준은 교육부·한국장학재단의 정책 변경으로 수시로 업데이트됩니다.",
+      "sourceHint": "한국장학재단, 교육부, 소속 대학 장학팀",
+      "source": "openai-topic-candidates"
+    }
+  ]
+}
