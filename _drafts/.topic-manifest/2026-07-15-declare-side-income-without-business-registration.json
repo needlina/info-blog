@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-15T02:49:12.225Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29384947488",
+    "runAttempt": "1"
+  },
+  "candidateKind": "topic",
+  "topic": "사업자등록 없이 부업 소득은 어떻게 종합소득세 신고하나요?",
+  "topicTitle": "사업자등록 없이 부업 소득은 어떻게 종합소득세 신고하나요?",
+  "topicSlug": "declare-side-income-without-business-registration",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:declare-side-income-without-business-registration",
+    "title:사업자등록 없이 부업 소득은 어떻게 종합소득세 신고하나요?"
+  ],
+  "post": {
+    "title": "사업자등록 없이 부업 소득, 종합소득세는 어떻게 신고하나요?",
+    "slug": "declare-side-income-without-business-registration",
+    "draftPath": "_drafts/2026-07-15-declare-side-income-without-business-registration.md",
+    "thumbnailPath": "/assets/img/posts/blog/declare-side-income-without-business-registration/preview.png"
+  }
+}
