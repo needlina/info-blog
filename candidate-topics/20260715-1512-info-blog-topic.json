@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-15T06:12:00.683Z",
+  "blog": "info-blog",
+  "kind": "topic",
+  "source": "openai-topic-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "전세금 반환보증을 전세권 등기 없이 가입해도 임대차 보장은 충분할까?",
+      "slug": "jeonse-deposit-return-guarantee-safety",
+      "thumbnail": {
+        "title": "전세금 반환보증 가입 여부",
+        "subtitle": "전세권 등기 없는 경우의 안전성"
+      },
+      "reason": "전세 계약 시 전세금 회수 리스크를 줄이기 위해 많은 임차인이 반환보증 가입을 고려하므로 블로그 독자에게 실무적 판단에 도움이 된다.",
+      "searchIntent": "전세권 등기 없이 반환보증을 가입했을 때 보증의 범위·예외·청구 절차가 어떻게 되는지 확인하려는 것.",
+      "freshnessReason": "보증상품의 보장 범위와 가입 조건은 주택도시보증공사·한국주택금융공사 정책 변경으로 자주 달라진다.",
+      "sourceHint": "주택도시보증공사(HUG), 한국주택금융공사(HF), 법원 등기소 안내",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 2,
+      "title": "프리랜서가 간이과세자로 등록하면 부가가치세 신고와 세부담은 어떻게 달라질까?",
+      "slug": "freelancer-vat-simplified-vs-standard",
+      "thumbnail": {
+        "title": "프리랜서 세금 유형 선택",
+        "subtitle": "간이과세·일반과세 차이점"
+      },
+      "reason": "프리랜서·1인 자영업자가 과세유형을 잘못 선택하면 세부담과 환급 가능성에 큰 차이가 나므로 실용적이다.",
+      "searchIntent": "간이과세 등록 시 부가세 납부·환급·세율 적용과 신고 주기 등 실무적 차이를 알고 싶어한다.",
+      "freshnessReason": "간이과세 기준과 매출한도, 세율은 국세청 정책·법령 개정으로 변동될 수 있다.",
+      "sourceHint": "국세청, 관할 세무서, 홈택스",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 3,
+      "title": "직장·지역 보험이 중복 납부된 건강보험료는 어떻게 확인하고 환급받을까?",
+      "slug": "health-insurance-duplicate-payment-refund",
+      "thumbnail": {
+        "title": "건강보험 중복납부 환급",
+        "subtitle": "중복가입·중복납부 확인과 청구"
+      },
+      "reason": "이직·퇴사·동시가입 상황에서 중복 납부가 발생할 수 있어 환급 절차를 모르는 사람이 많아 수요가 크다.",
+      "searchIntent": "중복 납부 여부를 조회하는 방법과 환급 신청서류·처리 기간을 알고 싶어한다.",
+      "freshnessReason": "환급 절차와 제출서류, 온라인 조회 메뉴는 국민건강보험공단의 시스템·정책 변경에 따라 달라질 수 있다.",
+      "sourceHint": "국민건강보험공단(NHIS), 근로복지공단(관련 퇴직처리), 주민센터",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 4,
+      "title": "이사할 때 전기·도시가스·수도 해지하면 마지막 요금과 보증금은 어떻게 정산되나?",
+      "slug": "utility-service-final-bill-and-deposit-refund",
+      "thumbnail": {
+        "title": "이사 시 공과금 정산",
+        "subtitle": "전기·가스·수도 해지 절차"
+      },
+      "reason": "이사철에 자주 발생하는 문제로, 미정산으로 분쟁이 생기는 사례가 있어 실용적 글감이다.",
+      "searchIntent": "해지 신청 시점, 사용일 기준 최종 요금 산정, 보증금·보증금 반환 절차를 알고 싶다.",
+      "freshnessReason": "요금 정산 방식·해지 수수료, 보증금 반환 규정은 한전·도시가스사·지방자치단체별 운영지침 변경으로 달라진다.",
+      "sourceHint": "한국전력공사(KEPCO), 지역 도시가스 회사, 각 지방자치단체 상수도 사업소",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 5,
+      "title": "영세 자영업자가 폐업 신고하면 부가가치세와 종합소득세는 어떻게 정산하나?",
+      "slug": "self-employed-closure-tax-settlement",
+      "thumbnail": {
+        "title": "자영업 폐업 후 세무 정산",
+        "subtitle": "부가세·종합소득세 처리법"
+      },
+      "reason": "폐업 시기와 신고 누락으로 과태료·가산세가 발생하므로 폐업자에게 꼭 필요한 정보다.",
+      "searchIntent": "폐업 신고 절차, 최종 부가세 신고·환급, 종합소득세 신고 기간과 필요서류를 알고 싶다.",
+      "freshnessReason": "세법상 신고 기한·환급 요건·전자신고 방식은 국세청의 공지·제도 개편에 따라 변동될 수 있다.",
+      "sourceHint": "국세청, 관할 세무서, 홈택스",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 6,
+      "title": "전기차 보조금은 누구까지 받을 수 있고 지자체별 접수 기간은 어디서 확인하나?",
+      "slug": "ev-subsidy-eligibility-and-local-deadlines",
+      "thumbnail": {
+        "title": "전기차 보조금 확인",
+        "subtitle": "자격·신청 기간 지역별 안내"
+      },
+      "reason": "전기차 구매를 고려하는 독자가 보조금 정보로 구매 비용을 크게 줄일 수 있어 관심이 높다.",
+      "searchIntent": "보조금 대상 차량·소득·거주지 기준과 각 지자체별 공고·접수 기간을 확인하려는 것.",
+      "freshnessReason": "보조금 예산·요건·접수 일정은 환경부·지자체의 연도별 공고로 수시 변경된다.",
+      "sourceHint": "환경부, 각 지방자치단체(시·군·구), 한국환경공단",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 7,
+      "title": "영유아 보육료·양육수당은 어떤 가구가 신청할 수 있고 소득기준은 어떻게 확인하나?",
+      "slug": "childcare-subsidy-eligibility-application",
+      "thumbnail": {
+        "title": "영유아 보육·양육 지원",
+        "subtitle": "신청자격과 소득기준 확인법"
+      },
+      "reason": "출산·양육 가구의 생활비 부담 완화와 직결되는 정보로 검색 수요가 꾸준하다.",
+      "searchIntent": "보육료·양육수당 신청 자격, 소득·재산 기준, 신청 방법과 지급 시기를 알고 싶어한다.",
+      "freshnessReason": "보조금 금액·소득기준·대상 연령은 보건복지부 및 지자체 정책 변경으로 자주 업데이트된다.",
+      "sourceHint": "보건복지부, 주민센터(시군구), 보육통합포털",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 8,
+      "title": "개인간 중고차 거래에서 취득세·등록세는 누가 부담하고 신고는 어떻게 하나?",
+      "slug": "used-car-acquisition-tax-registration-responsibility",
+      "thumbnail": {
+        "title": "중고차 취득세·등록 절차",
+        "subtitle": "세금 부담과 신고 방법"
+      },
+      "reason": "중고차 거래 시 세금·등록 절차를 몰라 불이익을 보는 사례가 많아 실무 팁이 유용하다.",
+      "searchIntent": "취득세·등록세 부담 주체, 신고 기한, 필요한 서류와 세율 적용 기준을 알고 싶다.",
+      "freshnessReason": "지방세율·감면 규정과 등록 절차는 지방자치단체별로 정책 변경이 있을 수 있다.",
+      "sourceHint": "각 지방자치단체(시군구) 세무부서, 행정안전부 자동차등록사업소",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 9,
+      "title": "일용직 근로자도 4대보험과 퇴직금 적용 대상이 될까, 기준은 무엇인가?",
+      "slug": "daily-worker-social-insurance-retirement-pay-rules",
+      "thumbnail": {
+        "title": "일용직 보험·퇴직금 기준",
+        "subtitle": "적용 요건과 신고 방식"
+      },
+      "reason": "일용직 근로자·고용주 모두 적용 대상과 신고 의무를 혼동하는 경우가 많아 실무 안내가 필요하다.",
+      "searchIntent": "일용직의 4대보험 가입 기준, 퇴직금 산정 요건과 신고·청구 절차를 확인하고 싶어한다.",
+      "freshnessReason": "적용 기준·최저임금 연동·법 개정에 따른 신고규정은 고용노동부·보험공단 지침 변경으로 바뀔 수 있다.",
+      "sourceHint": "고용노동부, 국민연금공단, 국민건강보험공단, 근로복지공단",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 10,
+      "title": "임플란트나 일부 치과 치료에 건강보험이 적용되면 본인부담률과 신청 절차는 어떻게 되나?",
+      "slug": "dental-implant-insurance-coverage-and-copay",
+      "thumbnail": {
+        "title": "치과 치료 건강보험 적용",
+        "subtitle": "임플란트·보철의 본인부담 이해"
+      },
+      "reason": "치과 치료비는 고액이라 보험 적용 여부와 본인부담 확인만으로 비용 부담이 크게 달라지므로 관심이 높다.",
+      "searchIntent": "어떤 치과 치료가 건강보험 적용 대상인지, 본인부담률과 사전심사·신청 절차를 알고 싶어한다.",
+      "freshnessReason": "적용 범위와 본인부담률은 건강보험 정책·심사기준 변경에 따라 수시로 조정될 수 있다.",
+      "sourceHint": "국민건강보험공단, 건강보험심사평가원, 보건복지부",
+      "source": "openai-topic-candidates"
+    }
+  ]
+}
