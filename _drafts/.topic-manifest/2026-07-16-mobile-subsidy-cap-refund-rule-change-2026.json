@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:09:58.076Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468256832",
+    "runAttempt": "1"
+  },
+  "candidateKind": "new-trend",
+  "topic": "통신비 단말기 지원금 상한 조정 및 분할환급 규정 변경",
+  "topicTitle": "통신비 단말기 지원금 상한 조정 및 분할환급 규정 변경",
+  "topicSlug": "mobile-subsidy-cap-refund-rule-change-2026",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:mobile-subsidy-cap-refund-rule-change-2026",
+    "title:통신비 단말기 지원금 상한 조정 및 분할환급 규정 변경"
+  ],
+  "post": {
+    "title": "통신 단말기 지원금 상한·분할환급 규정 변경(2026): 알아야 할 점과 신청 방법",
+    "slug": "mobile-subsidy-cap-refund-rule-change-2026",
+    "draftPath": "_drafts/2026-07-16-mobile-subsidy-cap-refund-rule-change-2026.md",
+    "thumbnailPath": "/assets/img/posts/blog/mobile-subsidy-cap-refund-rule-change-2026/preview.png"
+  }
+}
