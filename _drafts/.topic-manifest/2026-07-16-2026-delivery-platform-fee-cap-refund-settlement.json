@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:07:44.314Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468153343",
+    "runAttempt": "1"
+  },
+  "candidateKind": "new-trend",
+  "topic": "배달앱 수수료 상한제 확대 추진과 가맹점·소비자 환불·정산 규정 변화",
+  "topicTitle": "배달앱 수수료 상한제 확대 추진과 가맹점·소비자 환불·정산 규정 변화",
+  "topicSlug": "2026-delivery-platform-fee-cap-refund-settlement",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:2026-delivery-platform-fee-cap-refund-settlement",
+    "title:배달앱 수수료 상한제 확대 추진과 가맹점·소비자 환불·정산 규정 변화"
+  ],
+  "post": {
+    "title": "배달앱 수수료 상한제 확대와 가맹점·소비자 환불·정산 규정: 실무적으로 확인할 것들",
+    "slug": "2026-delivery-platform-fee-cap-refund-settlement",
+    "draftPath": "_drafts/2026-07-16-2026-delivery-platform-fee-cap-refund-settlement.md",
+    "thumbnailPath": "/assets/img/posts/blog/2026-delivery-platform-fee-cap-refund-settlement/preview.png"
+  }
+}
