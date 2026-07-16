@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-07-16T02:52:00.387Z",
+  "blog": "info-blog",
+  "kind": "new-trend",
+  "source": "openai-new-trend-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "2026년 전기요금 누진제·요금체계 개편 예고와 가구별 영향",
+      "slug": "2026-jeongi-yogeum-nujinje-gaepyeon",
+      "thumbnail": {
+        "title": "전기요금 개편 예고",
+        "subtitle": "누진제·구간 변화와 가구별 영향"
+      },
+      "reason": "정부·한전의 요금체계 재설계가 검토 중이라 계층·소비패턴별 부담이 달라져 생활비 관련 글감으로 유용하다.",
+      "searchIntent": "개편안의 주요 변경점, 가구별 예상 요금 변화, 감면·저소비 요금제 신청 방법을 알고 싶다.",
+      "freshnessReason": "요금체계 개편안이 이번 분기에 공청회·입법예고 단계에 접어들어 실제 고시 전후로 영향이 빠르게 확정될 수 있다.",
+      "sourceHint": "산업통상자원부 보도자료, 한국전력(한전) 공지, 국회 입법예고문, 에너지정책 관련 공청회 자료",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 2,
+      "title": "주민등록증 전자신분증(eID) 단계적 도입 일정과 전환 절차",
+      "slug": "2026-eid-resident-id-rollout-schedule",
+      "thumbnail": {
+        "title": "전자신분증(eID) 도입",
+        "subtitle": "선도지역·온라인 전환 절차 확인"
+      },
+      "reason": "전자신분증 도입으로 주민센터·온라인 서비스 이용 방식과 인증 절차가 바뀔 가능성이 커 시민 안내형 콘텐츠 수요가 높다.",
+      "searchIntent": "도입 대상 지역과 일정, 기존 주민등록증과의 차이, 전환 신청 방법 및 준비서류를 알고 싶다.",
+      "freshnessReason": "행정안전부의 시범사업·도입 일정이 최근 발표되거나 수정될 수 있어 적용 시점 전에 확인해야 실수 없이 전환할 수 있다.",
+      "sourceHint": "행정안전부 공지, 정부24 안내, 지방자치단체 시범사업 공문, 전자정부 관련 보도자료",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 3,
+      "title": "의료수가·진료비 정산 기준 변경 예고와 병원비 청구·환불 영향",
+      "slug": "2026-medical-billing-revision-settlement",
+      "thumbnail": {
+        "title": "의료수가 정산 변경",
+        "subtitle": "청구·심사·환불 절차 달라지나"
+      },
+      "reason": "보건복지부의 수가·심사 기준 조정은 환자 본인부담과 실손보험 청구 절차에 직접적인 영향을 주어 확인 가치가 크다.",
+      "searchIntent": "어떤 항목의 수가가 바뀌는지, 진료비 고지·정산 방식과 환불·보험 청구 절차가 어떻게 달라지는지 알고 싶다.",
+      "freshnessReason": "수가 개편안과 심사평가원 고시가 곧 발표될 가능성이 있어 진료 전후 비용 대비와 청구 준비를 위해 지금 점검해야 한다.",
+      "sourceHint": "보건복지부 고시, 건강보험심사평가원 안내, 국민건강보험공단 공지, 병원별 공지문",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 4,
+      "title": "공공임대·전월세 전환보증 요건 변경 예고와 입주자 대응법",
+      "slug": "2026-jeonwalse-conversion-guarantee-change",
+      "thumbnail": {
+        "title": "전월세 전환보증 변경",
+        "subtitle": "자격요건·보증한도·신청절차 점검"
+      },
+      "reason": "전월세 전환보증·공공임대 관련 요건 변화는 임차인의 금융부담과 임대차 안정성에 직접 영향을 주므로 실무 안내형 포스트로 적합하다.",
+      "searchIntent": "요건 변경 내용, 기존 신청자에 대한 소급 적용 여부, 보증한도와 심사 기준 변화 및 신청 방법을 알고 싶다.",
+      "freshnessReason": "국토교통부와 보증기관의 정책 수정안·시행일 발표가 임박해 보증 신청·재계약 시점에서 즉시 확인해야 한다.",
+      "sourceHint": "국토교통부 공지, 주택도시보증공사(HUG) 안내, 지방자치단체 주거지원 공고, 관련 보도자료",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 5,
+      "title": "배달앱 수수료 상한제 확대 추진과 가맹점·소비자 환불·정산 규정 변화",
+      "slug": "2026-delivery-platform-fee-cap-refund-settlement",
+      "thumbnail": {
+        "title": "배달앱 수수료 규제",
+        "subtitle": "수수료·정산·환불 규정의 변화 포인트"
+      },
+      "reason": "수수료 상한제 확대 논의는 소상공인 수익구조와 소비자 환불·정산 절차를 바꿀 수 있어 현장 적용 사례 중심의 콘텐츠가 유용하다.",
+      "searchIntent": "수수료 상한 대상·비율, 플랫폼의 정산·환불 정책 변경 내용, 가맹점과 소비자의 대처 방법을 알고 싶다.",
+      "freshnessReason": "공정거래위원회·중기부의 규제 개편 논의와 지자체 시범조치 발표가 이어지고 있어 계약·정산 문제를 바로 점검할 필요가 있다.",
+      "sourceHint": "공정거래위원회 발표자료, 중소벤처기업부 정책자료, 지방자치단체 조례·시범사업 공지, 주요 배달플랫폼 공지사항",
+      "source": "openai-new-trend-candidates"
+    }
+  ]
+}
