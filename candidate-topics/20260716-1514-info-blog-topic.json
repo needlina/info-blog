@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-16T06:14:32.933Z",
+  "blog": "info-blog",
+  "kind": "topic",
+  "source": "openai-topic-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "직장가입자에서 지역가입자로 전환되면 건강보험료는 어떻게 달라지고 어디서 예상액을 확인할까?",
+      "slug": "health-insurance-job-to-local",
+      "thumbnail": {
+        "title": "건강보험 전환 예상액 확인",
+        "subtitle": "직장→지역 전환 시 산정 기준과 조회 방법"
+      },
+      "reason": "직장 변경·퇴사로 보험 유형이 바뀌면 보험료 부담이 크게 달라져 미리 확인해야 하기 때문입니다.",
+      "searchIntent": "전환 시점의 보험료 산정 기준과 예상 금액을 조회하는 방법을 알고 싶다.",
+      "freshnessReason": "보험료 산정 기준과 소득·재산 반영 방식이 정책 변경으로 달라질 수 있어 최신 규정을 확인해야 합니다.",
+      "sourceHint": "국민건강보험공단",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 2,
+      "title": "프리랜서로 수입이 있는데 사업자 미등록 상태면 종합소득세 신고는 어떻게 해야 하나요?",
+      "slug": "freelancer-income-tax-declaration",
+      "thumbnail": {
+        "title": "프리랜서 세금 신고 방법",
+        "subtitle": "사업자 미등록 상태의 종합소득세 절차"
+      },
+      "reason": "개인사업자 등록 여부에 따라 신고 절차와 세액, 가산세 적용이 달라질 수 있어 구체적 안내가 필요합니다.",
+      "searchIntent": "사업자 등록 없이 번 소득을 어떻게 신고하고 납부하는지 절차와 기한을 알고 싶다.",
+      "freshnessReason": "세법과 신고 방식(간편장부·신고서류 등)은 매년·정책 변경으로 바뀔 수 있어 최신 안내가 필요합니다.",
+      "sourceHint": "국세청(홈택스)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 3,
+      "title": "국민연금 납부예외(유예·임의가입)는 어떤 경우에 신청할 수 있고 절차는 어떻게 되나요?",
+      "slug": "national-pension-payment-exemption",
+      "thumbnail": {
+        "title": "국민연금 납부예외 안내",
+        "subtitle": "유예·임의가입 대상과 신청 방법"
+      },
+      "reason": "해외체류·취업형태 변경 등으로 납부예외를 신청해야 할 상황이 있어 공식 절차 확인이 중요합니다.",
+      "searchIntent": "자격 요건과 온라인·오프라인 신청 절차 및 필요한 서류를 확인하고 싶다.",
+      "freshnessReason": "납부예외 요건과 신청 방식은 제도 개편이나 시행규칙 변경으로 달라질 수 있습니다.",
+      "sourceHint": "국민연금공단",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 4,
+      "title": "퇴직연금(IRP)이나 퇴직금 중도인출 시 적용되는 조건과 세제 불이익은 무엇인가요?",
+      "slug": "retirement-pension-irp-withdrawal-rules",
+      "thumbnail": {
+        "title": "퇴직연금·IRP 중도인출 규정",
+        "subtitle": "인출 요건과 세제상 유의사항"
+      },
+      "reason": "중도인출은 세제 및 수수료 영향을 크게 받으므로 정확한 조건을 확인해야 불이익을 줄일 수 있습니다.",
+      "searchIntent": "중도인출 가능한 사유와 절차, 세금·벌금 등 비용을 미리 알고 싶다.",
+      "freshnessReason": "세제 규정과 금융사 세부 약관이 수시로 바뀔 수 있어 최신 공적 자료 확인이 필요합니다.",
+      "sourceHint": "금융감독원, 국세청",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 5,
+      "title": "임대차 신고제(임대차계약 신고)는 어떻게 신고하고 신고 기한은 언제까지인가요?",
+      "slug": "rental-contract-registration-reporting",
+      "thumbnail": {
+        "title": "임대차 신고제 절차",
+        "subtitle": "신고 방법과 기한 확인하기"
+      },
+      "reason": "임대차 신고제는 임차인의 권리 보호와 세제 적용에 직결되므로 정확한 신고법을 알아야 합니다.",
+      "searchIntent": "임대차계약을 어디에 어떻게 신고해야 하고 기한·벌칙은 어떻게 되는지 알고 싶다.",
+      "freshnessReason": "임대차 관련 신고 대상·기한·과태료 규정은 법 개정이나 시행 지침으로 변경될 수 있습니다.",
+      "sourceHint": "국토교통부, 관할 시군구청",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 6,
+      "title": "전기차 구매 보조금 신청 자격과 신청 시 확인할 점은 무엇인가요?",
+      "slug": "ev-purchase-subsidy-application",
+      "thumbnail": {
+        "title": "전기차 보조금 신청 가이드",
+        "subtitle": "자격 기준과 지자체별 확인 포인트"
+      },
+      "reason": "보조금은 중앙·지자체 규정과 예산에 따라 달라져 구매 결정 전 확인이 필요합니다.",
+      "searchIntent": "신청 자격·신청 방법·지급 시점과 지자체별 차이점을 알고 싶다.",
+      "freshnessReason": "보조금 예산·적용 대상·신청 기간은 연도별·지자체별로 수시로 바뀌므로 최신 공고를 확인해야 합니다.",
+      "sourceHint": "환경부, 각 지자체(시군구)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 7,
+      "title": "외국인 배우자를 건강보험 피부양자로 등록하려면 어떤 조건과 서류가 필요한가요?",
+      "slug": "foreign-spouse-health-insurance-dependency",
+      "thumbnail": {
+        "title": "외국인 피부양자 등록",
+        "subtitle": "조건·필요서류·신청처 안내"
+      },
+      "reason": "외국인 가족의 가입 자격은 체류자격·소득 등 복합 기준이 있어 공식 확인이 필수입니다.",
+      "searchIntent": "등록 요건과 제출 서류, 온라인·오프라인 신청 방법을 알고 싶다.",
+      "freshnessReason": "체류허가·비자 조건과 보험 운영 지침이 바뀔 수 있어 최신 규정 확인이 필요합니다.",
+      "sourceHint": "국민건강보험공단, 출입국외국인정책본부(출입국)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 8,
+      "title": "1세대 1주택 양도소득세 비과세 요건에서 거주기간과 보유기간은 어떻게 계산하나요?",
+      "slug": "capital-gains-1house-exemption-periods",
+      "thumbnail": {
+        "title": "양도소득세 비과세 계산",
+        "subtitle": "거주기간·보유기간 산정 방법"
+      },
+      "reason": "양도소득세 비과세 여부는 세금 부담에 큰 영향을 주므로 정확한 기간 계산이 중요합니다.",
+      "searchIntent": "거주·보유기간 산정 기준과 예외 사례를 확인해 비과세 적용 여부를 알고 싶다.",
+      "freshnessReason": "세법상의 비과세 요건과 해석 지침은 개정이나 판례로 달라질 수 있어 최신 자료를 봐야 합니다.",
+      "sourceHint": "국세청",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 9,
+      "title": "전세자금대출 보증기관을 변경하면 금리와 상환조건은 어떻게 달라지나요?",
+      "slug": "jeonse-loan-guarantee-change",
+      "thumbnail": {
+        "title": "전세대출 보증기관 변경 영향",
+        "subtitle": "금리·한도·상환조건 확인 포인트"
+      },
+      "reason": "대출 보증기관 변경 시 실질적 비용과 대출 한도가 달라질 수 있어 사전 비교가 필요합니다.",
+      "searchIntent": "보증기관별 보증료·한도·금리 영향과 변경 절차를 알고 싶다.",
+      "freshnessReason": "금융상품 금리와 보증기관 규정은 금융 정책·시장의 변화로 수시로 조정됩니다.",
+      "sourceHint": "금융위원회, 주택도시보증공사(HUG), 한국주택금융공사",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 10,
+      "title": "공공임대주택 재계약 시 소득·자산 기준 변경으로 퇴거 대상인지 어떻게 확인하나요?",
+      "slug": "public-rental-recontract-income-asset-check",
+      "thumbnail": {
+        "title": "공공임대 재계약 자격 확인",
+        "subtitle": "소득·자산 기준 변경 시 대응 방법"
+      },
+      "reason": "재계약 조건 변경은 거주 안정성에 직접적 영향을 주므로 공식 기준을 반드시 확인해야 합니다.",
+      "searchIntent": "재계약 자격 기준과 이의신청·대체 공공주택 옵션을 알고 싶다.",
+      "freshnessReason": "공공주택 임대정책과 소득·자산 기준은 정부·지자체 정책에 따라 변경될 수 있습니다.",
+      "sourceHint": "한국토지주택공사(LH), 국토교통부",
+      "source": "openai-topic-candidates"
+    }
+  ]
+}
