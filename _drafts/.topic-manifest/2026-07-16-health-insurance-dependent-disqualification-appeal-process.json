@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:09:18.947Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468227945",
+    "runAttempt": "1"
+  },
+  "candidateKind": "topic",
+  "topic": "국민건강보험 피부양자 자격 상실 통지 뒤 이의신청은 어떻게 준비하나?",
+  "topicTitle": "국민건강보험 피부양자 자격 상실 통지 뒤 이의신청은 어떻게 준비하나?",
+  "topicSlug": "health-insurance-dependent-disqualification-appeal-process",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:health-insurance-dependent-disqualification-appeal-process",
+    "title:국민건강보험 피부양자 자격 상실 통지 뒤 이의신청은 어떻게 준비하나?"
+  ],
+  "post": {
+    "title": "국민건강보험 피부양자 자격 상실 통지 후 이의신청 준비와 체크리스트",
+    "slug": "health-insurance-dependent-disqualification-appeal-process",
+    "draftPath": "_drafts/2026-07-16-health-insurance-dependent-disqualification-appeal-process.md",
+    "thumbnailPath": "/assets/img/posts/blog/health-insurance-dependent-disqualification-appeal-process/preview.png"
+  }
+}
