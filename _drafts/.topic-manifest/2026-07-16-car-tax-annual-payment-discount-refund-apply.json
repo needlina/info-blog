@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:09:40.652Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468227945",
+    "runAttempt": "1"
+  },
+  "candidateKind": "topic",
+  "topic": "자동차세 연납 신청 시 할인율·환급 규정과 신청 방법은 어떻게 되나?",
+  "topicTitle": "자동차세 연납 신청 시 할인율·환급 규정과 신청 방법은 어떻게 되나?",
+  "topicSlug": "car-tax-annual-payment-discount-refund-apply",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:car-tax-annual-payment-discount-refund-apply",
+    "title:자동차세 연납 신청 시 할인율·환급 규정과 신청 방법은 어떻게 되나?"
+  ],
+  "post": {
+    "title": "자동차세 연납: 할인율·환급 규정과 신청 방법 총정리",
+    "slug": "car-tax-annual-payment-discount-refund-apply",
+    "draftPath": "_drafts/2026-07-16-car-tax-annual-payment-discount-refund-apply.md",
+    "thumbnailPath": "/assets/img/posts/blog/car-tax-annual-payment-discount-refund-apply/preview.png"
+  }
+}
