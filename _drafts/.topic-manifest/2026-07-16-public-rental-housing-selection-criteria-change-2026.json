@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:09:55.820Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468210847",
+    "runAttempt": "1"
+  },
+  "candidateKind": "new-trend",
+  "topic": "공공임대주택 입주자 선정기준 개편안: 소득·자산 기준과 재계약 영향",
+  "topicTitle": "공공임대주택 입주자 선정기준 개편안: 소득·자산 기준과 재계약 영향",
+  "topicSlug": "public-rental-housing-selection-criteria-change-2026",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:public-rental-housing-selection-criteria-change-2026",
+    "title:공공임대주택 입주자 선정기준 개편안: 소득·자산 기준과 재계약 영향"
+  ],
+  "post": {
+    "title": "공공임대주택 입주자 선정기준 개편안 정리: 소득·자산 기준과 재계약 어떻게 달라지나",
+    "slug": "public-rental-housing-selection-criteria-change-2026",
+    "draftPath": "_drafts/2026-07-16-public-rental-housing-selection-criteria-change-2026.md",
+    "thumbnailPath": "/assets/img/posts/blog/public-rental-housing-selection-criteria-change-2026/preview.png"
+  }
+}
