@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:08:09.964Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468153343",
+    "runAttempt": "1"
+  },
+  "candidateKind": "new-trend",
+  "topic": "2026년 전기요금 누진제·요금체계 개편 예고와 가구별 영향",
+  "topicTitle": "2026년 전기요금 누진제·요금체계 개편 예고와 가구별 영향",
+  "topicSlug": "2026-jeongi-yogeum-nujinje-gaepyeon",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:2026-jeongi-yogeum-nujinje-gaepyeon",
+    "title:2026년 전기요금 누진제·요금체계 개편 예고와 가구별 영향"
+  ],
+  "post": {
+    "title": "2026 전기요금 누진제 개편 안내: 가구별 영향과 확인·대응 방법",
+    "slug": "2026-jeongi-yogeum-nujinje-gaepyeon",
+    "draftPath": "_drafts/2026-07-16-2026-jeongi-yogeum-nujinje-gaepyeon.md",
+    "thumbnailPath": "/assets/img/posts/blog/2026-jeongi-yogeum-nujinje-gaepyeon/preview.png"
+  }
+}
