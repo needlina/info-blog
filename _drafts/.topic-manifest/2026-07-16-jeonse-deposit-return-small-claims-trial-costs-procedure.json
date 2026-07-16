@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:09:31.315Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468227945",
+    "runAttempt": "1"
+  },
+  "candidateKind": "topic",
+  "topic": "전세보증금 반환을 위한 소액재판 비용과 절차는 어떻게 준비하나?",
+  "topicTitle": "전세보증금 반환을 위한 소액재판 비용과 절차는 어떻게 준비하나?",
+  "topicSlug": "jeonse-deposit-return-small-claims-trial-costs-procedure",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:jeonse-deposit-return-small-claims-trial-costs-procedure",
+    "title:전세보증금 반환을 위한 소액재판 비용과 절차는 어떻게 준비하나?"
+  ],
+  "post": {
+    "title": "전세보증금 반환: 소액재판 비용과 절차, 준비물 총정리",
+    "slug": "jeonse-deposit-return-small-claims-trial-costs-procedure",
+    "draftPath": "_drafts/2026-07-16-jeonse-deposit-return-small-claims-trial-costs-procedure.md",
+    "thumbnailPath": "/assets/img/posts/blog/jeonse-deposit-return-small-claims-trial-costs-procedure/preview.png"
+  }
+}
