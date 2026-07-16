@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-07-15T10:06:42.846Z",
+  "blog": "info-blog",
+  "kind": "new-trend",
+  "source": "openai-new-trend-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "전기요금 누진제 개편안과 계절별 요금제 도입 영향",
+      "slug": "electricity-rate-reform-seasonal-tariff-2026",
+      "thumbnail": {
+        "title": "전기요금 개편 핵심",
+        "subtitle": "가구별 비용 변화와 절약 포인트"
+      },
+      "reason": "정부·한전의 누진제 개편 논의와 계절별 요금제 도입안이 가구 전기요금에 직접적인 영향을 주기 때문에 생활비 관점에서 독자가 빠르게 확인할 가치가 있다.",
+      "searchIntent": "이번 개편안에서 가구별 요금 구간이 어떻게 바뀌고 내 월별·계절별 전기요금이 얼마나 달라지는지 알고 싶다.",
+      "freshnessReason": "개편안이 공청회·시범적용 또는 요금 고시 단계에 있으며 세부 시행시기와 가구별 시뮬레이션 결과가 곧 공개될 가능성이 있다.",
+      "sourceHint": "산업통상자원부 발표자료, 한국전력공사(한전) 고시·요금안, 관련 공청회 자료",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 2,
+      "title": "배달대행 노동자 산재보험 적용 의무화 시범사업 확대",
+      "slug": "delivery-courier-workers-compensation-mandatory-pilot",
+      "thumbnail": {
+        "title": "배달 노동자의 산재보호",
+        "subtitle": "시범사업 확대와 소비자·업체 영향"
+      },
+      "reason": "배달대행업 종사자의 산재 적용 범위 확대는 배달비·수수료 구조와 분쟁, 소비자 피해보호에 연쇄적으로 영향을 줄 수 있어 생활정보 블로그에서 다루기 적절하다.",
+      "searchIntent": "시범사업 대상자·시행범위·사업주 부담과 이용자(주문자)에게 미칠 비용 영향이 무엇인지 확인하고 싶다.",
+      "freshnessReason": "고용노동부와 지자체의 시범사업 확대 결정과 시행계획이 이달 내·외로 발표되면서 사업자별 준비와 이용자 공지가 진행 중이다.",
+      "sourceHint": "고용노동부 보도자료, 시·도 지방노동관서 공고, 배달플랫폼 운영사 안내문",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 3,
+      "title": "전월세 신고제 과태료·신고기간 변경: 임대인과 세입자가 알아야 할 점",
+      "slug": "lease-registration-fine-deadline-change-2026",
+      "thumbnail": {
+        "title": "전월세 신고제 업데이트",
+        "subtitle": "신고기한·과태료 기준과 실무 체크리스트"
+      },
+      "reason": "전월세 신고제의 신고 기간·과태료 기준 조정은 임대차 계약 당사자에게 직접적인 행정·금전적 영향을 주므로 시급히 안내할 가치가 있다.",
+      "searchIntent": "새로운 신고 기한과 과태료 기준은 무엇인지, 신고 절차·증빙은 어떻게 준비해야 하는지 알고 싶다.",
+      "freshnessReason": "국토교통부 및 지방자치단체의 시행세칙 변경 공지와 혼선 최소화를 위한 행정안내가 최근 배포되거나 예정되어 있다.",
+      "sourceHint": "국토교통부 고시·행정예고, 각 지방자치단체 전월세 신고 안내, 행정안전부 자치단체 공지",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 4,
+      "title": "원격의료 시범사업 확대와 국민건강보험 수가 반영 여부",
+      "slug": "telemedicine-pilot-nhic-fee-inclusion-2026",
+      "thumbnail": {
+        "title": "원격진료 확대 체크포인트",
+        "subtitle": "수가 인정과 환자 이용 가이드"
+      },
+      "reason": "원격의료 시범사업 확대는 진료 접근성과 병원 이용 패턴을 바꾸며 보험수가 적용 여부가 환자 비용에 직접 영향을 미치므로 시의성이 높다.",
+      "searchIntent": "어떤 진료에 원격진료가 적용되는지, 국민건강보험 수가가 인정되는지와 환자 본인부담은 어떻게 되는지 알고 싶다.",
+      "freshnessReason": "보건복지부·건강보험공단의 시범사업 대상 확대 발표와 수가 검토 결과가 최근 공개되거나 심사 중이다.",
+      "sourceHint": "보건복지부 시범사업 공고, 국민건강보험공단 수가 심의·운영 안내, 보건의료연구원 관련 보고서",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 5,
+      "title": "공공임대주택 입주자 선정기준 개편안: 소득·자산 기준과 재계약 영향",
+      "slug": "public-rental-housing-selection-criteria-change-2026",
+      "thumbnail": {
+        "title": "공공임대 선정 기준 변경",
+        "subtitle": "신규입주·재계약 대상자 영향 분석"
+      },
+      "reason": "공공임대주택의 소득·자산 산정 방식과 우선순위 변경은 주거 불안정층과 신청자 대기자에게 실질적 영향을 미치므로 빠르게 정리해줄 필요가 있다.",
+      "searchIntent": "개편된 선정기준(소득·자산·우선순위)이 내 자격에 어떤 변화를 주는지, 재계약 요건과 이행기간은 어떻게 달라지는지 알고 싶다.",
+      "freshnessReason": "국토교통부의 선정기준 개정안이 행정예고 또는 지방공사 운영지침 변경 단계에 있어 신청자·입주민에게 즉시 영향을 준다.",
+      "sourceHint": "국토교통부 공고, 한국토지주택공사(LH) 및 지방공사 공지사항, 지자체 임대주택 운영지침",
+      "source": "openai-new-trend-candidates"
+    }
+  ]
+}
