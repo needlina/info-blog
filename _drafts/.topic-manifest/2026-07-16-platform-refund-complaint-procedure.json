@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-16T03:07:15.241Z",
+  "source": {
+    "workflow": "Generate AI Draft From Comment",
+    "runId": "29468128305",
+    "runAttempt": "1"
+  },
+  "candidateKind": "topic",
+  "topic": "온라인 쇼핑몰이나 플랫폼이 환불을 거부하면 어디에 신고하고 어떤 증거를 모아야 할까?",
+  "topicTitle": "온라인 쇼핑몰이나 플랫폼이 환불을 거부하면 어디에 신고하고 어떤 증거를 모아야 할까?",
+  "topicSlug": "platform-refund-complaint-procedure",
+  "topicKeyword": "",
+  "topicIdentifiers": [
+    "slug:platform-refund-complaint-procedure",
+    "title:온라인 쇼핑몰이나 플랫폼이 환불을 거부하면 어디에 신고하고 어떤 증거를 모아야 할까?"
+  ],
+  "post": {
+    "title": "온라인 쇼핑몰 환불 거부 시 어디에 신고하고 어떤 증거를 모아야 할까?",
+    "slug": "platform-refund-complaint-procedure",
+    "draftPath": "_drafts/2026-07-16-platform-refund-complaint-procedure.md",
+    "thumbnailPath": "/assets/img/posts/blog/platform-refund-complaint-procedure/preview.png"
+  }
+}
