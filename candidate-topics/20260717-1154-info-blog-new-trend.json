@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-07-17T02:54:46.406Z",
+  "blog": "info-blog",
+  "kind": "new-trend",
+  "source": "openai-new-trend-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "2026 전자주민등록증(모바일 신분증) 전국 시행·활용 범위 확대",
+      "slug": "2026-mobile-resident-id-expansion",
+      "thumbnail": {
+        "title": "모바일 주민등록증 전국 시행",
+        "subtitle": "사용처·법적효력 바뀌는 포인트"
+      },
+      "reason": "모바일 신분증의 법적 효력과 사용 가능 기관이 확대되면 은행·관공서·상거래에서 신분 확인 방식이 즉시 바뀌기 때문에 생활 정보 블로그 독자에게 유용하다.",
+      "searchIntent": "모바일 주민등록증 신청 방법과 사용 가능한 기관(은행, 관공서, 민간사) 및 오프라인 신분증 대체 여부를 알고 싶다.",
+      "freshnessReason": "행정안전부의 전국 시행 일정과 적용 범위가 최근 공고되어 바로 확인해야 한다.",
+      "sourceHint": "행정안전부, 정부24 공지, 지자체 시행 안내, 주요 은행·통신사 공지",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 2,
+      "title": "2026 전기차 구매 보조금 기준·예산 축소 및 지자체 접수 일정 변경",
+      "slug": "2026-ev-subsidy-eligibility-and-application",
+      "thumbnail": {
+        "title": "전기차 보조금 변경",
+        "subtitle": "대상·예산·접수일 확인 필수"
+      },
+      "reason": "보조금 대상·예산·접수 시점이 바뀌면 구매 시기와 모델 선택에 따라 수백만 원 차이가 생길 수 있어 전기차 구매 예정자에게 중요한 이슈다.",
+      "searchIntent": "내 차종이 보조금 대상인지, 지자체별 접수 일정과 신청 방법 및 예산 소진 가능성 여부를 확인하고 싶다.",
+      "freshnessReason": "환경부와 각 시·도의 보조금 공고가 이번 달에 업데이트되며 접수 조건과 일정이 달라졌다.",
+      "sourceHint": "환경부, 산업통상자원부, 한국환경공단, 각 시·도 보조금 공고",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 3,
+      "title": "한전 주택용 시간대별 요금제(TOU) 확대·요금제 선택지 개편",
+      "slug": "2026-home-electricity-tou-tariff-change",
+      "thumbnail": {
+        "title": "주택용 TOU 요금제 확대",
+        "subtitle": "시간대·계절별 요금 변경 포인트"
+      },
+      "reason": "시간대별 요금제 확대는 가구별 전기요금 최적화 전략과 절감 방법이 달라지는 변곡점이라 생활비 절감 팁을 제공하기에 적절하다.",
+      "searchIntent": "새 요금제의 적용 시점과 가입 조건, 기존 요금제와 비교했을 때 내 가구 예상 요금 변화를 알고 싶다.",
+      "freshnessReason": "한국전력공사의 시범도입 및 전면 확대 계획이 최근 발표돼 요금제 전환 시점을 확인해야 한다.",
+      "sourceHint": "한국전력공사(Kepco) 공지, 전력거래소 안내, 에너지경제연구원·에너지공단 자료",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 4,
+      "title": "2026 전월세 신고제 과태료·신고절차 상향 조정과 신고 유예 변경",
+      "slug": "2026-rental-reporting-obligation-penalty-update",
+      "thumbnail": {
+        "title": "전월세 신고제 개편",
+        "subtitle": "과태료·유예기간 바뀌는 내용"
+      },
+      "reason": "전월세 신고 의무와 과태료가 강화되면 임대인과 임차인 모두 계약 체결과 신고 절차를 즉시 점검해야 하므로 현안성 높은 주제다.",
+      "searchIntent": "누가 언제까지 신고해야 하는지, 과태료 수준과 유예 규정은 어떻게 바뀌는지, 위반 시 처분 절차를 알고 싶다.",
+      "freshnessReason": "국토교통부의 개정안 확정 및 지자체별 시행 일정이 최근 공지되어 즉시 확인할 필요가 있다.",
+      "sourceHint": "국토교통부, 각 시·도(구청) 전월세 신고 안내, 정부 입법예고·공포문",
+      "source": "openai-new-trend-candidates"
+    },
+    {
+      "index": 5,
+      "title": "공공임대주택 온라인 신청 시스템 전면 개편으로 서류·접수일정 변경",
+      "slug": "2026-public-rental-application-system-revamp",
+      "thumbnail": {
+        "title": "공공임대 신청시스템 개편",
+        "subtitle": "접수 방식·서류 변경 체크리스트"
+      },
+      "reason": "온라인 신청 절차와 제출서류가 바뀌면 신청 성공률과 제출 준비가 달라지므로 공공임대청약을 준비 중인 독자에게 중요한 정보다.",
+      "searchIntent": "새 시스템에서 달라진 로그인·본인확인 방식, 필수 제출서류, 접수 마감일과 이관 규정을 알고 싶다.",
+      "freshnessReason": "한국토지주택공사(LH)와 지자체의 시스템 전환 일정이 확정되어 기존 방식으로는 접수할 수 없는 기간이 생겼다.",
+      "sourceHint": "한국토지주택공사(LH), 국토교통부, 각 지자체 공고, 정부24 안내",
+      "source": "openai-new-trend-candidates"
+    }
+  ]
+}
