@@ -7,7 +7,7 @@ current_as_of: 2026-07-13
 update_cycle: monthly
 source_type: official
 categories: ["How-To and Requirements", "Policy and Law"]
-tags: ["eitc", "semiannual-application", "how-to", "2026", "working-benefits"]
+tags: ["근로장려금", "반기신청", "신청조건", "홈택스", "2026"]
 image:
   path: /assets/img/posts/blog/earned-income-tax-credit-half-year-2026/preview.png
   alt: "근로장려금 반기 신청 썸네일"

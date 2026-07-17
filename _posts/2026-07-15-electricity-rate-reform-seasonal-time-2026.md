@@ -7,7 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Policy and Law", "How-To and Requirements"]
-tags: ["electricity", "ev-charging", "2026", "news", "trend"]
+tags: ["전기요금", "시간대별요금", "전기차충전", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/electricity-rate-reform-seasonal-time-2026/preview.png
   alt: "전기요금 체계 개편 썸네일"

@@ -7,7 +7,7 @@ current_as_of: 2026-07-12
 update_cycle: monthly
 source_type: official
 categories: ["Travel and Local Rules"]
-tags: ["visit-japan-web", "japan-travel", "travel-checklist", "2026"]
+tags: ["visit-japan-web", "일본여행", "입국준비", "등록방법", "2026"]
 image:
   path: /assets/img/posts/blog/visit-japan-web-registration-required/image-1.webp
   alt: "스마트폰으로 여행 서류를 등록하는 심플한 일러스트"

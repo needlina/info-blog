@@ -7,7 +7,7 @@ current_as_of: 2026-07-14
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags: ["national-pension", "pension-forecast", "how-to", "2026", "korea"]
+tags: ["국민연금", "예상수령액", "연금조회", "확인방법", "2026"]
 image:
   path: /assets/img/posts/blog/national-pension-estimated-benefit-check/preview.png
   alt: "국민연금 예상액 조회 썸네일"

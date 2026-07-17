@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Money and Pricing"]
-tags: ["unemployment-benefit", "employment-insurance", "salary-reduction", "2026"]
+tags: ["근로시간단축", "실업급여", "고용보험", "급여산정", "2026"]
 image:
   path: /assets/img/posts/blog/reduced-work-hours-unemployment-benefit-calculation/preview.png
   alt: "근로시간 단축과 실업급여 썸네일"

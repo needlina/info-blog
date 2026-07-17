@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags: ["rental-property", "tax", "registration", "checklist", "2026"]
+tags: ["임대사업자", "등록말소", "종합소득세", "양도세", "2026"]
 image:
   path: /assets/img/posts/blog/rental-business-deregistration-tax-impact/preview.png
   alt: "임대사업자 말소와 세금 썸네일"

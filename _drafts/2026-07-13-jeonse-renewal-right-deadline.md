@@ -7,7 +7,7 @@ current_as_of: 2026-07-13
 update_cycle: monthly
 source_type: official
 categories: ["Policy and Law", "How-To and Requirements"]
-tags: ["jeonse-renewal", "lease-rights", "tenant-protection", "checklist", "2026"]
+tags: ["전세계약", "갱신청구권", "사용기한", "임차인권리", "2026"]
 image:
   path: /assets/img/posts/blog/jeonse-renewal-right-deadline/image-1.webp
   alt: "전세 계약 갱신청구권을 설명하는 단순한 개념 일러스트"

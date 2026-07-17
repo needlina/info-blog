@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official
 categories: ["Policy and Law", "How-To and Requirements"]
-tags: ["public-housing", "income-assets", "2026", "news", "trend"]
+tags: ["공공임대주택", "입주자선정", "소득자산", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/public-rental-housing-selection-criteria-change-2026/preview.png
   alt: "공공임대 선정 기준 변경 썸네일"

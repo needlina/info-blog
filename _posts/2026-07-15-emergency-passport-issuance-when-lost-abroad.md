@@ -7,14 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Travel and Local Rules"]
-tags:
-  [
-    "passport-loss",
-    "emergency-passport",
-    "consular-service",
-    "travel-documents",
-    "2026"
-  ]
+tags: ["긴급여권", "여권분실", "해외여행", "준비서류", "2026"]
 image:
   path: /assets/img/posts/blog/emergency-passport-issuance-when-lost-abroad/preview.png
   alt: "해외 여권 분실 시 임시여권 썸네일"

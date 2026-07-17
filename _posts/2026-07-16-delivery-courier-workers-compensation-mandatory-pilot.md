@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Policy and Law", "Work and Life Admin"]
-tags: ["2026", "workers-compensation", "delivery-workers", "news", "trend"]
+tags: ["배달노동자", "산재보험", "시범사업", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/delivery-courier-workers-compensation-mandatory-pilot/preview.png
   alt: "배달 노동자의 산재보호 썸네일"

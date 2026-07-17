@@ -7,7 +7,7 @@ current_as_of: 2026-07-14
 update_cycle: monthly
 source_type: official
 categories: ["How-To and Requirements", "Money and Pricing"]
-tags: ["child-subsidy", "tax-credit", "application", "checklist", "2026"]
+tags: ["자녀장려금", "신청대상", "지급시기", "신청방법", "2026"]
 image:
   path: /assets/img/posts/blog/child-tax-credit-eligibility-payment-2026/preview.png
   alt: "자녀장려금 신청 대상 썸네일"

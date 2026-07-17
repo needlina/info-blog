@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Work and Life Admin"]
-tags: ["consumer-rights", "refunds", "evidence", "online-shopping", "2026"]
+tags: ["온라인쇼핑", "환불거부", "소비자신고", "증거준비", "2026"]
 image:
   path: /assets/img/posts/blog/platform-refund-complaint-procedure/preview.png
   alt: "플랫폼 환불 거부 대응 썸네일"

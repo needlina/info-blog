@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Policy and Law", "Product and Service Updates"]
-tags: ["delivery-fee-cap", "refunds", "2026", "news", "trend"]
+tags: ["배달앱수수료", "환불정산", "가맹점", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/2026-delivery-platform-fee-cap-refund-settlement/preview.png
   alt: "배달앱 수수료 규제 썸네일"

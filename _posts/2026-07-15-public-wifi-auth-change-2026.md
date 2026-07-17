@@ -7,8 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Product and Service Updates", "How-To and Requirements"]
-tags:
-  ["public-wifi", "wifi-authentication", "security", "2026", "news", "trend"]
+tags: ["공공와이파이", "로그인변경", "보안점검", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/public-wifi-auth-change-2026/preview.png
   alt: "공공와이파이 인증 변경 썸네일"

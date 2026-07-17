@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags: ["application", "youth", "rental-deposit", "sme", "2026"]
+tags: ["청년전세대출", "전월세보증금", "신청자격", "필요서류", "2026"]
 image:
   path: /assets/img/posts/blog/youth-rental-deposit-loan-eligibility/preview.png
   alt: "청년 전월세 대출 안내 썸네일"

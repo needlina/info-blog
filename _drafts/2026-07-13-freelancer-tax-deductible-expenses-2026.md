@@ -7,7 +7,7 @@ current_as_of: 2026-07-13
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Money and Pricing", "How-To and Requirements"]
-tags: ["freelancer", "tax", "expense-deduction", "checklist", "2026"]
+tags: ["프리랜서", "종합소득세", "경비처리", "절세확인", "2026"]
 image:
   path: /assets/img/posts/blog/freelancer-tax-deductible-expenses-2026/image-1.webp
   alt: "프리랜서가 영수증과 계산서를 정리하는 간단한 일러스트"

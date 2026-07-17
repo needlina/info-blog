@@ -7,7 +7,7 @@ current_as_of: 2026-07-12
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Product and Service Updates", "Money and Pricing"]
-tags: ["coupang", "wow-membership", "refund", "2026"]
+tags: ["쿠팡와우", "멤버십환불", "구독해지", "환불기준", "2026"]
 image:
   path: /assets/img/posts/blog/coupang-wow-membership-refund-guide/image-1.webp
   alt: "쿠팡 와우 멤버십 관련 환불 개념을 보여주는 단순 일러스트"

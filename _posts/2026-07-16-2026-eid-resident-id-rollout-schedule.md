@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Policy and Law"]
-tags: ["e-id", "resident-id", "2026", "news", "trend"]
+tags: ["전자신분증", "주민등록증", "전환절차", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/2026-eid-resident-id-rollout-schedule/preview.png
   alt: "전자신분증(eID) 도입 썸네일"

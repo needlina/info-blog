@@ -7,7 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official
 categories: ["How-To and Requirements"]
-tags: ["electric-vehicle", "ev-subsidy", "refund", "checklist", "2026"]
+tags: ["전기차보조금", "보조금환수", "환불절차", "확인방법", "2026"]
 image:
   path: /assets/img/posts/blog/ev-subsidy-cancellation-refund-procedure/preview.png
   alt: "전기차 보조금 취소·환수 썸네일"

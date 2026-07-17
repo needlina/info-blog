@@ -7,7 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Work and Life Admin"]
-tags: ["nhis", "health-insurance", "eligibility-switch", "2026"]
+tags: ["건강보험", "지역가입자", "자격전환", "확인방법", "2026"]
 image:
   path: /assets/img/posts/blog/health-insurance-switch-from-employer-to-local-criteria/preview.png
   alt: "건강보험 자격전환 썸네일"

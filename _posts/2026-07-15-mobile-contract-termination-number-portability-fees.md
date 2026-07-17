@@ -7,14 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags:
-  [
-    "mobile-contract",
-    "termination-fee",
-    "number-portability",
-    "consumer-rights",
-    "2026"
-  ]
+tags: ["통신사해지", "번호이동", "위약금", "정산기준", "2026"]
 image:
   path: /assets/img/posts/blog/mobile-contract-termination-number-portability-fees/preview.png
   alt: "해지·번호이동 시 위약금 확인 썸네일"

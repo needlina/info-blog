@@ -7,7 +7,7 @@ current_as_of: 2026-07-13
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Product and Service Updates"]
-tags: ["kakao-talk", "chat-backup", "phone-migration", "data-safety", "2026"]
+tags: ["카카오톡", "대화백업", "폰이전", "데이터복구", "2026"]
 ---
 
 카카오톡 백업 없이 새 휴대폰으로 옮기면 대화가 사라질까? 결론(먼저 요약) 확인해보니, 일반적으로 백업을 하지 않고 새 휴대폰으로 옮기면 기존 기기에만 저장돼 있던 카카오톡 대화는 사라질 가능성이 큽니다

@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags: ["jeonse", "small-claims", "lawsuit", "checklist", "2026"]
+tags: ["전세보증금", "소액재판", "반환청구", "준비서류", "2026"]
 image:
   path: /assets/img/posts/blog/jeonse-deposit-return-small-claims-trial-costs-procedure/preview.png
   alt: "전세금 반환 소액재판 가이드 썸네일"

@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official
 categories: ["Policy and Law", "How-To and Requirements"]
-tags: ["2026", "rental-housing", "jeonse-conversion", "tenant-rights", "news", "trend"]
+tags: ["전월세전환보증", "공공임대", "임차인대응", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/2026-jeonwalse-conversion-guarantee-change/preview.png
   alt: "전월세 전환보증 변경 썸네일"

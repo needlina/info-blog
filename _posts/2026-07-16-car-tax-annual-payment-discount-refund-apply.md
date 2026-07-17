@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official
 categories: ["Money and Pricing", "How-To and Requirements"]
-tags: ["vehicle-tax", "wetax", "tax-refund", "annual-prepayment", "2026"]
+tags: ["자동차세", "연납할인", "환급신청", "위택스", "2026"]
 image:
   path: /assets/img/posts/blog/car-tax-annual-payment-discount-refund-apply/preview.png
   alt: "자동차세 연납 안내 썸네일"

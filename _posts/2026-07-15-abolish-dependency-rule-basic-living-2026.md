@@ -7,8 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Policy and Law", "How-To and Requirements"]
-tags:
-  ["basic-livelihood", "social-welfare", "application", "2026", "news", "trend"]
+tags: ["기초생활보장", "부양의무자", "복지신청", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/abolish-dependency-rule-basic-living-2026/preview.png
   alt: "부양의무자 기준 폐지 썸네일"

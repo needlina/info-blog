@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official
 categories: ["How-To and Requirements"]
-tags: ["electricity-reform", "2026", "checklist", "news", "trend"]
+tags: ["전기요금", "누진제", "요금개편", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/2026-jeongi-yogeum-nujinje-gaepyeon/preview.png
   alt: "전기요금 개편 예고 썸네일"

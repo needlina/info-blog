@@ -7,7 +7,7 @@ current_as_of: 2026-07-12
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Product and Service Updates", "How-To and Requirements"]
-tags: ["netflix", "account-sharing", "subscription", "2026", "check-list"]
+tags: ["넷플릭스", "계정공유", "추가요금", "구독정책", "2026"]
 image:
   path: /assets/img/posts/blog/netflix-account-sharing-extra-fee/image-1.webp
   alt: "가족과 비가족이 함께 보는 것을 비교하는 단순한 일러스트"

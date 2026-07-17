@@ -7,8 +7,7 @@ current_as_of: 2026-07-14
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Work and Life Admin"]
-tags:
-  ["unemployment-benefit", "leaving-job", "how-to", "2026", "job-separation"]
+tags: ["실업급여", "이직확인서", "고용보험", "신청전확인", "2026"]
 image:
   path: /assets/img/posts/blog/unemployment-benefit-employment-separation-check/preview.png
   alt: "이직확인서 처리 확인 썸네일"

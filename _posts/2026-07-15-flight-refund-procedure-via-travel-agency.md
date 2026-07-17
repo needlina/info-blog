@@ -7,7 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official
 categories: ["Travel and Local Rules", "How-To and Requirements"]
-tags: ["refund", "airline-tickets", "travel-agency", "consumer-rights", "2026"]
+tags: ["항공권환불", "여행사환불", "소비자권리", "환불절차", "2026"]
 image:
   path: /assets/img/posts/blog/flight-refund-procedure-via-travel-agency/preview.png
   alt: "항공권 환불 썸네일"

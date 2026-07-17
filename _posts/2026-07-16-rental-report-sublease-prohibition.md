@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags: ["rental", "lease", "sublease", "2026", "jeonse"]
+tags: ["전월세신고", "확정일자", "전대금지", "임대차계약", "2026"]
 image:
   path: /assets/img/posts/blog/rental-report-sublease-prohibition/preview.png
   alt: "전월세 신고와 전대 조항 썸네일"

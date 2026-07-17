@@ -7,7 +7,7 @@ current_as_of: 2026-07-13
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements"]
-tags: ["number-porting", "mvno", "troubleshooting", "checklist", "2026"]
+tags: ["알뜰폰", "번호이동", "개통오류", "해결방법", "2026"]
 image:
   path: /assets/img/posts/blog/mvno-number-porting-issues-korea/image-1.webp
   alt: "휴대폰과 체크리스트를 보여주는 단순 일러스트"

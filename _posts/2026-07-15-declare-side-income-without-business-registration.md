@@ -7,7 +7,7 @@ current_as_of: 2026-07-15
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Work and Life Admin"]
-tags: ["application", "tax-reporting", "side-income", "2026"]
+tags: ["부업소득", "종합소득세", "사업자등록", "신고방법", "2026"]
 image:
   path: /assets/img/posts/blog/declare-side-income-without-business-registration/preview.png
   alt: "부업 소득 신고 썸네일"

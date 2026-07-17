@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Policy and Law", "Work and Life Admin"]
-tags: ["medical-billing", "refunds", "policy-change", "2026", "news", "trend"]
+tags: ["의료수가", "진료비정산", "병원비환불", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/2026-medical-billing-revision-settlement/preview.png
   alt: "의료수가 정산 변경 썸네일"

@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["How-To and Requirements", "Policy and Law"]
-tags: ["nhis", "dependent", "appeal", "checklist", "2026"]
+tags: ["건강보험", "피부양자", "자격상실", "이의신청", "2026"]
 image:
   path: /assets/img/posts/blog/health-insurance-dependent-disqualification-appeal-process/preview.png
   alt: "피부양자 탈락 이의신청 준비 썸네일"

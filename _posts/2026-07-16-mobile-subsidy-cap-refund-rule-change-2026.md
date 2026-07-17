@@ -7,7 +7,7 @@ current_as_of: 2026-07-16
 update_cycle: monthly
 source_type: official-and-user-report
 categories: ["Product and Service Updates", "Policy and Law"]
-tags: ["mobile-subsidy", "device-subsidy", "2026", "news", "trend"]
+tags: ["단말기지원금", "분할환급", "통신요금", "새소식", "트렌드", "2026"]
 image:
   path: /assets/img/posts/blog/mobile-subsidy-cap-refund-rule-change-2026/preview.png
   alt: "단말기 지원금 상한 조정 썸네일"
