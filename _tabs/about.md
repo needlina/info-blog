@@ -29,4 +29,4 @@ order: 4
 ## Links
 
 - [henjini.com](https://henjini.com)
-- [GitHub](https://github.com/needlina)
+- [tech-blog](https://tech.henjini.com)
