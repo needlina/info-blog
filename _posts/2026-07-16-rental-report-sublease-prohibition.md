@@ -1,5 +1,6 @@
 ---
 title: "전대(서브리스) 금지 조항이 있으면 전월세 신고와 확정일자는 어떻게 하나요?"
+description: "전대 금지 조항이 있는 임대차의 전월세 신고, 확정일자 가능 여부, 원계약 위반 위험과 확인할 계약 문구"
 slug: "rental-report-sublease-prohibition"
 date: 2026-07-16 12:00:00 +0900
 current_as_of: 2026-07-16

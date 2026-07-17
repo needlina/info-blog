@@ -1,5 +1,6 @@
 ---
 title: "공공임대주택 입주자 선정기준 개편안 정리: 소득·자산 기준과 재계약 어떻게 달라지나"
+description: "공공임대주택 입주자 선정기준 개편안의 소득·자산 기준, 우선순위 가점, 재계약 심사 영향과 확인 경로"
 slug: "public-rental-housing-selection-criteria-change-2026"
 date: 2026-07-16 10:00:00 +0900
 current_as_of: 2026-07-16

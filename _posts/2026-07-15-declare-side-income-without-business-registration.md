@@ -1,5 +1,6 @@
 ---
 title: "사업자등록 없이 부업 소득, 종합소득세는 어떻게 신고하나요?"
+description: "사업자등록 없는 부업 소득의 신고 대상, 사업소득·기타소득 구분, 종합소득세 신고 방법과 필요 자료를 확인"
 slug: "declare-side-income-without-business-registration"
 date: 2026-07-15 09:00:00 +0900
 current_as_of: 2026-07-15

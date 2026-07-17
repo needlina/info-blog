@@ -1,5 +1,6 @@
 ---
 title: "중소기업 취업 청년 전월세 보증금 대출(청년버팀목 등) 신청자격과 필요서류 정리"
+description: "중소기업 취업 청년 전월세 보증금 대출의 연령·소득·무주택 요건, 재직 증빙과 임대차 서류 준비사항"
 slug: "youth-rental-deposit-loan-eligibility"
 date: 2026-07-16 12:00:00 +0900
 current_as_of: 2026-07-16

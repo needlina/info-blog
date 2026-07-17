@@ -1,5 +1,6 @@
 ---
 title: "통신 단말기 지원금 상한·분할환급 규정 변경(2026): 알아야 할 점과 신청 방법"
+description: "2026 통신 단말기 지원금 상한 조정, 분할환급 규정, 가입 시 확인할 지원 조건과 환급 신청 절차"
 slug: "mobile-subsidy-cap-refund-rule-change-2026"
 date: 2026-07-16 09:00:00 +0900
 current_as_of: 2026-07-16

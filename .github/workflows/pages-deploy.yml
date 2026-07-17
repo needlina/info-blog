@@ -79,6 +79,6 @@ jobs:
       - name: Verify indexing readiness
         run: node scripts/verify-indexing-readiness.mjs
         env:
-          SITE_URL: https://tech.henjini.com
+          SITE_URL: https://info.henjini.com
           INDEXING_CHECK_RETRIES: 6
           INDEXING_CHECK_DELAY_MS: 10000

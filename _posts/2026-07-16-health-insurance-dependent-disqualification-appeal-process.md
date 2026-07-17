@@ -1,5 +1,6 @@
 ---
 title: "국민건강보험 피부양자 자격 상실 통지 후 이의신청 준비와 체크리스트"
+description: "국민건강보험 피부양자 자격 상실 통지 이후 이의신청 기간, 소득·재산 증빙, 제출 서류와 처리 절차"
 slug: "health-insurance-dependent-disqualification-appeal-process"
 date: 2026-07-16 10:00:00 +0900
 current_as_of: 2026-07-16
@@ -12,7 +13,7 @@ image:
   alt: "피부양자 탈락 이의신청 준비 썸네일"
 ---
 
-오늘의 주제
+국민건강보험 피부양자 자격 상실 통지 뒤 이의신청은 어떻게 준비하나?
 
 ![통지서를 들여다보며 서류 목록을 정리하는 사람의 단순 일러스트.](/assets/img/posts/blog/health-insurance-dependent-disqualification-appeal-process/image-1.webp)
 이미지 출처: AI 생성 이미지

@@ -1,5 +1,6 @@
 ---
 title: "온라인 쇼핑몰 환불 거부 시 어디에 신고하고 어떤 증거를 모아야 할까?"
+description: "온라인 쇼핑몰 환불 거부 시 판매자·플랫폼 문의, 증거 보관, 1372 소비자상담과 카드사 분쟁조정 절차"
 slug: "platform-refund-complaint-procedure"
 date: 2026-07-16 09:00:00 +0900
 current_as_of: 2026-07-16

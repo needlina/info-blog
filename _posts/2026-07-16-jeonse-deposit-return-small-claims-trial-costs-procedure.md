@@ -1,5 +1,6 @@
 ---
 title: "전세보증금 반환: 소액재판 비용과 절차, 준비물 총정리"
+description: "전세보증금 반환 소액재판의 내용증명, 소액사건 기준, 전자소송 제출, 비용 계산과 보전조치 준비사항"
 slug: "jeonse-deposit-return-small-claims-trial-costs-procedure"
 date: 2026-07-16 10:00:00 +0900
 current_as_of: 2026-07-16

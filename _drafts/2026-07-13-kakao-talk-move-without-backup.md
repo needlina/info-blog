@@ -1,5 +1,6 @@
 ---
 title: "카카오톡 백업 없이 새 폰으로 옮기면 대화가 사라질까? 복구 가능성·안전한 이전 방법 정리"
+description: "카카오톡 백업 없이 휴대폰을 바꿀 때 대화 보존 가능성, 복구 제한, 안전한 이전 순서와 백업 확인 방법"
 slug: "kakao-talk-move-without-backup"
 date: 2026-07-13 09:00:00 +0900
 current_as_of: 2026-07-13
@@ -9,7 +10,8 @@ categories: ["How-To and Requirements", "Product and Service Updates"]
 tags: ["kakao-talk", "chat-backup", "phone-migration", "data-safety", "2026"]
 ---
 
-오늘의 주제
+카카오톡 백업 없이 새 휴대폰으로 옮기면 대화가 사라질까? 결론(먼저 요약) 확인해보니, 일반적으로 백업을 하지 않고 새 휴대폰으로 옮기면 기존 기기에만 저장돼 있던 카카오톡 대화는 사라질 가능성이 큽니다
+
 
 카카오톡 백업 없이 새 휴대폰으로 옮기면 대화가 사라질까?
 
