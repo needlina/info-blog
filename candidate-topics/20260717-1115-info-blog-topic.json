@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-17T02:15:42.127Z",
+  "blog": "info-blog",
+  "kind": "topic",
+  "source": "openai-topic-candidates",
+  "candidates": [
+    {
+      "index": 1,
+      "title": "실업으로 건강보험 피부양자에서 지역가입자로 전환되면 보험료는 언제부터 어떻게 달라지나?",
+      "slug": "when-health-insurance-changes-to-regional-after-unemployment",
+      "thumbnail": {
+        "title": "건강보험 전환 시기·계산",
+        "subtitle": "실업 후 보험료 부과 시작과 계산 기준 확인"
+      },
+      "reason": "실업으로 소득이 줄었을 때 보험료 부담이 갑자기 증가할 수 있어 미리 준비해야 하기 때문이다.",
+      "searchIntent": "전환 시점(신고·처리 기간), 보험료 산정 기준, 납부 개시일과 절차를 알고 싶다.",
+      "freshnessReason": "보험료 산정 방식과 처리 지침은 정책·시행절차 변경으로 수시로 바뀔 수 있어 최신 규정을 확인해야 한다.",
+      "sourceHint": "국민건강보험공단(www.nhis.or.kr)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 2,
+      "title": "국민연금 납부예외나 소급 인정 신청은 어떻게 하고 어떤 서류가 필요한가?",
+      "slug": "how-to-apply-national-pension-payment-exemption-and-backdate",
+      "thumbnail": {
+        "title": "국민연금 납부예외·소급",
+        "subtitle": "신청 절차와 제출서류 한눈에"
+      },
+      "reason": "납부예외나 소급 처리가 노후연금 수급에 큰 영향을 주므로 정확한 절차를 알아야 한다.",
+      "searchIntent": "소급 인정 가능 기간, 신청 절차, 필요한 증빙서류와 심사 기준을 확인하고 싶다.",
+      "freshnessReason": "심사 기준·인정 범위가 제도 개편이나 해석 변경으로 달라질 수 있어 최신 안내를 확인해야 한다.",
+      "sourceHint": "국민연금공단(www.nps.or.kr)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 3,
+      "title": "사업자 등록 없이 프리랜서로 일한 소득을 소급 신고할 때 절차와 가산세는 어떻게 되나?",
+      "slug": "how-to-report-backdated-freelance-income-without-business-registration",
+      "thumbnail": {
+        "title": "프리랜서 소급 신고",
+        "subtitle": "사업자 미등록 소득 신고·가산세 절차"
+      },
+      "reason": "프리랜서 초기 신고 누락으로 예상치 못한 가산세와 불이익이 발생할 수 있어 대응 방법이 필요하다.",
+      "searchIntent": "소급 신고 방법, 신고서류, 가산세 계산 방식과 분할 납부 등 실무 절차를 알고 싶다.",
+      "freshnessReason": "세법 해석과 가산세율·신고 절차는 매년 또는 정책 변경 시 달라질 수 있어 최신 정보를 확인해야 한다.",
+      "sourceHint": "국세청 홈택스(hometax.go.kr)·국세청 상담센터",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 4,
+      "title": "전기·가스 요금제 중도 해지 시 위약금 계산 방식과 환급 청구 절차는?",
+      "slug": "how-termination-fees-and-refunds-work-for-electricity-gas-plans",
+      "thumbnail": {
+        "title": "전기·가스 요금제 해지",
+        "subtitle": "위약금 산정과 환급 청구 방법"
+      },
+      "reason": "요금제 변경이나 이사로 인한 해지 시 예상치 못한 위약금과 환급 문제로 비용 손해가 발생하므로 확인이 필요하다.",
+      "searchIntent": "위약금 산정 기준, 환급 가능 여부, 청구 절차와 제출서류를 확인하고 싶다.",
+      "freshnessReason": "공공요금 요금제 및 민원 처리 기준은 전력·가스사와 규제기관 정책에 따라 수시로 바뀔 수 있다.",
+      "sourceHint": "한국전력공사(www.kepco.co.kr), 한국가스공사 또는 해당 지방 도시가스사 안내",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 5,
+      "title": "공공임대주택 입주 중 혼인·출산 등 가족변동이 생기면 입주자격과 계약 조건은 어떻게 바뀌나?",
+      "slug": "how-public-rental-eligibility-changes-after-marriage-or-childbirth",
+      "thumbnail": {
+        "title": "공공임대 가족변동",
+        "subtitle": "혼인·출산 시 자격·계약 영향 정리"
+      },
+      "reason": "가구 구성 변동은 임대료·우선순위·계약 유지 여부에 직접적인 영향을 주기 때문에 사전 확인이 중요하다.",
+      "searchIntent": "혼인·출산 등 발생 시 신고 절차, 자격 변경 여부, 임대료·계약조건의 영향과 필요한 서류를 알고 싶다.",
+      "freshnessReason": "공공임대 정책과 자격 기준은 국토교통부 및 LH의 지침 변경으로 달라질 수 있어 최신 규정을 확인해야 한다.",
+      "sourceHint": "국토교통부, 한국토지주택공사(LH)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 6,
+      "title": "해외체류 중 국민연금 보험료 납부 유예 또는 임의가입은 어떻게 신청하고 장단점은 무엇인가?",
+      "slug": "how-to-apply-national-pension-deferral-or-voluntary-enrollment-while-abroad",
+      "thumbnail": {
+        "title": "해외체류 국민연금",
+        "subtitle": "납부 유예·임의가입 절차와 유불리"
+      },
+      "reason": "장기 해외체류자는 납부·수급 설계가 복잡하므로 선택 전에 절차와 영향을 정확히 알아야 한다.",
+      "searchIntent": "납부 유예·임의가입 신청 방법, 필요 서류, 수급에 미치는 영향과 선택 기준을 알고 싶다.",
+      "freshnessReason": "국민연금의 해외 관련 규정과 국가별 협정, 처리 절차가 변경될 수 있어 최신 안내 확인이 필요하다.",
+      "sourceHint": "국민연금공단, 재외공관(대사관·영사관)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 7,
+      "title": "통신사(알뜰폰 포함) 번호이동 시 약정 위약금이 면제되는 경우와 확인해야 할 서류는?",
+      "slug": "what-documents-and-conditions-waive-contract-penalty-on-number-portability",
+      "thumbnail": {
+        "title": "번호이동 위약금 면제",
+        "subtitle": "면제 사유와 통신사별 확인서류"
+      },
+      "reason": "번호이동 과정에서 위약금 발생 여부를 모르고 비용을 부담하는 사례가 많아 사전 확인이 필요하다.",
+      "searchIntent": "약정 해지·번호이동 면제 대상 요건, 제출해야 할 증빙서류와 통신사별 절차를 알고 싶다.",
+      "freshnessReason": "통신약관과 관련 법령·시행지침은 자주 변경되므로 최신 약관·정부 가이드 확인이 필요하다.",
+      "sourceHint": "과학기술정보통신부, 이동통신사 고객센터(이동통신 3사 및 알뜰폰 사업자)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 8,
+      "title": "여권 분실 후 재발급 신청 시 긴급출국 사유로 당일 발급이 가능한 경우와 필요한 증빙은 무엇인가?",
+      "slug": "when-is-expedited-same-day-passport-reissue-possible-after-loss",
+      "thumbnail": {
+        "title": "여권 분실·긴급 재발급",
+        "subtitle": "당일 발급 인정 사유와 증빙서류"
+      },
+      "reason": "급한 출국 상황에서 여권 분실 시 당일 재발급 가능 여부와 준비물을 미리 알아두면 도움이 된다.",
+      "searchIntent": "긴급출국 인정 기준, 제출해야 할 증빙서류, 발급 소요시간과 비용을 확인하고 싶다.",
+      "freshnessReason": "여권 발급 절차와 긴급발급 요건은 외교부 지침에 따라 수시로 갱신될 수 있다.",
+      "sourceHint": "외교부 여권과 및 가까운 출입국·영사 서비스(외교부 홈페이지)",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 9,
+      "title": "전기차 보조금을 받은 뒤 일정 기간 내 차량을 처분하면 보조금 환수 규정은 어떻게 적용되나?",
+      "slug": "ev-subsidy-repayment-rules-on-resale",
+      "thumbnail": {
+        "title": "전기차 보조금 환수",
+        "subtitle": "처분 시점에 따른 환수 기준 정리"
+      },
+      "reason": "보조금 환수 대상 여부는 큰 금전적 부담으로 이어질 수 있어 처분 전 확인이 필수다.",
+      "searchIntent": "환수 대상 기간과 비율, 예외 사유, 환수 통지 및 납부 절차를 확인하고 싶다.",
+      "freshnessReason": "보조금 기준과 지방자치단체별 시행규칙이 자주 변경되므로 최신 공고를 확인해야 한다.",
+      "sourceHint": "환경부, 해당 지방자치단체 전기차 보조금 안내",
+      "source": "openai-topic-candidates"
+    },
+    {
+      "index": 10,
+      "title": "정부24에서 대리인이 가족서류를 발급할 때 필요한 위임장 양식과 본인 확인 절차는 무엇인가?",
+      "slug": "gov24-proxy-document-issuance-delegation-form-and-id",
+      "thumbnail": {
+        "title": "정부24 대리발급 절차",
+        "subtitle": "위임장 양식과 신원확인 방법 안내"
+      },
+      "reason": "대리 발급 시 양식·인증 미비로 서류 발급이 지연되거나 반려되는 사례가 많아 사전 준비가 필요하다.",
+      "searchIntent": "정부24 대리발급 허용 범위, 위임장 표준 양식, 공적 신원확인 방법과 제출 방식(온라인·오프라인)을 알고 싶다.",
+      "freshnessReason": "전자서류 발급·본인확인 방식은 시스템·법령 변경에 따라 바뀔 수 있으므로 최신 지침 확인이 필요하다.",
+      "sourceHint": "정부24(gov.kr), 행정안전부 안내",
+      "source": "openai-topic-candidates"
+    }
+  ]
+}
