@@ -1,0 +1,62 @@
+{
+  "analyzedAt": "2026-07-18T03:21:40.593Z",
+  "mode": "report",
+  "thresholds": {
+    "warn": 61,
+    "block": 81,
+    "minExperience": 30
+  },
+  "counts": {
+    "pass": 2,
+    "warn": 0,
+    "block": 0
+  },
+  "errors": [],
+  "posts": [
+    {
+      "file": "_drafts/2026-07-18-government24-delegate-document-requirements.md",
+      "slug": "government24-delegate-document-requirements",
+      "title": "정부24 대리발급: 주민등록등본 위임장·신분증은 무엇이 필요한가",
+      "scores": {
+        "aiUsage": 36,
+        "experience": 47,
+        "specificity": 10,
+        "verification": 80,
+        "originality": 92
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-18-overseas-shopping-damaged-item-refund-priority.md",
+      "slug": "overseas-shopping-damaged-item-refund-priority",
+      "title": "해외직구 파손: 판매자·배송사·통관 중 누구에게 먼저 환불을 요구해야 할까?",
+      "scores": {
+        "aiUsage": 28,
+        "experience": 63,
+        "specificity": 25,
+        "verification": 80,
+        "originality": 93
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    }
+  ]
+}

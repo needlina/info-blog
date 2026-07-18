@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-18-overseas-shopping-damaged-item-refund-priority.md",
+  "slug": "overseas-shopping-damaged-item-refund-priority",
+  "title": "해외직구 파손: 판매자·배송사·통관 중 누구에게 먼저 환불을 요구해야 할까?",
+  "analyzedAt": "2026-07-18T03:21:40.591Z",
+  "scores": {
+    "aiUsage": 28,
+    "experience": 63,
+    "specificity": 25,
+    "verification": 80,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1413,
+    "sentenceCount": 113,
+    "headingCount": 18,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 6,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.066,
+    "maxHeadingSimilarity": 0.111,
+    "mostSimilarPost": "platform-refund-complaint-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
