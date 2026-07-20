@@ -39,5 +39,17 @@
 - Verification: 56
 - Originality: 93
 
+- Verification evidence is weak: add official sources, test commands, or confirmation paths.
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 변동금리 주담대 고정금리 전환 시 중도상환수수료·상환계획 변화 정리
+
+- File: `_drafts/2026-07-20-variable-to-fixed-mortgage-conversion-fees-impact.md`
+- AI Usage: 35
+- Experience: 47
+- Specificity: 10
+- Verification: 92
+- Originality: 94
+
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 

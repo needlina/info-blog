@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-20-interim-loan-linked-lease-contract-breach-responsibility.md",
+  "slug": "interim-loan-linked-lease-contract-breach-responsibility",
+  "title": "임대차 계약서에 '중도금 대출 연계' 조항이 있으면 계약 위반 시 누가 책임지나요?",
+  "analyzedAt": "2026-07-20T14:46:03.720Z",
+  "scores": {
+    "aiUsage": 35,
+    "experience": 71,
+    "specificity": 5,
+    "verification": 60,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1053,
+    "sentenceCount": 71,
+    "headingCount": 2,
+    "codeBlockCount": 0,
+    "linkCount": 0,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 1,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 7,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.065,
+    "maxHeadingSimilarity": 0.034,
+    "mostSimilarPost": "jeonse-refund-landlord-uncontactable-hug-claim-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
