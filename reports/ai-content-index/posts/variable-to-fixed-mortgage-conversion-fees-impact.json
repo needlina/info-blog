@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-20-variable-to-fixed-mortgage-conversion-fees-impact.md",
+  "slug": "variable-to-fixed-mortgage-conversion-fees-impact",
+  "title": "변동금리 주담대 고정금리 전환 시 중도상환수수료·상환계획 변화 정리",
+  "analyzedAt": "2026-07-20T14:46:03.753Z",
+  "scores": {
+    "aiUsage": 35,
+    "experience": 47,
+    "specificity": 10,
+    "verification": 92,
+    "originality": 94
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1102,
+    "sentenceCount": 74,
+    "headingCount": 15,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 4,
+    "verificationSignalCount": 6,
+    "maxSimilarity": 0.064,
+    "maxHeadingSimilarity": 0.127,
+    "mostSimilarPost": "student-loan-interest-change-recalculate-defer-apply"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

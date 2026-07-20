@@ -8,37 +8,37 @@
 
 ## Posts
 
-### PASS 지방세 자동이체 계좌 변경 후 과오납·환급 처리 방법과 확인 포인트
+### PASS 임대차 계약서에 '중도금 대출 연계' 조항이 있으면 계약 위반 시 누가 책임지나요?
 
-- File: `_drafts/2026-07-20-local-tax-autodebit-account-change-refund.md`
-- AI Usage: 36
+- File: `_drafts/2026-07-20-interim-loan-linked-lease-contract-breach-responsibility.md`
+- AI Usage: 35
+- Experience: 71
+- Specificity: 5
+- Verification: 60
+- Originality: 93
+
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 임대인이 해외 출국·연락두절일 때 전세금 반환과 HUG 청구 시작 방법
+
+- File: `_drafts/2026-07-20-jeonse-refund-landlord-uncontactable-hug-claim-procedure.md`
+- AI Usage: 33
 - Experience: 55
 - Specificity: 10
-- Verification: 68
-- Originality: 91
-
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### PASS 국공립 어린이집 보육료 기준 변경 시 환급·추가청구 정리
-
-- File: `_drafts/2026-07-20-public-daycare-fee-change-refund-claim.md`
-- AI Usage: 39
-- Experience: 31
-- Specificity: 10
-- Verification: 80
-- Originality: 91
-
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### PASS 농협·새마을금고 등 상호금융 예금자보호 한도, 내 예금은 얼마까지 보장되나?
-
-- File: `_drafts/2026-07-20-regional-finance-deposit-protection-limit-change.md`
-- AI Usage: 39
-- Experience: 31
-- Specificity: 10
-- Verification: 80
+- Verification: 92
 - Originality: 93
 
 - Verification evidence is weak: add official sources, test commands, or confirmation paths.
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 변동금리 주담대 고정금리 전환 시 중도상환수수료·상환계획 변화 정리
+
+- File: `_drafts/2026-07-20-variable-to-fixed-mortgage-conversion-fees-impact.md`
+- AI Usage: 35
+- Experience: 47
+- Specificity: 10
+- Verification: 92
+- Originality: 94
+
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
