@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-21-electronic-receipt-mandate-pilot-refund-proof.md",
+  "slug": "electronic-receipt-mandate-pilot-refund-proof",
+  "title": "전자영수증 의무화 시범 도입: 환불·교환 시 증빙 방식이 어떻게 바뀌나",
+  "analyzedAt": "2026-07-20T19:19:48.441Z",
+  "scores": {
+    "aiUsage": 40,
+    "experience": 31,
+    "specificity": 10,
+    "verification": 68,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1083,
+    "sentenceCount": 62,
+    "headingCount": 16,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 4,
+    "maxSimilarity": 0.077,
+    "maxHeadingSimilarity": 0.201,
+    "mostSimilarPost": "mobile-pay-recurring-auth-change-refund-impact"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

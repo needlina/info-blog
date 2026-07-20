@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-21-mobile-pay-recurring-auth-change-refund-impact.md",
+  "slug": "mobile-pay-recurring-auth-change-refund-impact",
+  "title": "간편결제 정기결제 인증 방식 변경 정리: 공인인증서 대체와 해지·환불 영향",
+  "analyzedAt": "2026-07-20T19:19:48.456Z",
+  "scores": {
+    "aiUsage": 43,
+    "experience": 23,
+    "specificity": 15,
+    "verification": 60,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1059,
+    "sentenceCount": 53,
+    "headingCount": 14,
+    "codeBlockCount": 0,
+    "linkCount": 0,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 3,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 2,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.077,
+    "maxHeadingSimilarity": 0.142,
+    "mostSimilarPost": "electronic-receipt-mandate-pilot-refund-proof"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

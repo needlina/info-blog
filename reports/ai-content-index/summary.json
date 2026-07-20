@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-20T14:47:18.979Z",
+  "analyzedAt": "2026-07-20T19:19:48.489Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -14,15 +14,38 @@
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-20-health-insurance-policy-change-claim-retroactive.md",
-      "slug": "health-insurance-policy-change-claim-retroactive",
-      "title": "실손의료보험 약관 개정 시 기존 청구 건의 소급 적용 여부와 확인 방법",
+      "file": "_drafts/2026-07-21-electronic-receipt-mandate-pilot-refund-proof.md",
+      "slug": "electronic-receipt-mandate-pilot-refund-proof",
+      "title": "전자영수증 의무화 시범 도입: 환불·교환 시 증빙 방식이 어떻게 바뀌나",
       "scores": {
-        "aiUsage": 41,
-        "experience": 23,
+        "aiUsage": 40,
+        "experience": 31,
         "specificity": 10,
-        "verification": 80,
-        "originality": 93
+        "verification": 68,
+        "originality": 92
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-21-mobile-pay-recurring-auth-change-refund-impact.md",
+      "slug": "mobile-pay-recurring-auth-change-refund-impact",
+      "title": "간편결제 정기결제 인증 방식 변경 정리: 공인인증서 대체와 해지·환불 영향",
+      "scores": {
+        "aiUsage": 43,
+        "experience": 23,
+        "specificity": 15,
+        "verification": 60,
+        "originality": 92
       },
       "risk": {
         "massProduction": "low",
@@ -38,38 +61,37 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-20-hometax-electronic-failure-amendment-penalty.md",
-      "slug": "hometax-electronic-failure-amendment-penalty",
-      "title": "홈택스 전자신고 오류로 신고가 누락됐을 때 정정신고와 가산세 처리 방법",
+      "file": "_drafts/2026-07-21-parcel-rate-reform-weight-storage-refund-rules.md",
+      "slug": "parcel-rate-reform-weight-storage-refund-rules",
+      "title": "택배 요금체계 개편(중량·보관수수료)과 분실·지연 환급 기준 한눈에 보기",
       "scores": {
         "aiUsage": 34,
-        "experience": 87,
-        "specificity": 5,
-        "verification": 34,
-        "originality": 93
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "pass"
-      },
-      "findings": [
-        "Verification evidence is weak: add official sources, test commands, or confirmation paths.",
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
-        "Add official documentation or service pages and describe how the reader can verify the current information."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-20-national-pension-retroactive-payment-period-interest.md",
-      "slug": "national-pension-retroactive-payment-period-interest",
-      "title": "국민연금 추납(소급 납부) 가능기간·이자·환급 규정 정리",
-      "scores": {
-        "aiUsage": 37,
-        "experience": 31,
+        "experience": 55,
         "specificity": 10,
         "verification": 92,
+        "originality": 92
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-21-urban-congestion-charge-pilot-refund-procedure.md",
+      "slug": "urban-congestion-charge-pilot-refund-procedure",
+      "title": "도심 혼잡통행료(콘제션 차지) 시범도입 일정과 잘못 청구된 요금 환급 절차 정리",
+      "scores": {
+        "aiUsage": 29,
+        "experience": 71,
+        "specificity": 10,
+        "verification": 100,
         "originality": 93
       },
       "risk": {
@@ -80,34 +102,7 @@
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
-        "Add official documentation or service pages and describe how the reader can verify the current information."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-20-student-loan-repayment-rule-change-modify-apply.md",
-      "slug": "student-loan-repayment-rule-change-modify-apply",
-      "title": "학자금대출 상환 기준 변경 시 기존 상환계획·상환유예 어디에 신청하나요?",
-      "scores": {
-        "aiUsage": 28,
-        "experience": 95,
-        "specificity": 10,
-        "verification": 68,
-        "originality": 90
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "pass"
-      },
-      "findings": [
-        "Verification evidence is weak: add official sources, test commands, or confirmation paths.",
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
-        "Add official documentation or service pages and describe how the reader can verify the current information."
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
       ]
     }
   ]

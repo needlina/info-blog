@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-21-urban-congestion-charge-pilot-refund-procedure.md",
+  "slug": "urban-congestion-charge-pilot-refund-procedure",
+  "title": "도심 혼잡통행료(콘제션 차지) 시범도입 일정과 잘못 청구된 요금 환급 절차 정리",
+  "analyzedAt": "2026-07-20T19:19:48.486Z",
+  "scores": {
+    "aiUsage": 29,
+    "experience": 71,
+    "specificity": 10,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1163,
+    "sentenceCount": 67,
+    "headingCount": 2,
+    "codeBlockCount": 0,
+    "linkCount": 0,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 7,
+    "verificationSignalCount": 9,
+    "maxSimilarity": 0.071,
+    "maxHeadingSimilarity": 0.039,
+    "mostSimilarPost": "parcel-rate-reform-weight-storage-refund-rules"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

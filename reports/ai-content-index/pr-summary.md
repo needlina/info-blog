@@ -4,56 +4,54 @@
 - Result: pass=3, warn=1, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### WARN 실손의료보험 약관 개정 시 기존 청구 건의 소급 적용 여부와 확인 방법
+#### PASS 전자영수증 의무화 시범 도입: 환불·교환 시 증빙 방식이 어떻게 바뀌나
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 41 |
-| Experience | 23 |
+| AI Usage | 40 |
+| Experience | 31 |
 | Specificity | 10 |
-| Verification | 80 |
-| Originality | 93 |
+| Verification | 68 |
+| Originality | 92 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
-- Add official documentation or service pages and describe how the reader can verify the current information.
 
-#### PASS 홈택스 전자신고 오류로 신고가 누락됐을 때 정정신고와 가산세 처리 방법
+#### WARN 간편결제 정기결제 인증 방식 변경 정리: 공인인증서 대체와 해지·환불 영향
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 43 |
+| Experience | 23 |
+| Specificity | 15 |
+| Verification | 60 |
+| Originality | 92 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+
+#### PASS 택배 요금체계 개편(중량·보관수수료)과 분실·지연 환급 기준 한눈에 보기
 
 | Score | Value |
 | --- | ---: |
 | AI Usage | 34 |
-| Experience | 87 |
-| Specificity | 5 |
-| Verification | 34 |
-| Originality | 93 |
-
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-- Add official documentation or service pages and describe how the reader can verify the current information.
-
-#### PASS 국민연금 추납(소급 납부) 가능기간·이자·환급 규정 정리
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 37 |
-| Experience | 31 |
+| Experience | 55 |
 | Specificity | 10 |
 | Verification | 92 |
-| Originality | 93 |
+| Originality | 92 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 학자금대출 상환 기준 변경 시 기존 상환계획·상환유예 어디에 신청하나요?
+#### PASS 도심 혼잡통행료(콘제션 차지) 시범도입 일정과 잘못 청구된 요금 환급 절차 정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 28 |
-| Experience | 95 |
+| AI Usage | 29 |
+| Experience | 71 |
 | Specificity | 10 |
-| Verification | 68 |
-| Originality | 90 |
+| Verification | 100 |
+| Originality | 93 |
 
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
-- Add official documentation or service pages and describe how the reader can verify the current information.
 

@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-21-parcel-rate-reform-weight-storage-refund-rules.md",
+  "slug": "parcel-rate-reform-weight-storage-refund-rules",
+  "title": "택배 요금체계 개편(중량·보관수수료)과 분실·지연 환급 기준 한눈에 보기",
+  "analyzedAt": "2026-07-20T19:19:48.470Z",
+  "scores": {
+    "aiUsage": 34,
+    "experience": 55,
+    "specificity": 10,
+    "verification": 92,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 995,
+    "sentenceCount": 68,
+    "headingCount": 15,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 5,
+    "verificationSignalCount": 6,
+    "maxSimilarity": 0.075,
+    "maxHeadingSimilarity": 0.21,
+    "mostSimilarPost": "mobile-pay-recurring-auth-change-refund-impact"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
