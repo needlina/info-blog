@@ -75,6 +75,7 @@
         "publishDecision": "pass"
       },
       "findings": [
+        "Verification evidence is weak: add official sources, test commands, or confirmation paths.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [

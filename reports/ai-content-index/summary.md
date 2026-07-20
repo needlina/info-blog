@@ -39,5 +39,6 @@
 - Verification: 80
 - Originality: 93
 
+- Verification evidence is weak: add official sources, test commands, or confirmation paths.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 

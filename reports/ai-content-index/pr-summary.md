@@ -42,4 +42,5 @@
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
 
