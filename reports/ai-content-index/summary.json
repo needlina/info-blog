@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-20T14:46:03.756Z",
+  "analyzedAt": "2026-07-20T14:46:28.231Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -14,14 +14,14 @@
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-20-interim-loan-linked-lease-contract-breach-responsibility.md",
-      "slug": "interim-loan-linked-lease-contract-breach-responsibility",
-      "title": "임대차 계약서에 '중도금 대출 연계' 조항이 있으면 계약 위반 시 누가 책임지나요?",
+      "file": "_drafts/2026-07-20-airport-baggage-damage-claim-deadline-liability.md",
+      "slug": "airport-baggage-damage-claim-deadline-liability",
+      "title": "공항 수하물 파손 신고 기한과 배상한도: 언제 신고하고 얼마까지 보상받을 수 있을까?",
       "scores": {
-        "aiUsage": 35,
-        "experience": 71,
-        "specificity": 5,
-        "verification": 60,
+        "aiUsage": 32,
+        "experience": 63,
+        "specificity": 10,
+        "verification": 100,
         "originality": 93
       },
       "risk": {
@@ -36,15 +36,15 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-20-jeonse-refund-landlord-uncontactable-hug-claim-procedure.md",
-      "slug": "jeonse-refund-landlord-uncontactable-hug-claim-procedure",
-      "title": "임대인이 해외 출국·연락두절일 때 전세금 반환과 HUG 청구 시작 방법",
+      "file": "_drafts/2026-07-20-hire-housekeeper-salary-insurance-severance.md",
+      "slug": "hire-housekeeper-salary-insurance-severance",
+      "title": "가사도우미를 월급제로 고용할 때 4대보험과 퇴직금 신고 정리",
       "scores": {
-        "aiUsage": 33,
-        "experience": 55,
+        "aiUsage": 38,
+        "experience": 47,
         "specificity": 10,
-        "verification": 92,
-        "originality": 93
+        "verification": 56,
+        "originality": 92
       },
       "risk": {
         "massProduction": "low",
@@ -55,19 +55,20 @@
       ],
       "recommendations": [
         "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
+        "Add official documentation or service pages and describe how the reader can verify the current information."
       ]
     },
     {
-      "file": "_drafts/2026-07-20-variable-to-fixed-mortgage-conversion-fees-impact.md",
-      "slug": "variable-to-fixed-mortgage-conversion-fees-impact",
-      "title": "변동금리 주담대 고정금리 전환 시 중도상환수수료·상환계획 변화 정리",
+      "file": "_drafts/2026-07-20-short-term-rental-tax-notification-penalty.md",
+      "slug": "short-term-rental-tax-notification-penalty",
+      "title": "에어비앤비 등 단기임대 운영 시 신고·세무 의무와 과태료 정리",
       "scores": {
-        "aiUsage": 35,
-        "experience": 47,
+        "aiUsage": 40,
+        "experience": 39,
         "specificity": 10,
-        "verification": 92,
-        "originality": 94
+        "verification": 56,
+        "originality": 93
       },
       "risk": {
         "massProduction": "low",
@@ -79,7 +80,8 @@
       ],
       "recommendations": [
         "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
+        "Add official documentation or service pages and describe how the reader can verify the current information."
       ]
     }
   ]
