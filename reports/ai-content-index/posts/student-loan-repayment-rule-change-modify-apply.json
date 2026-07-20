@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-20-student-loan-repayment-rule-change-modify-apply.md",
+  "slug": "student-loan-repayment-rule-change-modify-apply",
+  "title": "학자금대출 상환 기준 변경 시 기존 상환계획·상환유예 어디에 신청하나요?",
+  "analyzedAt": "2026-07-20T14:47:18.976Z",
+  "scores": {
+    "aiUsage": 28,
+    "experience": 95,
+    "specificity": 10,
+    "verification": 68,
+    "originality": 90
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 955,
+    "sentenceCount": 71,
+    "headingCount": 14,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 10,
+    "verificationSignalCount": 4,
+    "maxSimilarity": 0.104,
+    "maxHeadingSimilarity": 0.172,
+    "mostSimilarPost": "student-loan-interest-change-recalculate-defer-apply"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

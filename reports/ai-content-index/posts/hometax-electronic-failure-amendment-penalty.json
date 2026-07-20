@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-20-hometax-electronic-failure-amendment-penalty.md",
+  "slug": "hometax-electronic-failure-amendment-penalty",
+  "title": "홈택스 전자신고 오류로 신고가 누락됐을 때 정정신고와 가산세 처리 방법",
+  "analyzedAt": "2026-07-20T14:47:18.944Z",
+  "scores": {
+    "aiUsage": 34,
+    "experience": 87,
+    "specificity": 5,
+    "verification": 34,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1146,
+    "sentenceCount": 83,
+    "headingCount": 17,
+    "codeBlockCount": 0,
+    "linkCount": 1,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 1,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 2,
+    "experienceSignalCount": 9,
+    "verificationSignalCount": 2,
+    "maxSimilarity": 0.068,
+    "maxHeadingSimilarity": 0.172,
+    "mostSimilarPost": "health-insurance-policy-change-claim-retroactive"
+  },
+  "findings": [
+    "Verification evidence is weak: add official sources, test commands, or confirmation paths.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
+    "Add official documentation or service pages and describe how the reader can verify the current information."
+  ]
+}
