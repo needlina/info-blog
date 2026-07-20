@@ -28,6 +28,7 @@
 - Verification: 92
 - Originality: 93
 
+- Verification evidence is weak: add official sources, test commands, or confirmation paths.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
 ### PASS 변동금리 주담대 고정금리 전환 시 중도상환수수료·상환계획 변화 정리
