@@ -8,25 +8,26 @@
 
 ## Posts
 
-### PASS 정부24 대리발급: 주민등록등본 위임장·신분증은 무엇이 필요한가
+### PASS 양도소득세 1세대 1주택 비과세: 이혼·상속 시 보유기간 계산 방법
 
-- File: `_drafts/2026-07-18-government24-delegate-document-requirements.md`
-- AI Usage: 36
+- File: `_drafts/2026-07-19-capital-gains-1household-one-home-period-divorce-inheritance.md`
+- AI Usage: 38
 - Experience: 47
 - Specificity: 10
-- Verification: 80
-- Originality: 92
+- Verification: 60
+- Originality: 94
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 해외직구 파손: 판매자·배송사·통관 중 누구에게 먼저 환불을 요구해야 할까?
+### PASS 국민연금 장애연금 진단서 기준과 최신 확인 방법 정리
 
-- File: `_drafts/2026-07-18-overseas-shopping-damaged-item-refund-priority.md`
-- AI Usage: 28
-- Experience: 63
-- Specificity: 25
-- Verification: 80
+- File: `_drafts/2026-07-19-national-pension-disability-claim-diagnosis-requirements.md`
+- AI Usage: 40
+- Experience: 31
+- Specificity: 15
+- Verification: 44
 - Originality: 93
 
+- Verification evidence is weak: add official sources, test commands, or confirmation paths.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
