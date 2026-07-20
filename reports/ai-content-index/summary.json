@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-18T16:45:28.582Z",
+  "analyzedAt": "2026-07-20T14:45:51.902Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -7,22 +7,22 @@
     "minExperience": 30
   },
   "counts": {
-    "pass": 2,
+    "pass": 3,
     "warn": 0,
     "block": 0
   },
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-19-capital-gains-1household-one-home-period-divorce-inheritance.md",
-      "slug": "capital-gains-1household-one-home-period-divorce-inheritance",
-      "title": "양도소득세 1세대 1주택 비과세: 이혼·상속 시 보유기간 계산 방법",
+      "file": "_drafts/2026-07-20-local-tax-autodebit-account-change-refund.md",
+      "slug": "local-tax-autodebit-account-change-refund",
+      "title": "지방세 자동이체 계좌 변경 후 과오납·환급 처리 방법과 확인 포인트",
       "scores": {
-        "aiUsage": 38,
-        "experience": 47,
+        "aiUsage": 36,
+        "experience": 55,
         "specificity": 10,
-        "verification": 60,
-        "originality": 94
+        "verification": 68,
+        "originality": 91
       },
       "risk": {
         "massProduction": "low",
@@ -37,14 +37,37 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-19-national-pension-disability-claim-diagnosis-requirements.md",
-      "slug": "national-pension-disability-claim-diagnosis-requirements",
-      "title": "국민연금 장애연금 진단서 기준과 최신 확인 방법 정리",
+      "file": "_drafts/2026-07-20-public-daycare-fee-change-refund-claim.md",
+      "slug": "public-daycare-fee-change-refund-claim",
+      "title": "국공립 어린이집 보육료 기준 변경 시 환급·추가청구 정리",
       "scores": {
-        "aiUsage": 40,
+        "aiUsage": 39,
         "experience": 31,
-        "specificity": 15,
-        "verification": 44,
+        "specificity": 10,
+        "verification": 80,
+        "originality": 91
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-20-regional-finance-deposit-protection-limit-change.md",
+      "slug": "regional-finance-deposit-protection-limit-change",
+      "title": "농협·새마을금고 등 상호금융 예금자보호 한도, 내 예금은 얼마까지 보장되나?",
+      "scores": {
+        "aiUsage": 39,
+        "experience": 31,
+        "specificity": 10,
+        "verification": 80,
         "originality": 93
       },
       "risk": {
@@ -57,8 +80,7 @@
       ],
       "recommendations": [
         "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
-        "Add official documentation or service pages and describe how the reader can verify the current information."
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
       ]
     }
   ]

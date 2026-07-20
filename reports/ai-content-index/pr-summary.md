@@ -1,30 +1,43 @@
 ### AI Content Index
 
 - Mode: `report`
-- Result: pass=2, warn=0, block=0
+- Result: pass=3, warn=0, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### PASS 양도소득세 1세대 1주택 비과세: 이혼·상속 시 보유기간 계산 방법
+#### PASS 지방세 자동이체 계좌 변경 후 과오납·환급 처리 방법과 확인 포인트
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 38 |
-| Experience | 47 |
+| AI Usage | 36 |
+| Experience | 55 |
 | Specificity | 10 |
-| Verification | 60 |
-| Originality | 94 |
+| Verification | 68 |
+| Originality | 91 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 국민연금 장애연금 진단서 기준과 최신 확인 방법 정리
+#### PASS 국공립 어린이집 보육료 기준 변경 시 환급·추가청구 정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 40 |
+| AI Usage | 39 |
 | Experience | 31 |
-| Specificity | 15 |
-| Verification | 44 |
+| Specificity | 10 |
+| Verification | 80 |
+| Originality | 91 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+
+#### PASS 농협·새마을금고 등 상호금융 예금자보호 한도, 내 예금은 얼마까지 보장되나?
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 39 |
+| Experience | 31 |
+| Specificity | 10 |
+| Verification | 80 |
 | Originality | 93 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
