@@ -1,31 +1,46 @@
 ### AI Content Index
 
 - Mode: `report`
-- Result: pass=2, warn=0, block=0
+- Result: pass=3, warn=0, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### PASS 정부24 대리발급: 주민등록등본 위임장·신분증은 무엇이 필요한가
+#### PASS 공항 수하물 파손 신고 기한과 배상한도: 언제 신고하고 얼마까지 보상받을 수 있을까?
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 36 |
+| AI Usage | 32 |
+| Experience | 63 |
+| Specificity | 10 |
+| Verification | 100 |
+| Originality | 93 |
+
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+
+#### PASS 가사도우미를 월급제로 고용할 때 4대보험과 퇴직금 신고 정리
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 38 |
 | Experience | 47 |
 | Specificity | 10 |
-| Verification | 80 |
+| Verification | 56 |
 | Originality | 92 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
 
-#### PASS 해외직구 파손: 판매자·배송사·통관 중 누구에게 먼저 환불을 요구해야 할까?
+#### PASS 에어비앤비 등 단기임대 운영 시 신고·세무 의무와 과태료 정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 28 |
-| Experience | 63 |
-| Specificity | 25 |
-| Verification | 80 |
+| AI Usage | 40 |
+| Experience | 39 |
+| Specificity | 10 |
+| Verification | 56 |
 | Originality | 93 |
 
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
 
