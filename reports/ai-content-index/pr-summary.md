@@ -16,6 +16,7 @@
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
 
 #### PASS 홈택스 전자신고 오류로 신고가 누락됐을 때 정정신고와 가산세 처리 방법
 
@@ -54,4 +55,5 @@
 | Originality | 90 |
 
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
 

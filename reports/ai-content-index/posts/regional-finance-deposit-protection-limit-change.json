@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-20-regional-finance-deposit-protection-limit-change.md",
+  "slug": "regional-finance-deposit-protection-limit-change",
+  "title": "농협·새마을금고 등 상호금융 예금자보호 한도, 내 예금은 얼마까지 보장되나?",
+  "analyzedAt": "2026-07-20T14:45:51.899Z",
+  "scores": {
+    "aiUsage": 39,
+    "experience": 31,
+    "specificity": 10,
+    "verification": 80,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1044,
+    "sentenceCount": 69,
+    "headingCount": 15,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.065,
+    "maxHeadingSimilarity": 0.194,
+    "mostSimilarPost": "public-daycare-fee-change-refund-claim"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

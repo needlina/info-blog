@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-20-local-tax-autodebit-account-change-refund.md",
+  "slug": "local-tax-autodebit-account-change-refund",
+  "title": "지방세 자동이체 계좌 변경 후 과오납·환급 처리 방법과 확인 포인트",
+  "analyzedAt": "2026-07-20T14:45:51.854Z",
+  "scores": {
+    "aiUsage": 36,
+    "experience": 55,
+    "specificity": 10,
+    "verification": 68,
+    "originality": 91
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1159,
+    "sentenceCount": 80,
+    "headingCount": 17,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 5,
+    "verificationSignalCount": 4,
+    "maxSimilarity": 0.086,
+    "maxHeadingSimilarity": 0.194,
+    "mostSimilarPost": "car-tax-annual-payment-discount-refund-apply"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

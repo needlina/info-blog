@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-20-jeonse-refund-landlord-uncontactable-hug-claim-procedure.md",
+  "slug": "jeonse-refund-landlord-uncontactable-hug-claim-procedure",
+  "title": "임대인이 해외 출국·연락두절일 때 전세금 반환과 HUG 청구 시작 방법",
+  "analyzedAt": "2026-07-20T14:46:03.736Z",
+  "scores": {
+    "aiUsage": 33,
+    "experience": 55,
+    "specificity": 10,
+    "verification": 92,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1086,
+    "sentenceCount": 85,
+    "headingCount": 13,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 5,
+    "verificationSignalCount": 6,
+    "maxSimilarity": 0.069,
+    "maxHeadingSimilarity": 0.158,
+    "mostSimilarPost": "2026-jeonwalse-conversion-guarantee-change"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

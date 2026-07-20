@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-20-airport-baggage-damage-claim-deadline-liability.md",
+  "slug": "airport-baggage-damage-claim-deadline-liability",
+  "title": "공항 수하물 파손 신고 기한과 배상한도: 언제 신고하고 얼마까지 보상받을 수 있을까?",
+  "analyzedAt": "2026-07-20T14:46:28.194Z",
+  "scores": {
+    "aiUsage": 32,
+    "experience": 63,
+    "specificity": 10,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1188,
+    "sentenceCount": 93,
+    "headingCount": 15,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 6,
+    "verificationSignalCount": 9,
+    "maxSimilarity": 0.066,
+    "maxHeadingSimilarity": 0.187,
+    "mostSimilarPost": "hire-housekeeper-salary-insurance-severance"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
