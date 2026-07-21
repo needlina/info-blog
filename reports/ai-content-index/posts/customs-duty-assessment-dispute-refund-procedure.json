@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-21-customs-duty-assessment-dispute-refund-procedure.md",
+  "slug": "customs-duty-assessment-dispute-refund-procedure",
+  "title": "해외직구 과세통지 받았을 때 이의신청·환급 절차(관세청 기준 정리)",
+  "analyzedAt": "2026-07-21T14:01:53.913Z",
+  "scores": {
+    "aiUsage": 49,
+    "experience": 31,
+    "specificity": 10,
+    "verification": 80,
+    "originality": 91
+  },
+  "risk": {
+    "massProduction": "medium",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1079,
+    "sentenceCount": 60,
+    "headingCount": 2,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.085,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "health-insurance-post-resignation-premium-adjustment-appeal"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
+    "Vary the introduction, heading order, and conclusion so the draft does not mirror recent posts."
+  ]
+}

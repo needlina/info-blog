@@ -1,40 +1,55 @@
 ### AI Content Index
 
 - Mode: `report`
-- Result: pass=4, warn=0, block=0
+- Result: pass=4, warn=1, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### PASS 전자영수증 의무화 시범 도입과 환불·교환 증빙 변경 가이드
+#### PASS 해외직구 과세통지 받았을 때 이의신청·환급 절차(관세청 기준 정리)
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 37 |
-| Experience | 39 |
-| Specificity | 10 |
-| Verification | 100 |
-| Originality | 92 |
-
-- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-
-#### PASS 간편결제 정기결제 인증 방식 변경: 공인인증서 대체 규정과 해지·환불 영향 한눈에
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 37 |
+| AI Usage | 49 |
 | Experience | 31 |
 | Specificity | 10 |
-| Verification | 100 |
-| Originality | 92 |
+| Verification | 80 |
+| Originality | 91 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Vary the introduction, heading order, and conclusion so the draft does not mirror recent posts.
+
+#### WARN 퇴사 후 직전 달 건강보험료 정산·소급 부과에 대한 이의신청 방법
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 41 |
+| Experience | 23 |
+| Specificity | 10 |
+| Verification | 92 |
+| Originality | 91 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 택배 요금체계 개편(중량·보관수수료)과 분실·지연 환급 기준 변경 한눈에 보기
+#### PASS 하이패스 이중결제(오납) 알림 받았을 때 환불 신청하는 방법과 준비물
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 38 |
+| AI Usage | 39 |
+| Experience | 55 |
+| Specificity | 10 |
+| Verification | 36 |
+| Originality | 91 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
+
+#### PASS 공동명의 은행계좌 해지: 잔액 분할·세무 처리·법적 증빙 가이드
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 39 |
 | Experience | 39 |
 | Specificity | 10 |
 | Verification | 80 |
@@ -43,15 +58,15 @@
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 도심 혼잡통행료(콘제션 차지) 시범도입 일정과 잘못 청구된 요금 환급 절차 정리
+#### PASS 통신사 약정 중 요금 인상 시 해지·보상 가능한가요? 빠른 확인 가이드
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 40 |
-| Experience | 31 |
+| AI Usage | 43 |
+| Experience | 47 |
 | Specificity | 10 |
-| Verification | 80 |
-| Originality | 92 |
+| Verification | 100 |
+| Originality | 93 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.

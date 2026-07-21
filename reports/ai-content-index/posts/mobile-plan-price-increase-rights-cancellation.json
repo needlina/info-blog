@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-21-mobile-plan-price-increase-rights-cancellation.md",
+  "slug": "mobile-plan-price-increase-rights-cancellation",
+  "title": "통신사 약정 중 요금 인상 시 해지·보상 가능한가요? 빠른 확인 가이드",
+  "analyzedAt": "2026-07-21T14:01:54.027Z",
+  "scores": {
+    "aiUsage": 43,
+    "experience": 47,
+    "specificity": 10,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1156,
+    "sentenceCount": 74,
+    "headingCount": 2,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 4,
+    "verificationSignalCount": 9,
+    "maxSimilarity": 0.068,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "customs-duty-assessment-dispute-refund-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

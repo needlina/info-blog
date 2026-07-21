@@ -1,39 +1,52 @@
 # AI Content Index Summary
 
 - Mode: report
-- Analyzed posts: 4
+- Analyzed posts: 5
 - PASS: 4
-- WARN: 0
+- WARN: 1
 - BLOCK: 0
 
 ## Posts
 
-### PASS 전자영수증 의무화 시범 도입과 환불·교환 증빙 변경 가이드
+### PASS 해외직구 과세통지 받았을 때 이의신청·환급 절차(관세청 기준 정리)
 
-- File: `_drafts/2026-07-21-electronic-receipt-mandate-pilot-refund-proof.md`
-- AI Usage: 37
-- Experience: 39
-- Specificity: 10
-- Verification: 100
-- Originality: 92
-
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### PASS 간편결제 정기결제 인증 방식 변경: 공인인증서 대체 규정과 해지·환불 영향 한눈에
-
-- File: `_drafts/2026-07-21-mobile-pay-recurring-auth-change-refund-impact.md`
-- AI Usage: 37
+- File: `_drafts/2026-07-21-customs-duty-assessment-dispute-refund-procedure.md`
+- AI Usage: 49
 - Experience: 31
 - Specificity: 10
-- Verification: 100
-- Originality: 92
+- Verification: 80
+- Originality: 91
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 택배 요금체계 개편(중량·보관수수료)과 분실·지연 환급 기준 변경 한눈에 보기
+### WARN 퇴사 후 직전 달 건강보험료 정산·소급 부과에 대한 이의신청 방법
 
-- File: `_drafts/2026-07-21-parcel-rate-reform-weight-storage-refund-rules.md`
-- AI Usage: 38
+- File: `_drafts/2026-07-21-health-insurance-post-resignation-premium-adjustment-appeal.md`
+- AI Usage: 41
+- Experience: 23
+- Specificity: 10
+- Verification: 92
+- Originality: 91
+
+- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 하이패스 이중결제(오납) 알림 받았을 때 환불 신청하는 방법과 준비물
+
+- File: `_drafts/2026-07-21-hi-pass-double-payment-refund-procedure.md`
+- AI Usage: 39
+- Experience: 55
+- Specificity: 10
+- Verification: 36
+- Originality: 91
+
+- Verification evidence is weak: add official sources, test commands, or confirmation paths.
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 공동명의 은행계좌 해지: 잔액 분할·세무 처리·법적 증빙 가이드
+
+- File: `_drafts/2026-07-21-joint-bank-account-closure-balance-division.md`
+- AI Usage: 39
 - Experience: 39
 - Specificity: 10
 - Verification: 80
@@ -41,14 +54,14 @@
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 도심 혼잡통행료(콘제션 차지) 시범도입 일정과 잘못 청구된 요금 환급 절차 정리
+### PASS 통신사 약정 중 요금 인상 시 해지·보상 가능한가요? 빠른 확인 가이드
 
-- File: `_drafts/2026-07-21-urban-congestion-charge-pilot-refund-procedure.md`
-- AI Usage: 40
-- Experience: 31
+- File: `_drafts/2026-07-21-mobile-plan-price-increase-rights-cancellation.md`
+- AI Usage: 43
+- Experience: 47
 - Specificity: 10
-- Verification: 80
-- Originality: 92
+- Verification: 100
+- Originality: 93
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
