@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-21-joint-bank-account-closure-balance-division.md",
+  "slug": "joint-bank-account-closure-balance-division",
+  "title": "공동명의 은행계좌 해지: 잔액 분할·세무 처리·법적 증빙 가이드",
+  "analyzedAt": "2026-07-21T14:01:53.997Z",
+  "scores": {
+    "aiUsage": 39,
+    "experience": 39,
+    "specificity": 10,
+    "verification": 80,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1089,
+    "sentenceCount": 70,
+    "headingCount": 16,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 3,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.076,
+    "maxHeadingSimilarity": 0.213,
+    "mostSimilarPost": "government24-delegate-document-requirements"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
