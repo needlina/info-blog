@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-21-mobile-pay-recurring-auth-change-refund-impact.md",
+  "slug": "mobile-pay-recurring-auth-change-refund-impact",
+  "title": "간편결제 정기결제 인증 방식 변경: 공인인증서 대체 규정과 해지·환불 영향 한눈에",
+  "analyzedAt": "2026-07-21T03:45:53.592Z",
+  "scores": {
+    "aiUsage": 37,
+    "experience": 31,
+    "specificity": 10,
+    "verification": 100,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1145,
+    "sentenceCount": 72,
+    "headingCount": 14,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 8,
+    "maxSimilarity": 0.076,
+    "maxHeadingSimilarity": 0.141,
+    "mostSimilarPost": "electronic-receipt-mandate-pilot-refund-proof"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

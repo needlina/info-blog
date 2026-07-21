@@ -2,55 +2,53 @@
 
 - Mode: report
 - Analyzed posts: 4
-- PASS: 3
-- WARN: 1
+- PASS: 4
+- WARN: 0
 - BLOCK: 0
 
 ## Posts
 
-### WARN 실손의료보험 약관 개정 시 기존 청구 건의 소급 적용 여부와 확인 방법
+### PASS 전자영수증 의무화 시범 도입과 환불·교환 증빙 변경 가이드
 
-- File: `_drafts/2026-07-20-health-insurance-policy-change-claim-retroactive.md`
-- AI Usage: 41
-- Experience: 23
+- File: `_drafts/2026-07-21-electronic-receipt-mandate-pilot-refund-proof.md`
+- AI Usage: 37
+- Experience: 39
 - Specificity: 10
-- Verification: 80
-- Originality: 93
+- Verification: 100
+- Originality: 92
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 홈택스 전자신고 오류로 신고가 누락됐을 때 정정신고와 가산세 처리 방법
+### PASS 간편결제 정기결제 인증 방식 변경: 공인인증서 대체 규정과 해지·환불 영향 한눈에
 
-- File: `_drafts/2026-07-20-hometax-electronic-failure-amendment-penalty.md`
-- AI Usage: 34
-- Experience: 87
-- Specificity: 5
-- Verification: 34
-- Originality: 93
-
-- Verification evidence is weak: add official sources, test commands, or confirmation paths.
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### PASS 국민연금 추납(소급 납부) 가능기간·이자·환급 규정 정리
-
-- File: `_drafts/2026-07-20-national-pension-retroactive-payment-period-interest.md`
+- File: `_drafts/2026-07-21-mobile-pay-recurring-auth-change-refund-impact.md`
 - AI Usage: 37
 - Experience: 31
 - Specificity: 10
-- Verification: 92
-- Originality: 93
+- Verification: 100
+- Originality: 92
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 학자금대출 상환 기준 변경 시 기존 상환계획·상환유예 어디에 신청하나요?
+### PASS 택배 요금체계 개편(중량·보관수수료)과 분실·지연 환급 기준 변경 한눈에 보기
 
-- File: `_drafts/2026-07-20-student-loan-repayment-rule-change-modify-apply.md`
-- AI Usage: 28
-- Experience: 95
+- File: `_drafts/2026-07-21-parcel-rate-reform-weight-storage-refund-rules.md`
+- AI Usage: 38
+- Experience: 39
 - Specificity: 10
-- Verification: 68
-- Originality: 90
+- Verification: 80
+- Originality: 92
+
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 도심 혼잡통행료(콘제션 차지) 시범도입 일정과 잘못 청구된 요금 환급 절차 정리
+
+- File: `_drafts/2026-07-21-urban-congestion-charge-pilot-refund-procedure.md`
+- AI Usage: 40
+- Experience: 31
+- Specificity: 10
+- Verification: 80
+- Originality: 92
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
