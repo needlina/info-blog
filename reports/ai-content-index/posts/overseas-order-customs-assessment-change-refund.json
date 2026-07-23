@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-23-overseas-order-customs-assessment-change-refund.md",
+  "slug": "overseas-order-customs-assessment-change-refund",
+  "title": "해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법",
+  "analyzedAt": "2026-07-23T15:00:13.249Z",
+  "scores": {
+    "aiUsage": 43,
+    "experience": 15,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1087,
+    "sentenceCount": 52,
+    "headingCount": 4,
+    "codeBlockCount": 0,
+    "linkCount": 3,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 0,
+    "verificationSignalCount": 6,
+    "maxSimilarity": 0.071,
+    "maxHeadingSimilarity": 0.867,
+    "mostSimilarPost": "irp-personal-pension-tax-credit-limit-change-handling"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

@@ -2,55 +2,56 @@
 
 - Mode: report
 - Analyzed posts: 4
-- PASS: 3
-- WARN: 1
+- PASS: 1
+- WARN: 3
 - BLOCK: 0
 
 ## Posts
 
-### WARN 건강보험료 부과체계 개편: 지역가입자 재산·소득 신고 증빙 정리
+### WARN 휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나
 
-- File: `_drafts/2026-07-23-health-insurance-contribution-reform-local-subscriber-evidence.md`
-- AI Usage: 43
+- File: `_drafts/2026-07-23-mobile-subsidy-clawback-calculation-when-terms-change.md`
+- AI Usage: 41
 - Experience: 23
-- Specificity: 10
-- Verification: 68
-- Originality: 92
+- Specificity: 30
+- Verification: 100
+- Originality: 93
 
 - Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS IRP·퇴직연금 세액공제 한도 조정 후 이미 납입한 금액 정정 방법 정리
+### WARN 해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법
 
-- File: `_drafts/2026-07-23-irp-personal-pension-tax-credit-limit-change-handling.md`
-- AI Usage: 53
-- Experience: 31
-- Specificity: 5
-- Verification: 34
-- Originality: 92
-
-- Verification evidence is weak: add official sources, test commands, or confirmation paths.
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### PASS 공공임대주택 우선순위 기준 변경이 이미 제출한 입주신청에 미치는 영향
-
-- File: `_drafts/2026-07-23-public-rental-housing-priority-change-impact-existing-applications.md`
-- AI Usage: 45
-- Experience: 31
-- Specificity: 15
+- File: `_drafts/2026-07-23-overseas-order-customs-assessment-change-refund.md`
+- AI Usage: 43
+- Experience: 15
+- Specificity: 25
 - Verification: 100
-- Originality: 91
+- Originality: 93
 
+- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 중소기업 신규채용 고용장려금 요건 변경 시 이미 채용한 직원의 소급신청 가능 여부 정리
+### WARN 스톡옵션 행사 세금: 연말정산과 원천징수 어떻게 처리되나
 
-- File: `_drafts/2026-07-23-small-business-hiring-subsidy-retroactive-eligibility.md`
-- AI Usage: 31
-- Experience: 71
-- Specificity: 10
-- Verification: 80
-- Originality: 91
+- File: `_drafts/2026-07-23-stock-option-exercise-tax-withholding-year-end.md`
+- AI Usage: 45
+- Experience: 23
+- Specificity: 25
+- Verification: 78
+- Originality: 93
+
+- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### PASS 중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리
+
+- File: `_drafts/2026-07-23-used-item-refund-seller-refusal-dispute-procedure.md`
+- AI Usage: 43
+- Experience: 31
+- Specificity: 25
+- Verification: 90
+- Originality: 93
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
