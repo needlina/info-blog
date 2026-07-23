@@ -1,0 +1,45 @@
+{
+  "file": "_drafts/2026-07-23-irp-personal-pension-tax-credit-limit-change-handling.md",
+  "slug": "irp-personal-pension-tax-credit-limit-change-handling",
+  "title": "IRP·퇴직연금 세액공제 한도 조정 후 이미 납입한 금액 정정 방법 정리",
+  "analyzedAt": "2026-07-23T11:21:15.689Z",
+  "scores": {
+    "aiUsage": 53,
+    "experience": 31,
+    "specificity": 5,
+    "verification": 34,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "medium",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1059,
+    "sentenceCount": 63,
+    "headingCount": 2,
+    "codeBlockCount": 0,
+    "linkCount": 1,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 1,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 2,
+    "maxSimilarity": 0.075,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "small-business-hiring-subsidy-retroactive-eligibility"
+  },
+  "findings": [
+    "Verification evidence is weak: add official sources, test commands, or confirmation paths.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results.",
+    "Add official documentation or service pages and describe how the reader can verify the current information.",
+    "Vary the introduction, heading order, and conclusion so the draft does not mirror recent posts."
+  ]
+}

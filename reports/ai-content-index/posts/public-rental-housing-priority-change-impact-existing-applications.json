@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-23-public-rental-housing-priority-change-impact-existing-applications.md",
+  "slug": "public-rental-housing-priority-change-impact-existing-applications",
+  "title": "공공임대주택 우선순위 기준 변경이 이미 제출한 입주신청에 미치는 영향",
+  "analyzedAt": "2026-07-23T11:21:15.706Z",
+  "scores": {
+    "aiUsage": 45,
+    "experience": 31,
+    "specificity": 15,
+    "verification": 100,
+    "originality": 91
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1334,
+    "sentenceCount": 94,
+    "headingCount": 2,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 3,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 9,
+    "maxSimilarity": 0.093,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "small-business-hiring-subsidy-retroactive-eligibility"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

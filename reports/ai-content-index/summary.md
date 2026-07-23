@@ -1,67 +1,56 @@
 # AI Content Index Summary
 
 - Mode: report
-- Analyzed posts: 5
-- PASS: 4
+- Analyzed posts: 4
+- PASS: 3
 - WARN: 1
 - BLOCK: 0
 
 ## Posts
 
-### PASS 해외직구 과세통지 받았을 때 이의신청·환급 절차(관세청 기준 정리)
+### WARN 건강보험료 부과체계 개편: 지역가입자 재산·소득 신고 증빙 정리
 
-- File: `_drafts/2026-07-21-customs-duty-assessment-dispute-refund-procedure.md`
-- AI Usage: 49
-- Experience: 31
-- Specificity: 10
-- Verification: 80
-- Originality: 91
-
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### WARN 퇴사 후 직전 달 건강보험료 정산·소급 부과에 대한 이의신청 방법
-
-- File: `_drafts/2026-07-21-health-insurance-post-resignation-premium-adjustment-appeal.md`
-- AI Usage: 41
+- File: `_drafts/2026-07-23-health-insurance-contribution-reform-local-subscriber-evidence.md`
+- AI Usage: 43
 - Experience: 23
 - Specificity: 10
-- Verification: 92
-- Originality: 91
+- Verification: 68
+- Originality: 92
 
 - Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 하이패스 이중결제(오납) 알림 받았을 때 환불 신청하는 방법과 준비물
+### PASS IRP·퇴직연금 세액공제 한도 조정 후 이미 납입한 금액 정정 방법 정리
 
-- File: `_drafts/2026-07-21-hi-pass-double-payment-refund-procedure.md`
-- AI Usage: 39
-- Experience: 55
-- Specificity: 10
-- Verification: 36
-- Originality: 91
+- File: `_drafts/2026-07-23-irp-personal-pension-tax-credit-limit-change-handling.md`
+- AI Usage: 53
+- Experience: 31
+- Specificity: 5
+- Verification: 34
+- Originality: 92
 
 - Verification evidence is weak: add official sources, test commands, or confirmation paths.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 공동명의 은행계좌 해지: 잔액 분할·세무 처리·법적 증빙 가이드
+### PASS 공공임대주택 우선순위 기준 변경이 이미 제출한 입주신청에 미치는 영향
 
-- File: `_drafts/2026-07-21-joint-bank-account-closure-balance-division.md`
-- AI Usage: 39
-- Experience: 39
-- Specificity: 10
-- Verification: 80
-- Originality: 92
+- File: `_drafts/2026-07-23-public-rental-housing-priority-change-impact-existing-applications.md`
+- AI Usage: 45
+- Experience: 31
+- Specificity: 15
+- Verification: 100
+- Originality: 91
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 통신사 약정 중 요금 인상 시 해지·보상 가능한가요? 빠른 확인 가이드
+### PASS 중소기업 신규채용 고용장려금 요건 변경 시 이미 채용한 직원의 소급신청 가능 여부 정리
 
-- File: `_drafts/2026-07-21-mobile-plan-price-increase-rights-cancellation.md`
-- AI Usage: 43
-- Experience: 47
+- File: `_drafts/2026-07-23-small-business-hiring-subsidy-retroactive-eligibility.md`
+- AI Usage: 31
+- Experience: 71
 - Specificity: 10
-- Verification: 100
-- Originality: 93
+- Verification: 80
+- Originality: 91
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 

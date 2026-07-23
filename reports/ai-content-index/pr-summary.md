@@ -1,73 +1,58 @@
 ### AI Content Index
 
 - Mode: `report`
-- Result: pass=4, warn=1, block=0
+- Result: pass=3, warn=1, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### PASS 해외직구 과세통지 받았을 때 이의신청·환급 절차(관세청 기준 정리)
+#### WARN 건강보험료 부과체계 개편: 지역가입자 재산·소득 신고 증빙 정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 49 |
-| Experience | 31 |
-| Specificity | 10 |
-| Verification | 80 |
-| Originality | 91 |
-
-- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-- Vary the introduction, heading order, and conclusion so the draft does not mirror recent posts.
-
-#### WARN 퇴사 후 직전 달 건강보험료 정산·소급 부과에 대한 이의신청 방법
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 41 |
+| AI Usage | 43 |
 | Experience | 23 |
 | Specificity | 10 |
-| Verification | 92 |
-| Originality | 91 |
-
-- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-
-#### PASS 하이패스 이중결제(오납) 알림 받았을 때 환불 신청하는 방법과 준비물
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 39 |
-| Experience | 55 |
-| Specificity | 10 |
-| Verification | 36 |
-| Originality | 91 |
-
-- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-- Add official documentation or service pages and describe how the reader can verify the current information.
-
-#### PASS 공동명의 은행계좌 해지: 잔액 분할·세무 처리·법적 증빙 가이드
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 39 |
-| Experience | 39 |
-| Specificity | 10 |
-| Verification | 80 |
+| Verification | 68 |
 | Originality | 92 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 통신사 약정 중 요금 인상 시 해지·보상 가능한가요? 빠른 확인 가이드
+#### PASS IRP·퇴직연금 세액공제 한도 조정 후 이미 납입한 금액 정정 방법 정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 43 |
-| Experience | 47 |
-| Specificity | 10 |
-| Verification | 100 |
-| Originality | 93 |
+| AI Usage | 53 |
+| Experience | 31 |
+| Specificity | 5 |
+| Verification | 34 |
+| Originality | 92 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+- Add official documentation or service pages and describe how the reader can verify the current information.
+
+#### PASS 공공임대주택 우선순위 기준 변경이 이미 제출한 입주신청에 미치는 영향
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 45 |
+| Experience | 31 |
+| Specificity | 15 |
+| Verification | 100 |
+| Originality | 91 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+
+#### PASS 중소기업 신규채용 고용장려금 요건 변경 시 이미 채용한 직원의 소급신청 가능 여부 정리
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 31 |
+| Experience | 71 |
+| Specificity | 10 |
+| Verification | 80 |
+| Originality | 91 |
+
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
