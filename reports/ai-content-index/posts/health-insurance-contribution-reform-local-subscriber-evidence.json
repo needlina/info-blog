@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-23-health-insurance-contribution-reform-local-subscriber-evidence.md",
+  "slug": "health-insurance-contribution-reform-local-subscriber-evidence",
+  "title": "건강보험료 부과체계 개편: 지역가입자 재산·소득 신고 증빙 정리",
+  "analyzedAt": "2026-07-23T11:21:15.674Z",
+  "scores": {
+    "aiUsage": 43,
+    "experience": 23,
+    "specificity": 10,
+    "verification": 68,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 973,
+    "sentenceCount": 52,
+    "headingCount": 15,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 4,
+    "maxSimilarity": 0.075,
+    "maxHeadingSimilarity": 0.272,
+    "mostSimilarPost": "health-insurance-post-resignation-premium-adjustment-appeal"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

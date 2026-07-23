@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-23-small-business-hiring-subsidy-retroactive-eligibility.md",
+  "slug": "small-business-hiring-subsidy-retroactive-eligibility",
+  "title": "중소기업 신규채용 고용장려금 요건 변경 시 이미 채용한 직원의 소급신청 가능 여부 정리",
+  "analyzedAt": "2026-07-23T11:21:15.736Z",
+  "scores": {
+    "aiUsage": 31,
+    "experience": 71,
+    "specificity": 10,
+    "verification": 80,
+    "originality": 91
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 969,
+    "sentenceCount": 68,
+    "headingCount": 15,
+    "codeBlockCount": 0,
+    "linkCount": 2,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 2,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 7,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.093,
+    "maxHeadingSimilarity": 0.172,
+    "mostSimilarPost": "public-rental-housing-priority-change-impact-existing-applications"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
