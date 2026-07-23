@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-23-mobile-subsidy-clawback-calculation-when-terms-change.md",
+  "slug": "mobile-subsidy-clawback-calculation-when-terms-change",
+  "title": "휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나",
+  "analyzedAt": "2026-07-23T15:00:13.231Z",
+  "scores": {
+    "aiUsage": 41,
+    "experience": 23,
+    "specificity": 30,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1114,
+    "sentenceCount": 57,
+    "headingCount": 4,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 6,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 7,
+    "maxSimilarity": 0.065,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "mobile-plan-price-increase-rights-cancellation"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

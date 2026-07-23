@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-23-used-item-refund-seller-refusal-dispute-procedure.md",
+  "slug": "used-item-refund-seller-refusal-dispute-procedure",
+  "title": "중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리",
+  "analyzedAt": "2026-07-23T15:00:13.285Z",
+  "scores": {
+    "aiUsage": 43,
+    "experience": 31,
+    "specificity": 25,
+    "verification": 90,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1093,
+    "sentenceCount": 66,
+    "headingCount": 4,
+    "codeBlockCount": 0,
+    "linkCount": 3,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.07,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "hi-pass-double-payment-refund-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
