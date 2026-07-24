@@ -2,28 +2,27 @@
 
 - Mode: report
 - Analyzed posts: 4
-- PASS: 1
-- WARN: 3
+- PASS: 3
+- WARN: 1
 - BLOCK: 0
 
 ## Posts
 
-### WARN 휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나
+### PASS 크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차
 
-- File: `_drafts/2026-07-23-mobile-subsidy-clawback-calculation-when-terms-change.md`
-- AI Usage: 41
-- Experience: 23
-- Specificity: 30
+- File: `_drafts/2026-07-24-crowdfunding-reward-delivery-delay-refund-procedure.md`
+- AI Usage: 34
+- Experience: 31
+- Specificity: 25
 - Verification: 100
 - Originality: 93
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### WARN 해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법
+### WARN 공항 면세점 구매 후 출국 취소·연기 시 환불·반품 절차와 제한 품목 정리
 
-- File: `_drafts/2026-07-23-overseas-order-customs-assessment-change-refund.md`
-- AI Usage: 43
+- File: `_drafts/2026-07-24-duty-free-purchase-cancel-refund-procedure.md`
+- AI Usage: 45
 - Experience: 15
 - Specificity: 25
 - Verification: 100
@@ -32,25 +31,24 @@
 - Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### WARN 스톡옵션 행사 세금: 연말정산과 원천징수 어떻게 처리되나
+### PASS 회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리
 
-- File: `_drafts/2026-07-23-stock-option-exercise-tax-withholding-year-end.md`
-- AI Usage: 45
-- Experience: 23
+- File: `_drafts/2026-07-24-employee-welfare-points-bankruptcy-priority-claim.md`
+- AI Usage: 39
+- Experience: 47
 - Specificity: 25
-- Verification: 78
+- Verification: 100
 - Originality: 93
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리
+### PASS 대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나
 
-- File: `_drafts/2026-07-23-used-item-refund-seller-refusal-dispute-procedure.md`
-- AI Usage: 43
+- File: `_drafts/2026-07-24-transit-pass-prorated-refund-remaining-period.md`
+- AI Usage: 32
 - Experience: 31
-- Specificity: 25
-- Verification: 90
+- Specificity: 33
+- Verification: 100
 - Originality: 93
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.

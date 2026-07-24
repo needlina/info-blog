@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-23T15:00:13.289Z",
+  "analyzedAt": "2026-07-24T10:37:12.125Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -7,29 +7,28 @@
     "minExperience": 30
   },
   "counts": {
-    "pass": 1,
-    "warn": 3,
+    "pass": 3,
+    "warn": 1,
     "block": 0
   },
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-23-mobile-subsidy-clawback-calculation-when-terms-change.md",
-      "slug": "mobile-subsidy-clawback-calculation-when-terms-change",
-      "title": "휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나",
+      "file": "_drafts/2026-07-24-crowdfunding-reward-delivery-delay-refund-procedure.md",
+      "slug": "crowdfunding-reward-delivery-delay-refund-procedure",
+      "title": "크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차",
       "scores": {
-        "aiUsage": 41,
-        "experience": 23,
-        "specificity": 30,
+        "aiUsage": 34,
+        "experience": 31,
+        "specificity": 25,
         "verification": 100,
         "originality": 93
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "warn"
+        "publishDecision": "pass"
       },
       "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
@@ -38,11 +37,11 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-23-overseas-order-customs-assessment-change-refund.md",
-      "slug": "overseas-order-customs-assessment-change-refund",
-      "title": "해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법",
+      "file": "_drafts/2026-07-24-duty-free-purchase-cancel-refund-procedure.md",
+      "slug": "duty-free-purchase-cancel-refund-procedure",
+      "title": "공항 면세점 구매 후 출국 취소·연기 시 환불·반품 절차와 제한 품목 정리",
       "scores": {
-        "aiUsage": 43,
+        "aiUsage": 45,
         "experience": 15,
         "specificity": 25,
         "verification": 100,
@@ -62,22 +61,21 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-23-stock-option-exercise-tax-withholding-year-end.md",
-      "slug": "stock-option-exercise-tax-withholding-year-end",
-      "title": "스톡옵션 행사 세금: 연말정산과 원천징수 어떻게 처리되나",
+      "file": "_drafts/2026-07-24-employee-welfare-points-bankruptcy-priority-claim.md",
+      "slug": "employee-welfare-points-bankruptcy-priority-claim",
+      "title": "회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리",
       "scores": {
-        "aiUsage": 45,
-        "experience": 23,
+        "aiUsage": 39,
+        "experience": 47,
         "specificity": 25,
-        "verification": 78,
+        "verification": 100,
         "originality": 93
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "warn"
+        "publishDecision": "pass"
       },
       "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
@@ -86,14 +84,14 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-23-used-item-refund-seller-refusal-dispute-procedure.md",
-      "slug": "used-item-refund-seller-refusal-dispute-procedure",
-      "title": "중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리",
+      "file": "_drafts/2026-07-24-transit-pass-prorated-refund-remaining-period.md",
+      "slug": "transit-pass-prorated-refund-remaining-period",
+      "title": "대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나",
       "scores": {
-        "aiUsage": 43,
+        "aiUsage": 32,
         "experience": 31,
-        "specificity": 25,
-        "verification": 90,
+        "specificity": 33,
+        "verification": 100,
         "originality": 93
       },
       "risk": {
