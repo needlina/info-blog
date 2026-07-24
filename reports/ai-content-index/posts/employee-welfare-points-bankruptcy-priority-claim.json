@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-24-employee-welfare-points-bankruptcy-priority-claim.md",
+  "slug": "employee-welfare-points-bankruptcy-priority-claim",
+  "title": "회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리",
+  "analyzedAt": "2026-07-24T10:37:12.095Z",
+  "scores": {
+    "aiUsage": 39,
+    "experience": 47,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1270,
+    "sentenceCount": 91,
+    "headingCount": 4,
+    "codeBlockCount": 0,
+    "linkCount": 3,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 4,
+    "verificationSignalCount": 8,
+    "maxSimilarity": 0.067,
+    "maxHeadingSimilarity": 1,
+    "mostSimilarPost": "duty-free-purchase-cancel-refund-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

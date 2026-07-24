@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-24-health-insurance-dependent-declaration-requirements.md",
+  "slug": "health-insurance-dependent-declaration-requirements",
+  "title": "건강보험 피부양자 소득·재산 신고 기준 강화 시 제출서류와 제출시점 정리",
+  "analyzedAt": "2026-07-24T10:35:23.480Z",
+  "scores": {
+    "aiUsage": 31,
+    "experience": 47,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 88
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1148,
+    "sentenceCount": 56,
+    "headingCount": 13,
+    "codeBlockCount": 0,
+    "linkCount": 3,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 4,
+    "verificationSignalCount": 8,
+    "maxSimilarity": 0.12,
+    "maxHeadingSimilarity": 0.203,
+    "mostSimilarPost": "health-insurance-contribution-reform-local-subscriber-evidence"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

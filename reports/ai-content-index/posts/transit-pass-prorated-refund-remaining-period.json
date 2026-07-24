@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-24-transit-pass-prorated-refund-remaining-period.md",
+  "slug": "transit-pass-prorated-refund-remaining-period",
+  "title": "대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나",
+  "analyzedAt": "2026-07-24T10:37:12.121Z",
+  "scores": {
+    "aiUsage": 32,
+    "experience": 31,
+    "specificity": 33,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1040,
+    "sentenceCount": 78,
+    "headingCount": 16,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 1,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 9,
+    "maxSimilarity": 0.074,
+    "maxHeadingSimilarity": 0.137,
+    "mostSimilarPost": "hi-pass-double-payment-refund-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

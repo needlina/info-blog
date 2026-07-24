@@ -33,8 +33,8 @@
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 45 |
-| Experience | 23 |
+| AI Usage | 39 |
+| Experience | 47 |
 | Specificity | 25 |
 | Verification | 100 |
 | Originality | 91 |

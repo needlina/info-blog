@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-24-crowdfunding-reward-delivery-delay-refund-procedure.md",
+  "slug": "crowdfunding-reward-delivery-delay-refund-procedure",
+  "title": "크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차",
+  "analyzedAt": "2026-07-24T10:37:12.043Z",
+  "scores": {
+    "aiUsage": 34,
+    "experience": 31,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1088,
+    "sentenceCount": 61,
+    "headingCount": 17,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.067,
+    "maxHeadingSimilarity": 0.156,
+    "mostSimilarPost": "hi-pass-double-payment-refund-procedure"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

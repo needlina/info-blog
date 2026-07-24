@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-24-airport-baggage-regulation-change-claim-procedure.md",
+  "slug": "airport-baggage-regulation-change-claim-procedure",
+  "title": "공항 수하물 규정 변경 시 파손·분실 배상 청구 절차의 실제 차이",
+  "analyzedAt": "2026-07-24T10:35:23.462Z",
+  "scores": {
+    "aiUsage": 39,
+    "experience": 15,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 94
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1156,
+    "sentenceCount": 60,
+    "headingCount": 5,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 0,
+    "verificationSignalCount": 7,
+    "maxSimilarity": 0.064,
+    "maxHeadingSimilarity": 0.464,
+    "mostSimilarPost": "mobile-choice-discount-rule-change-existing-rights"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

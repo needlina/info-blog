@@ -63,18 +63,17 @@
       "slug": "subscription-shipment-after-cancel-return-refund-responsibility",
       "title": "온라인 정기구독 해지 후 이미 발송된 상품의 반품·환불 책임은 누구에게 있나?",
       "scores": {
-        "aiUsage": 45,
-        "experience": 23,
+        "aiUsage": 39,
+        "experience": 47,
         "specificity": 25,
         "verification": 100,
         "originality": 91
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "warn"
+        "publishDecision": "pass"
       },
       "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [

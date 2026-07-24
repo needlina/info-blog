@@ -39,7 +39,6 @@
 - Verification: 100
 - Originality: 91
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
 ### WARN 임대인이 수리에 응하지 않을 때, 임차인이 수리비를 청구할 수 있나요?
