@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-25-family-care-leave-vs-parental-leave-comparison.md",
+  "slug": "family-care-leave-vs-parental-leave-comparison",
+  "title": "가족돌봄휴가 vs 육아휴직: 신청 조건·급여·회사 승인 기준 한눈에 보기",
+  "analyzedAt": "2026-07-24T15:46:54.109Z",
+  "scores": {
+    "aiUsage": 34,
+    "experience": 23,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1019,
+    "sentenceCount": 83,
+    "headingCount": 4,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 7,
+    "maxSimilarity": 0.072,
+    "maxHeadingSimilarity": 0.147,
+    "mostSimilarPost": "voluntary-national-pension-eligibility-checklist"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

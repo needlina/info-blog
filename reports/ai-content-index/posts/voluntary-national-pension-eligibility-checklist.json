@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-25-voluntary-national-pension-eligibility-checklist.md",
+  "slug": "voluntary-national-pension-eligibility-checklist",
+  "title": "무직·프리랜서가 국민연금 임의가입 신청 전 확인할 체크리스트 Top 6",
+  "analyzedAt": "2026-07-24T15:46:54.148Z",
+  "scores": {
+    "aiUsage": 31,
+    "experience": 37,
+    "specificity": 33,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1357,
+    "sentenceCount": 82,
+    "headingCount": 26,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 1,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 6,
+    "maxSimilarity": 0.072,
+    "maxHeadingSimilarity": 0.113,
+    "mostSimilarPost": "family-care-leave-vs-parental-leave-comparison"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

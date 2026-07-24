@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-24T10:34:24.142Z",
+  "analyzedAt": "2026-07-24T15:46:54.156Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -8,89 +8,21 @@
   },
   "counts": {
     "pass": 2,
-    "warn": 2,
+    "warn": 1,
     "block": 0
   },
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-24-card-dcc-error-dispute-evidence.md",
-      "slug": "card-dcc-error-dispute-evidence",
-      "title": "DCC(원화결제) 오류 이의제기: 카드사에 제출할 증빙과 절차 완전정리",
+      "file": "_drafts/2026-07-25-family-care-leave-vs-parental-leave-comparison.md",
+      "slug": "family-care-leave-vs-parental-leave-comparison",
+      "title": "가족돌봄휴가 vs 육아휴직: 신청 조건·급여·회사 승인 기준 한눈에 보기",
       "scores": {
-        "aiUsage": 32,
-        "experience": 35,
-        "specificity": 61,
-        "verification": 100,
-        "originality": 92
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "pass"
-      },
-      "findings": [
-        "No major quality risks were detected by the rule-based checker."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-24-marketplace-escrow-cancel-seller-payment-refund.md",
-      "slug": "marketplace-escrow-cancel-seller-payment-refund",
-      "title": "온라인 마켓 에스크로 결제 취소 시 판매자에게 지급된 금액 환불 절차와 확인 포인트",
-      "scores": {
-        "aiUsage": 37,
-        "experience": 31,
-        "specificity": 15,
-        "verification": 100,
-        "originality": 91
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "pass"
-      },
-      "findings": [
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-24-subscription-shipment-after-cancel-return-refund-responsibility.md",
-      "slug": "subscription-shipment-after-cancel-return-refund-responsibility",
-      "title": "온라인 정기구독 해지 후 이미 발송된 상품의 반품·환불 책임은 누구에게 있나?",
-      "scores": {
-        "aiUsage": 39,
-        "experience": 47,
-        "specificity": 25,
-        "verification": 100,
-        "originality": 91
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "pass"
-      },
-      "findings": [
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-24-tenant-repair-self-pay-claim-procedure.md",
-      "slug": "tenant-repair-self-pay-claim-procedure",
-      "title": "임대인이 수리에 응하지 않을 때, 임차인이 수리비를 청구할 수 있나요?",
-      "scores": {
-        "aiUsage": 40,
+        "aiUsage": 34,
         "experience": 23,
         "specificity": 25,
         "verification": 100,
-        "originality": 94
+        "originality": 93
       },
       "risk": {
         "massProduction": "low",
@@ -98,6 +30,52 @@
       },
       "findings": [
         "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-25-home-energy-efficiency-subsidy-compare.md",
+      "slug": "home-energy-efficiency-subsidy-compare",
+      "title": "주택 단열·창호 교체 보조금: 종류별 신청 조건과 지자체별 확인처 한눈에",
+      "scores": {
+        "aiUsage": 31,
+        "experience": 37,
+        "specificity": 33,
+        "verification": 100,
+        "originality": 93
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-25-voluntary-national-pension-eligibility-checklist.md",
+      "slug": "voluntary-national-pension-eligibility-checklist",
+      "title": "무직·프리랜서가 국민연금 임의가입 신청 전 확인할 체크리스트 Top 6",
+      "scores": {
+        "aiUsage": 31,
+        "experience": 37,
+        "specificity": 33,
+        "verification": 100,
+        "originality": 93
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [

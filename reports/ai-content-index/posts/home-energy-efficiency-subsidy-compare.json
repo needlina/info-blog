@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-25-home-energy-efficiency-subsidy-compare.md",
+  "slug": "home-energy-efficiency-subsidy-compare",
+  "title": "주택 단열·창호 교체 보조금: 종류별 신청 조건과 지자체별 확인처 한눈에",
+  "analyzedAt": "2026-07-24T15:46:54.127Z",
+  "scores": {
+    "aiUsage": 31,
+    "experience": 37,
+    "specificity": 33,
+    "verification": 100,
+    "originality": 93
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1208,
+    "sentenceCount": 89,
+    "headingCount": 14,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 1,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 7,
+    "maxSimilarity": 0.071,
+    "maxHeadingSimilarity": 0.136,
+    "mostSimilarPost": "small-business-hiring-subsidy-retroactive-eligibility"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
