@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-24T10:35:23.544Z",
+  "analyzedAt": "2026-07-24T10:37:12.125Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -7,29 +7,28 @@
     "minExperience": 30
   },
   "counts": {
-    "pass": 1,
-    "warn": 3,
+    "pass": 3,
+    "warn": 1,
     "block": 0
   },
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-24-airport-baggage-regulation-change-claim-procedure.md",
-      "slug": "airport-baggage-regulation-change-claim-procedure",
-      "title": "공항 수하물 규정 변경 시 파손·분실 배상 청구 절차의 실제 차이",
+      "file": "_drafts/2026-07-24-crowdfunding-reward-delivery-delay-refund-procedure.md",
+      "slug": "crowdfunding-reward-delivery-delay-refund-procedure",
+      "title": "크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차",
       "scores": {
-        "aiUsage": 39,
-        "experience": 15,
+        "aiUsage": 34,
+        "experience": 31,
         "specificity": 25,
         "verification": 100,
         "originality": 94
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "warn"
+        "publishDecision": "pass"
       },
       "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
@@ -38,12 +37,12 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-24-health-insurance-dependent-declaration-requirements.md",
-      "slug": "health-insurance-dependent-declaration-requirements",
-      "title": "건강보험 피부양자 소득·재산 신고 기준 강화 시 제출서류와 제출시점 정리",
+      "file": "_drafts/2026-07-24-duty-free-purchase-cancel-refund-procedure.md",
+      "slug": "duty-free-purchase-cancel-refund-procedure",
+      "title": "공항 면세점 구매 후 출국 취소·연기 시 환불·반품 절차와 제한 품목 정리",
       "scores": {
-        "aiUsage": 31,
-        "experience": 47,
+        "aiUsage": 45,
+        "experience": 15,
         "specificity": 25,
         "verification": 100,
         "originality": 88
@@ -61,22 +60,21 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-24-mobile-choice-discount-rule-change-existing-rights.md",
-      "slug": "mobile-choice-discount-rule-change-existing-rights",
-      "title": "통신사 선택약정 개편 시 기존 약정자 환불·보상 가능성과 바로 확인할 방법",
+      "file": "_drafts/2026-07-24-employee-welfare-points-bankruptcy-priority-claim.md",
+      "slug": "employee-welfare-points-bankruptcy-priority-claim",
+      "title": "회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리",
       "scores": {
-        "aiUsage": 36,
-        "experience": 23,
+        "aiUsage": 39,
+        "experience": 47,
         "specificity": 25,
         "verification": 100,
-        "originality": 91
+        "originality": 93
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "warn"
+        "publishDecision": "pass"
       },
       "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
@@ -85,15 +83,15 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-24-tax-midyear-prepayment-change-refund-procedure.md",
-      "slug": "tax-midyear-prepayment-change-refund-procedure",
-      "title": "국세청 중간예납 기준 변경 시 이미 낸 세금 환급·정정 어떻게 하나",
+      "file": "_drafts/2026-07-24-transit-pass-prorated-refund-remaining-period.md",
+      "slug": "transit-pass-prorated-refund-remaining-period",
+      "title": "대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나",
       "scores": {
-        "aiUsage": 38,
-        "experience": 23,
-        "specificity": 25,
+        "aiUsage": 32,
+        "experience": 31,
+        "specificity": 33,
         "verification": 100,
-        "originality": 92
+        "originality": 93
       },
       "risk": {
         "massProduction": "low",

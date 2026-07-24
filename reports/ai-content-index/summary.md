@@ -2,55 +2,53 @@
 
 - Mode: report
 - Analyzed posts: 4
-- PASS: 1
-- WARN: 3
+- PASS: 3
+- WARN: 1
 - BLOCK: 0
 
 ## Posts
 
-### WARN 공항 수하물 규정 변경 시 파손·분실 배상 청구 절차의 실제 차이
+### PASS 크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차
 
-- File: `_drafts/2026-07-24-airport-baggage-regulation-change-claim-procedure.md`
-- AI Usage: 39
-- Experience: 15
+- File: `_drafts/2026-07-24-crowdfunding-reward-delivery-delay-refund-procedure.md`
+- AI Usage: 34
+- Experience: 31
 - Specificity: 25
 - Verification: 100
 - Originality: 94
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 건강보험 피부양자 소득·재산 신고 기준 강화 시 제출서류와 제출시점 정리
+### WARN 공항 면세점 구매 후 출국 취소·연기 시 환불·반품 절차와 제한 품목 정리
 
-- File: `_drafts/2026-07-24-health-insurance-dependent-declaration-requirements.md`
-- AI Usage: 31
-- Experience: 47
+- File: `_drafts/2026-07-24-duty-free-purchase-cancel-refund-procedure.md`
+- AI Usage: 45
+- Experience: 15
 - Specificity: 25
 - Verification: 100
 - Originality: 88
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### WARN 통신사 선택약정 개편 시 기존 약정자 환불·보상 가능성과 바로 확인할 방법
+### PASS 회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리
 
-- File: `_drafts/2026-07-24-mobile-choice-discount-rule-change-existing-rights.md`
-- AI Usage: 36
-- Experience: 23
+- File: `_drafts/2026-07-24-employee-welfare-points-bankruptcy-priority-claim.md`
+- AI Usage: 39
+- Experience: 47
 - Specificity: 25
 - Verification: 100
-- Originality: 91
+- Originality: 93
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### WARN 국세청 중간예납 기준 변경 시 이미 낸 세금 환급·정정 어떻게 하나
+### PASS 대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나
 
-- File: `_drafts/2026-07-24-tax-midyear-prepayment-change-refund-procedure.md`
-- AI Usage: 38
-- Experience: 23
-- Specificity: 25
+- File: `_drafts/2026-07-24-transit-pass-prorated-refund-remaining-period.md`
+- AI Usage: 32
+- Experience: 31
+- Specificity: 33
 - Verification: 100
-- Originality: 92
+- Originality: 93
 
 - Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
