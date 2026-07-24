@@ -12,7 +12,7 @@
 | Experience | 31 |
 | Specificity | 25 |
 | Verification | 100 |
-| Originality | 93 |
+| Originality | 94 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
@@ -25,7 +25,7 @@
 | Experience | 15 |
 | Specificity | 25 |
 | Verification | 100 |
-| Originality | 93 |
+| Originality | 88 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.

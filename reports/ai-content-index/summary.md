@@ -15,7 +15,7 @@
 - Experience: 31
 - Specificity: 25
 - Verification: 100
-- Originality: 93
+- Originality: 94
 
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
@@ -26,9 +26,8 @@
 - Experience: 15
 - Specificity: 25
 - Verification: 100
-- Originality: 93
+- Originality: 88
 
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
 ### PASS 회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리
@@ -51,5 +50,6 @@
 - Verification: 100
 - Originality: 93
 
+- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 

@@ -22,7 +22,7 @@
         "experience": 31,
         "specificity": 25,
         "verification": 100,
-        "originality": 93
+        "originality": 94
       },
       "risk": {
         "massProduction": "low",
@@ -45,14 +45,13 @@
         "experience": 15,
         "specificity": 25,
         "verification": 100,
-        "originality": 93
+        "originality": 88
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "warn"
+        "publishDecision": "pass"
       },
       "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
@@ -96,9 +95,10 @@
       },
       "risk": {
         "massProduction": "low",
-        "publishDecision": "pass"
+        "publishDecision": "warn"
       },
       "findings": [
+        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [

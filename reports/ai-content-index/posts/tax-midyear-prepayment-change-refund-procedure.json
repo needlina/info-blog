@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-24-tax-midyear-prepayment-change-refund-procedure.md",
+  "slug": "tax-midyear-prepayment-change-refund-procedure",
+  "title": "국세청 중간예납 기준 변경 시 이미 낸 세금 환급·정정 어떻게 하나",
+  "analyzedAt": "2026-07-24T10:35:23.534Z",
+  "scores": {
+    "aiUsage": 38,
+    "experience": 23,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1116,
+    "sentenceCount": 74,
+    "headingCount": 3,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 6,
+    "maxSimilarity": 0.081,
+    "maxHeadingSimilarity": 0.464,
+    "mostSimilarPost": "irp-personal-pension-tax-credit-limit-change-handling"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
