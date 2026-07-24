@@ -8,50 +8,50 @@
 
 ## Posts
 
-### WARN 휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나
+### WARN 공항 수하물 규정 변경 시 파손·분실 배상 청구 절차의 실제 차이
 
-- File: `_drafts/2026-07-23-mobile-subsidy-clawback-calculation-when-terms-change.md`
-- AI Usage: 41
-- Experience: 23
-- Specificity: 30
-- Verification: 100
-- Originality: 93
-
-- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
-- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
-
-### WARN 해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법
-
-- File: `_drafts/2026-07-23-overseas-order-customs-assessment-change-refund.md`
-- AI Usage: 43
+- File: `_drafts/2026-07-24-airport-baggage-regulation-change-claim-procedure.md`
+- AI Usage: 39
 - Experience: 15
 - Specificity: 25
 - Verification: 100
-- Originality: 93
+- Originality: 94
 
 - Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### WARN 스톡옵션 행사 세금: 연말정산과 원천징수 어떻게 처리되나
+### PASS 건강보험 피부양자 소득·재산 신고 기준 강화 시 제출서류와 제출시점 정리
 
-- File: `_drafts/2026-07-23-stock-option-exercise-tax-withholding-year-end.md`
-- AI Usage: 45
+- File: `_drafts/2026-07-24-health-insurance-dependent-declaration-requirements.md`
+- AI Usage: 31
+- Experience: 47
+- Specificity: 25
+- Verification: 100
+- Originality: 88
+
+- Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
+
+### WARN 통신사 선택약정 개편 시 기존 약정자 환불·보상 가능성과 바로 확인할 방법
+
+- File: `_drafts/2026-07-24-mobile-choice-discount-rule-change-existing-rights.md`
+- AI Usage: 36
 - Experience: 23
 - Specificity: 25
-- Verification: 78
-- Originality: 93
+- Verification: 100
+- Originality: 91
 
 - Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 
-### PASS 중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리
+### WARN 국세청 중간예납 기준 변경 시 이미 낸 세금 환급·정정 어떻게 하나
 
-- File: `_drafts/2026-07-23-used-item-refund-seller-refusal-dispute-procedure.md`
-- AI Usage: 43
-- Experience: 31
+- File: `_drafts/2026-07-24-tax-midyear-prepayment-change-refund-procedure.md`
+- AI Usage: 38
+- Experience: 23
 - Specificity: 25
-- Verification: 90
-- Originality: 93
+- Verification: 100
+- Originality: 92
 
+- Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.
 - Specific details are limited: add versions, commands, file paths, numbers, or concrete examples.
 

@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-24-mobile-choice-discount-rule-change-existing-rights.md",
+  "slug": "mobile-choice-discount-rule-change-existing-rights",
+  "title": "통신사 선택약정 개편 시 기존 약정자 환불·보상 가능성과 바로 확인할 방법",
+  "analyzedAt": "2026-07-24T10:35:23.502Z",
+  "scores": {
+    "aiUsage": 36,
+    "experience": 23,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 91
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1138,
+    "sentenceCount": 67,
+    "headingCount": 16,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 5,
+    "maxSimilarity": 0.091,
+    "maxHeadingSimilarity": 0.185,
+    "mostSimilarPost": "mobile-plan-price-increase-rights-cancellation"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

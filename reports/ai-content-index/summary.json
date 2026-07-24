@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-23T15:00:13.289Z",
+  "analyzedAt": "2026-07-24T10:35:23.544Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -14,39 +14,15 @@
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-23-mobile-subsidy-clawback-calculation-when-terms-change.md",
-      "slug": "mobile-subsidy-clawback-calculation-when-terms-change",
-      "title": "휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나",
+      "file": "_drafts/2026-07-24-airport-baggage-regulation-change-claim-procedure.md",
+      "slug": "airport-baggage-regulation-change-claim-procedure",
+      "title": "공항 수하물 규정 변경 시 파손·분실 배상 청구 절차의 실제 차이",
       "scores": {
-        "aiUsage": 41,
-        "experience": 23,
-        "specificity": 30,
-        "verification": 100,
-        "originality": 93
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "warn"
-      },
-      "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-23-overseas-order-customs-assessment-change-refund.md",
-      "slug": "overseas-order-customs-assessment-change-refund",
-      "title": "해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법",
-      "scores": {
-        "aiUsage": 43,
+        "aiUsage": 39,
         "experience": 15,
         "specificity": 25,
         "verification": 100,
-        "originality": 93
+        "originality": 94
       },
       "risk": {
         "massProduction": "low",
@@ -62,45 +38,69 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-23-stock-option-exercise-tax-withholding-year-end.md",
-      "slug": "stock-option-exercise-tax-withholding-year-end",
-      "title": "스톡옵션 행사 세금: 연말정산과 원천징수 어떻게 처리되나",
+      "file": "_drafts/2026-07-24-health-insurance-dependent-declaration-requirements.md",
+      "slug": "health-insurance-dependent-declaration-requirements",
+      "title": "건강보험 피부양자 소득·재산 신고 기준 강화 시 제출서류와 제출시점 정리",
       "scores": {
-        "aiUsage": 45,
-        "experience": 23,
+        "aiUsage": 31,
+        "experience": 47,
         "specificity": 25,
-        "verification": 78,
-        "originality": 93
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "warn"
-      },
-      "findings": [
-        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-23-used-item-refund-seller-refusal-dispute-procedure.md",
-      "slug": "used-item-refund-seller-refusal-dispute-procedure",
-      "title": "중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리",
-      "scores": {
-        "aiUsage": 43,
-        "experience": 31,
-        "specificity": 25,
-        "verification": 90,
-        "originality": 93
+        "verification": 100,
+        "originality": 88
       },
       "risk": {
         "massProduction": "low",
         "publishDecision": "pass"
       },
       "findings": [
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-24-mobile-choice-discount-rule-change-existing-rights.md",
+      "slug": "mobile-choice-discount-rule-change-existing-rights",
+      "title": "통신사 선택약정 개편 시 기존 약정자 환불·보상 가능성과 바로 확인할 방법",
+      "scores": {
+        "aiUsage": 36,
+        "experience": 23,
+        "specificity": 25,
+        "verification": 100,
+        "originality": 91
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "warn"
+      },
+      "findings": [
+        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-24-tax-midyear-prepayment-change-refund-procedure.md",
+      "slug": "tax-midyear-prepayment-change-refund-procedure",
+      "title": "국세청 중간예납 기준 변경 시 이미 낸 세금 환급·정정 어떻게 하나",
+      "scores": {
+        "aiUsage": 38,
+        "experience": 23,
+        "specificity": 25,
+        "verification": 100,
+        "originality": 92
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "warn"
+      },
+      "findings": [
+        "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
         "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
       ],
       "recommendations": [
