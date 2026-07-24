@@ -1,36 +1,35 @@
 ### AI Content Index
 
 - Mode: `report`
-- Result: pass=3, warn=1, block=0
+- Result: pass=2, warn=2, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### PASS 크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차
+#### PASS DCC(원화결제) 오류 이의제기: 카드사에 제출할 증빙과 절차 완전정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 34 |
+| AI Usage | 32 |
+| Experience | 35 |
+| Specificity | 61 |
+| Verification | 100 |
+| Originality | 92 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+
+#### PASS 온라인 마켓 에스크로 결제 취소 시 판매자에게 지급된 금액 환불 절차와 확인 포인트
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 37 |
 | Experience | 31 |
-| Specificity | 25 |
+| Specificity | 15 |
 | Verification | 100 |
-| Originality | 94 |
+| Originality | 91 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### WARN 공항 면세점 구매 후 출국 취소·연기 시 환불·반품 절차와 제한 품목 정리
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 45 |
-| Experience | 15 |
-| Specificity | 25 |
-| Verification | 100 |
-| Originality | 88 |
-
-- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-
-#### PASS 회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리
+#### WARN 온라인 정기구독 해지 후 이미 발송된 상품의 반품·환불 책임은 누구에게 있나?
 
 | Score | Value |
 | --- | ---: |
@@ -38,20 +37,20 @@
 | Experience | 47 |
 | Specificity | 25 |
 | Verification | 100 |
-| Originality | 93 |
+| Originality | 91 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나
+#### WARN 임대인이 수리에 응하지 않을 때, 임차인이 수리비를 청구할 수 있나요?
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 32 |
-| Experience | 31 |
-| Specificity | 33 |
+| AI Usage | 40 |
+| Experience | 23 |
+| Specificity | 25 |
 | Verification | 100 |
-| Originality | 93 |
+| Originality | 94 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.

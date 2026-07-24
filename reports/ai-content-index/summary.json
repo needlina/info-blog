@@ -1,5 +1,5 @@
 {
-  "analyzedAt": "2026-07-24T10:37:12.125Z",
+  "analyzedAt": "2026-07-24T10:34:24.142Z",
   "mode": "report",
   "thresholds": {
     "warn": 61,
@@ -7,22 +7,44 @@
     "minExperience": 30
   },
   "counts": {
-    "pass": 3,
-    "warn": 1,
+    "pass": 2,
+    "warn": 2,
     "block": 0
   },
   "errors": [],
   "posts": [
     {
-      "file": "_drafts/2026-07-24-crowdfunding-reward-delivery-delay-refund-procedure.md",
-      "slug": "crowdfunding-reward-delivery-delay-refund-procedure",
-      "title": "크라우드펀딩 리워드 배송 지연·미배송 시 환불 우선순위와 소비자분쟁 절차",
+      "file": "_drafts/2026-07-24-card-dcc-error-dispute-evidence.md",
+      "slug": "card-dcc-error-dispute-evidence",
+      "title": "DCC(원화결제) 오류 이의제기: 카드사에 제출할 증빙과 절차 완전정리",
       "scores": {
-        "aiUsage": 34,
+        "aiUsage": 32,
+        "experience": 35,
+        "specificity": 61,
+        "verification": 100,
+        "originality": 92
+      },
+      "risk": {
+        "massProduction": "low",
+        "publishDecision": "pass"
+      },
+      "findings": [
+        "No major quality risks were detected by the rule-based checker."
+      ],
+      "recommendations": [
+        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it."
+      ]
+    },
+    {
+      "file": "_drafts/2026-07-24-marketplace-escrow-cancel-seller-payment-refund.md",
+      "slug": "marketplace-escrow-cancel-seller-payment-refund",
+      "title": "온라인 마켓 에스크로 결제 취소 시 판매자에게 지급된 금액 환불 절차와 확인 포인트",
+      "scores": {
+        "aiUsage": 37,
         "experience": 31,
-        "specificity": 25,
+        "specificity": 15,
         "verification": 100,
-        "originality": 94
+        "originality": 91
       },
       "risk": {
         "massProduction": "low",
@@ -37,38 +59,15 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-24-duty-free-purchase-cancel-refund-procedure.md",
-      "slug": "duty-free-purchase-cancel-refund-procedure",
-      "title": "공항 면세점 구매 후 출국 취소·연기 시 환불·반품 절차와 제한 품목 정리",
-      "scores": {
-        "aiUsage": 45,
-        "experience": 15,
-        "specificity": 25,
-        "verification": 100,
-        "originality": 88
-      },
-      "risk": {
-        "massProduction": "low",
-        "publishDecision": "pass"
-      },
-      "findings": [
-        "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
-      ],
-      "recommendations": [
-        "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
-        "Include concrete versions, commands, file names, dates, amounts, or before/after results."
-      ]
-    },
-    {
-      "file": "_drafts/2026-07-24-employee-welfare-points-bankruptcy-priority-claim.md",
-      "slug": "employee-welfare-points-bankruptcy-priority-claim",
-      "title": "회사 폐업·파산 시 복지포인트·상품권은 어떻게 처리되나 — 우선변제권 정리",
+      "file": "_drafts/2026-07-24-subscription-shipment-after-cancel-return-refund-responsibility.md",
+      "slug": "subscription-shipment-after-cancel-return-refund-responsibility",
+      "title": "온라인 정기구독 해지 후 이미 발송된 상품의 반품·환불 책임은 누구에게 있나?",
       "scores": {
         "aiUsage": 39,
         "experience": 47,
         "specificity": 25,
         "verification": 100,
-        "originality": 93
+        "originality": 91
       },
       "risk": {
         "massProduction": "low",
@@ -83,15 +82,15 @@
       ]
     },
     {
-      "file": "_drafts/2026-07-24-transit-pass-prorated-refund-remaining-period.md",
-      "slug": "transit-pass-prorated-refund-remaining-period",
-      "title": "대중교통 정기권 중도 환불액 계산법: 남은 기간은 어떻게 정해지나",
+      "file": "_drafts/2026-07-24-tenant-repair-self-pay-claim-procedure.md",
+      "slug": "tenant-repair-self-pay-claim-procedure",
+      "title": "임대인이 수리에 응하지 않을 때, 임차인이 수리비를 청구할 수 있나요?",
       "scores": {
-        "aiUsage": 32,
-        "experience": 31,
-        "specificity": 33,
+        "aiUsage": 40,
+        "experience": 23,
+        "specificity": 25,
         "verification": 100,
-        "originality": 93
+        "originality": 94
       },
       "risk": {
         "massProduction": "low",

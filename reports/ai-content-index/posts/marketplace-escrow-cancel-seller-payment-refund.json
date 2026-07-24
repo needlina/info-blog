@@ -1,0 +1,42 @@
+{
+  "file": "_drafts/2026-07-24-marketplace-escrow-cancel-seller-payment-refund.md",
+  "slug": "marketplace-escrow-cancel-seller-payment-refund",
+  "title": "온라인 마켓 에스크로 결제 취소 시 판매자에게 지급된 금액 환불 절차와 확인 포인트",
+  "analyzedAt": "2026-07-24T10:34:24.106Z",
+  "scores": {
+    "aiUsage": 37,
+    "experience": 31,
+    "specificity": 15,
+    "verification": 100,
+    "originality": 91
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1289,
+    "sentenceCount": 77,
+    "headingCount": 18,
+    "codeBlockCount": 0,
+    "linkCount": 3,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 3,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 1,
+    "experienceSignalCount": 2,
+    "verificationSignalCount": 8,
+    "maxSimilarity": 0.088,
+    "maxHeadingSimilarity": 0.191,
+    "mostSimilarPost": "subscription-shipment-after-cancel-return-refund-responsibility"
+  },
+  "findings": [
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}
