@@ -1,0 +1,43 @@
+{
+  "file": "_drafts/2026-07-24-tenant-repair-self-pay-claim-procedure.md",
+  "slug": "tenant-repair-self-pay-claim-procedure",
+  "title": "임대인이 수리에 응하지 않을 때, 임차인이 수리비를 청구할 수 있나요?",
+  "analyzedAt": "2026-07-24T10:34:24.139Z",
+  "scores": {
+    "aiUsage": 40,
+    "experience": 23,
+    "specificity": 25,
+    "verification": 100,
+    "originality": 94
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "warn"
+  },
+  "metrics": {
+    "wordCount": 1170,
+    "sentenceCount": 65,
+    "headingCount": 4,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 5,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 0,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 7,
+    "maxSimilarity": 0.059,
+    "maxHeadingSimilarity": 0.684,
+    "mostSimilarPost": "mobile-plan-price-increase-rights-cancellation"
+  },
+  "findings": [
+    "Experience evidence is thin: add real environment, trial-and-error, logs, or measured results.",
+    "Specific details are limited: add versions, commands, file paths, numbers, or concrete examples."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.",
+    "Include concrete versions, commands, file names, dates, amounts, or before/after results."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "file": "_drafts/2026-07-24-card-dcc-error-dispute-evidence.md",
+  "slug": "card-dcc-error-dispute-evidence",
+  "title": "DCC(원화결제) 오류 이의제기: 카드사에 제출할 증빙과 절차 완전정리",
+  "analyzedAt": "2026-07-24T10:34:24.089Z",
+  "scores": {
+    "aiUsage": 32,
+    "experience": 35,
+    "specificity": 61,
+    "verification": 100,
+    "originality": 92
+  },
+  "risk": {
+    "massProduction": "low",
+    "publishDecision": "pass"
+  },
+  "metrics": {
+    "wordCount": 1202,
+    "sentenceCount": 70,
+    "headingCount": 3,
+    "codeBlockCount": 0,
+    "linkCount": 5,
+    "versionMentionCount": 0,
+    "filePathMentionCount": 9,
+    "commandCount": 0,
+    "numberWithUnitCount": 0,
+    "errorMessageCount": 2,
+    "genericPhraseCount": 0,
+    "experienceSignalCount": 1,
+    "verificationSignalCount": 7,
+    "maxSimilarity": 0.079,
+    "maxHeadingSimilarity": 0.867,
+    "mostSimilarPost": "subscription-shipment-after-cancel-return-refund-responsibility"
+  },
+  "findings": [
+    "No major quality risks were detected by the rule-based checker."
+  ],
+  "recommendations": [
+    "Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it."
+  ]
+}
