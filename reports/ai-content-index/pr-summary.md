@@ -4,54 +4,54 @@
 - Result: pass=1, warn=3, block=0
 - Full report: `reports/ai-content-index/summary.md`
 
-#### WARN 휴대폰 공시지원금·할인 반환금 계산법: 번호이동·해지 시 환불 어떻게 되나
+#### WARN 공항 수하물 규정 변경 시 파손·분실 배상 청구 절차의 실제 차이
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 41 |
-| Experience | 23 |
-| Specificity | 30 |
-| Verification | 100 |
-| Originality | 93 |
-
-- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
-- Include concrete versions, commands, file names, dates, amounts, or before/after results.
-
-#### WARN 해외직구 과세기준 변경 후 이미 낸 관세·부가세 환급받는 방법
-
-| Score | Value |
-| --- | ---: |
-| AI Usage | 43 |
+| AI Usage | 39 |
 | Experience | 15 |
 | Specificity | 25 |
 | Verification | 100 |
-| Originality | 93 |
+| Originality | 94 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### WARN 스톡옵션 행사 세금: 연말정산과 원천징수 어떻게 처리되나
+#### PASS 건강보험 피부양자 소득·재산 신고 기준 강화 시 제출서류와 제출시점 정리
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 45 |
+| AI Usage | 31 |
+| Experience | 47 |
+| Specificity | 25 |
+| Verification | 100 |
+| Originality | 88 |
+
+- Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
+- Include concrete versions, commands, file names, dates, amounts, or before/after results.
+
+#### WARN 통신사 선택약정 개편 시 기존 약정자 환불·보상 가능성과 바로 확인할 방법
+
+| Score | Value |
+| --- | ---: |
+| AI Usage | 36 |
 | Experience | 23 |
 | Specificity | 25 |
-| Verification | 78 |
-| Originality | 93 |
+| Verification | 100 |
+| Originality | 91 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
 
-#### PASS 중고거래 결제 취소 후 판매자 환불 거부 시 소비자분쟁조정 신청 절차 정리
+#### WARN 국세청 중간예납 기준 변경 시 이미 낸 세금 환급·정정 어떻게 하나
 
 | Score | Value |
 | --- | ---: |
-| AI Usage | 43 |
-| Experience | 31 |
+| AI Usage | 38 |
+| Experience | 23 |
 | Specificity | 25 |
-| Verification | 90 |
-| Originality | 93 |
+| Verification | 100 |
+| Originality | 92 |
 
 - Add a short first-person review section with the actual environment, what failed first, and what changed after fixing it.
 - Include concrete versions, commands, file names, dates, amounts, or before/after results.
