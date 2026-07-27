@@ -53,9 +53,6 @@ image:
 
 이미지: 플랫폼과 가맹점 간 정산 흐름 개념도
 ![간단한 배달 플랫폼-가맹점-소비자 정산 흐름 일러스트](/assets/img/posts/blog/delivery-app-termination-coupon-prepayment-settlement-responsibility/image-1.webp)
-이미지 출처: AI 생성 이미지
-
-이미지 출처: AI 생성 이미지
 
 실제 분쟁 사례에서 자주 나온 문구와 대응법
 - 플랫폼: "약관상 프로모션은 플랫폼 부담" → 대응: 관련 약관 조항 캡처·타임스탬프 확보
@@ -64,9 +61,6 @@ image:
 
 이미지: 준비서류 샘플(정산요청서·거래내역) 개념 일러스트
 ![정산 요청서와 거래내역을 정리한 문서 일러스트](/assets/img/posts/blog/delivery-app-termination-coupon-prepayment-settlement-responsibility/image-2.webp)
-이미지 출처: AI 생성 이미지
-
-이미지 출처: AI 생성 이미지
 
 자주 발생하는 착오
 - 플랫폼 고객센터의 구두 안내만 믿고 정산서류를 제출하지 않는 경우.

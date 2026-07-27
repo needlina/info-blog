@@ -70,8 +70,6 @@ image:
 이미지: 공동명의 계약서와 계산기 일러스트
 /ass ets/img/posts/blog/joint-ownership-capital-gains-tax-declaration/image-1.webp
 
-이미지 출처: AI 생성 이미지
-
 주의할 점 (세무상 리스크와 예외)
 - **증빙 부족 시 등기 지분 기준으로 환산**될 가능성이 높다. 특히 가족 간의 내부 정산은 세무서에서 엄격히 검토합니다.  
 - 부부 공동명의의 경우 실제 배우자간의 지원·가사분담 등은 세법상 실질 판단 대상이 되므로 신중해야 합니다.  
@@ -80,8 +78,6 @@ image:
 
 이미지: 자금 흐름 증빙을 정리하는 손 그림
 /ass ets/img/posts/blog/joint-ownership-capital-gains-tax-declaration/image-2.webp
-
-이미지 출처: AI 생성 이미지
 
 어디에 다시 확인해야 하나(공식 경로)
 - 국세청 홈택스: 신고/납부 > 양도소득세 신고(전자신고) 메뉴 및 '양도소득세 신고 도움말' 문서  

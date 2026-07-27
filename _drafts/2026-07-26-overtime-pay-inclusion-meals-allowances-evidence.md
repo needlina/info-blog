@@ -91,7 +91,6 @@ image:
 
 이미지 예시(문맥상)
 ![급여명세서와 증빙서류를 정리하는 책상 위 일러스트](/assets/img/posts/blog/overtime-pay-inclusion-meals-allowances-evidence/image-1.webp)
-이미지 출처: AI 생성 이미지
 
 Q&A(자주 묻는 질문)
 - Q: 식대를 '식대수당'이라 표기하면 자동으로 통상임금 포함되나요?
@@ -107,7 +106,6 @@ Q&A(자주 묻는 질문)
 
 이미지 예시(계산 또는 서류 정리 컨셉)
 ![노동청 제출용 문서를 폴더에 정리하는 일러스트](/assets/img/posts/blog/overtime-pay-inclusion-meals-allowances-evidence/image-2.webp)
-이미지 출처: AI 생성 이미지
 
 나의 의견 1
 - 이 칸에 본인이 실제로 확인한 '근로계약서의 식대 규정 문구'를 그대로 적어보세요(예: "매월 1일 식대 100,000원 지급" 등). 어떤 항목에서 회사 설명과 문서가 달랐는지도 적어보시면 좋습니다.
