@@ -12,7 +12,7 @@ image:
   path: /assets/img/posts/blog/business-registration-amendment-tax-insurance-impact/preview.png
   alt: "사업자등록 정정 시 꼭 확인할 것 썸네일"
 ---
-확인한 바로는, 실제 영향은 신고 대상(국세·지방·사회보험)과 변경 사유(단순 주소 이동 vs 업종 전환)에 따라 달라집니다. 본문에서 단계별로 정리해 드릴게요. 중요한 부분은 별도로 강조했고, 공식 확인처도 안내합니다.
+실제 영향은 신고 대상(국세·지방·사회보험)과 변경 사유(단순 주소 이동 vs 업종 전환)에 따라 달라집니다. 본문에서 단계별로 정리해 드릴게요. 중요한 부분은 별도로 강조했고, 공식 확인처도 안내합니다.
 
 ![사업장 주소와 세무·보험 정보 변경을 나타내는 개념 일러스트](/assets/img/posts/blog/business-registration-amendment-tax-insurance-impact/image-1.webp)
 
